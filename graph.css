@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+h1, p {
+  font-family: 'Roboto', sans-serif;
+}
+
 .music-analysis-graph-container {
   display: flex;
   flex-direction: row;
@@ -16,7 +20,6 @@
 .music-analysis-x-axis {
   font-family: 'Roboto', sans-serif;
   font-size: 10px;
-  /*transform: rotate(45deg);*/
 }
 
 .music-analysis-graph-legend {
