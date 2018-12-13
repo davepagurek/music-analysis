@@ -29,7 +29,14 @@ function graph(dataset, options, container) {
       {},
       artist,
       {data: artist.data.map((x, i) => x / playTotals[i])}));
+
+    playTotals.forEach((_, i) => playTotals[i] = 1);
   }
+
+  let max = 0;
+  playTotals.forEach(v => {
+    max = Math.max(max, v);
+  });
 
   const accumulatedTotals = dataset[0].data.map(() => 0);
 
@@ -38,7 +45,7 @@ function graph(dataset, options, container) {
   const graphWidth = options.width - scaleSize;
 
   const getX = (i, data) => Math.round(i / (data.length - 1) * graphWidth);
-  const getY = (i, data, accum) => Math.round((1 - accumulatedTotals[i] - accum * data[i]) * graphHeight);
+  const getY = (i, data, accum) => Math.round((max - accumulatedTotals[i] - accum * data[i]) / max * graphHeight);
 
   const legendEntries = [];
   dataToGraph.forEach((artist, i) => {
@@ -134,4 +141,16 @@ function makeTop25() {
   graph(top25, options, document.getElementById('top25'));
 }
 
+function makeNext25() {
+  const next25 = window.data.slice(25, 50);
+  const options = {
+    normalize: false,
+    width: 900,
+    height: 500,
+    date: new Date(2017, 7, 1)
+  };
+  graph(next25, options, document.getElementById('next25'));
+}
+
 makeTop25();
+makeNext25();
