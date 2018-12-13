@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.music-analysis-graph-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.music-analysis-graph-area {
+  transition: fill ease 0.3s;
+  stroke: #FFF;
+}
+.music-analysis-graph-area.selected {
+  fill: #000 !important;
+}
+
+.music-analysis-x-axis {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  /*transform: rotate(45deg);*/
+}
+
+.music-analysis-graph-legend {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.music-analysis-graph-legend-entry {
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+  font-size: 12px;
+  margin-left: 20px;
+  transition: color ease 0.3s;
+}
+
+.music-analysis-graph-legend-entry.selected {
+  color: #000 !important;
+}
+
+.music-analysis-swatch {
+  transition: background-color ease 0.3s;
+  display: inline-block;
+  vertical-align: middle;
+  height: 10px;
+  width: 40px;
+  margin-right: 10px;
+}
+
+.music-analysis-graph-legend-entry.selected .music-analysis-swatch {
+  background-color: #000 !important;
+}
