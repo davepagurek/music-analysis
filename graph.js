@@ -1,11 +1,44 @@
 const ns = 'http://www.w3.org/2000/svg';
 
+window.data.forEach(artist => {
+  const total = artist.data.reduce((accum, next) => accum + next);
+  const avg = total / artist.data.length;
+  const variance = artist.data.reduce((accum, next) => accum + Math.pow(next - avg, 2));
+  artist.variance = variance;
+  artist.avg = avg;
+  artist.total = total;
+});
+
 const colors = [];
 for (let i = 0; i < 25; i++) {
   const degree = (i / 25 * 180 + 200) % 360;
   const saturation = 90;
   const brightness = 60;
   colors.push(`hsl(${degree}, ${saturation}%, ${brightness}%)`)
+}
+
+const events = {
+  'Arcade Fire': {
+    '08/17': 'Listened to <em>Everything Now</em> after its release'
+  },
+  'LCD Soundsystem': {
+    '09/17': 'Listened to <em>American Dream</em> after its release'
+  },
+  'Talking Heads': {
+    '12/17': 'Discovered Talking Heads after looking up LCD Soundsystem\'s influences'
+  },
+  'Laura Marling': {
+    '06/18': 'Listened to Laura Marling\'s entire discography while working on my computer graphics final project'
+  },
+  'Taylor Swift': {
+    '05/18': 'I turned 22 and remember the song <em>22</em> exists'
+  },
+  'Mitski': {
+    '09/18': 'Listened to <em>Be the Cowboy</em> after its release'
+  },
+  'Superorganism': {
+    '06/18': 'Clicked a YouTube recommendation for a Superorganism NPR Tiny Desk concert and got super into it'
+  }
 }
 
 function graph(dataset, options, container) {
@@ -143,6 +176,7 @@ function makeTop25() {
 
 function makeNext25() {
   const next25 = window.data.slice(25, 50);
+  next25.sort((a, b) => a.variance/a.total/a.total - b.variance/b.total/b.total);
   const options = {
     normalize: false,
     width: 900,
@@ -152,5 +186,54 @@ function makeNext25() {
   graph(next25, options, document.getElementById('next25'));
 }
 
+function makeGenres() {
+  const genreContainer = document.getElementById('genres');
+  const genrePlays = {};
+  const genres = [
+    'jazz', 'hip hop', 'classical', 'art pop', 'indie pop', 'electropop', 'folk', 'dance',
+    'punk', 'new wave', 'downtempo', 'alternative rock', 'indie rock', 'pop rock',
+    'metal', 'psychedelic', 'techno', 'disco'
+  ];
+  const classical = ['Symphony', 'Philharmonic', 'Beethoven', 'Mozart', 'Debussy', 'Symphony', 'Orchestra'];
+  genres.forEach(genre => genrePlays[genre] = { label: genre, plays: 0, data: [] });
+
+  window.data.forEach(artist => {
+    const genresForArtist = window.genres[artist.label] || [];
+
+    const plays = artist.data.reduce((accum, next) => accum + next);
+    genres.forEach(genre => {
+      if ((genre !== classical && genresForArtist.some((g => g.indexOf(genre) > -1))) ||
+           genre === 'classical' && classical.some(n => artist.label.indexOf(n) > -1)) {
+        genrePlays[genre].plays += plays;
+        artist.data.forEach((v, i) => {
+          genrePlays[genre].data[i] = genrePlays[genre].data[i] || 0;
+          genrePlays[genre].data[i] += v;
+        })
+      }
+    });
+  });
+
+  const options = {
+    normalize: true,
+    width: 900,
+    height: 500,
+    date: new Date(2017, 7, 1)
+  };
+  const genresOverTime = Object.values(genrePlays).sort((a, b) => b.plays - a.plays);
+  graph(genresOverTime, options, genreContainer);
+
+  /*genres
+    .filter(genre => genrePlays[genre] >= 10)
+    .sort((a, b) => genrePlays[b] - genrePlays[a])
+    .forEach(genre => {
+      const genreElement = document.createElement('p');
+      genreElement.innerText = `${genre}: ${genrePlays[genre]}`;
+      genreContainer.appendChild(genreElement);
+    });*/
+}
+
 makeTop25();
 makeNext25();
+makeGenres();
+
+console.log(window.data.length);
