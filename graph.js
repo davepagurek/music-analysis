@@ -54,7 +54,7 @@ const events = {
     '4': 'I discovered Talking Heads after looking up LCD Soundsystem\'s influences.'
   },
   'Laura Marling': {
-    '10': 'I listened to Laura Marling\'s entire discography while working on my computer graphics final project.'
+    '10': 'I listened to Laura Marling\'s entire discography a few times while working on my computer graphics final project.'
   },
   'Taylor Swift': {
     '9': 'I turned 22 and remembered that the song <em>22</em> exists, and then kept listening to more Taylor Swift.'
