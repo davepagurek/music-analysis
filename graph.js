@@ -210,7 +210,7 @@ function graph(dataset, options, container, eventContainer) {
   })
 
   eventsToShow
-    .sort((a, b) => (a.x*options.height+a.y) - (b.x*options.height+b.x))
+    .sort((a, b) => ((a.x)*options.height+a.y) - (b.x*options.height+b.y))
     .forEach((e, i) => {
       const label = document.createElementNS(ns, 'text');
       label.textContent = i+1;
@@ -337,14 +337,14 @@ function makeCoop() {
     return { label: artist.label, playsOnCoop, playsAtSchool };
   });
 
-  const coopColumn = artistPlays.sort((a, b) => b.playsOnCoop - a.playsOnCoop).slice(0,20);
-  const schoolColumn = artistPlays.sort((a, b) => b.playsAtSchool - a.playsAtSchool).slice(0,20);
+  const coopColumn = artistPlays.sort((a, b) => b.playsOnCoop - a.playsOnCoop).slice(0,15);
+  const schoolColumn = artistPlays.sort((a, b) => b.playsAtSchool - a.playsAtSchool).slice(0,15);
   table(
     [
       coopColumn.map(a => [a.label, a.playsOnCoop]),
       schoolColumn.map(a => [a.label, a.playsAtSchool]),
     ],
-    ['Artists on Co-Op Terms', 'Artists on School Terms'],
+    ['Artists on Coop Terms', 'Artists on School Terms'],
     2,
     document.getElementById('coop')
   );
@@ -361,14 +361,14 @@ function makeCoop() {
 
   table(
     [mostCoop.map(a => [a.label, (a.playsOnCoop/a.playsAtSchool).toFixed(2)])],
-    ['Artists Skewed to Co-Op Terms', 'Co-Op Plays / School Plays'],
+    ['Artists Skewed to Coop', 'Coop / School'],
     1,
     document.getElementById('mostcoop')
   );
 
   table(
     [mostSchool.map(a => [a.label, (a.playsOnCoop/a.playsAtSchool).toFixed(2)])],
-    ['Artists Skewed to School Terms', 'Co-Op Plays / School Plays'],
+    ['Artists Skewed to School', 'Coop / School'],
     1,
     document.getElementById('mostschool')
   );

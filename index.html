@@ -3,37 +3,43 @@
     <title>Music analysis</title>
   </head>
   <body>
-    <h1>Proportion of music by artist</h1>
-    <p>...out of the top 25 artists I've listened to</p>
-    <div id="top25"></div>
-    <ol id="top25events"></ol>
+    <section>
+      <h1>Proportion of music by artist</h1>
+      <p>...out of the top 25 artists I've listened to</p>
+      <div id="top25"></div>
+      <ol id="top25events"></ol>
 
-    <h1>Proportion of music by artist</h1>
-    <p>...out of artists 25 to 50</p>
-    <div id="next25"></div>
-    <ol id="next25events"></ol>
+      <h1>Proportion of music by artist</h1>
+      <p>...out of artists 25 to 50</p>
+      <div id="next25"></div>
+      <ol id="next25events"></ol>
 
-    <h1>Artists by context</h1>
-    <table id="coop"></table>
-    <table id="mostcoop"></table>
-    <table id="mostschool"></table>
+      <h1>Artists by context</h1>
+      <div class="table-container"><table id="coop"></table></div>
+      <p></p>
+      <div class="row">
+        <div class="column"><div class="table-container"><table id="mostcoop"></table></div></div>
+        <div class="column"><div class="table-container"><table id="mostschool"></table></div></div>
+      </div>
 
-    <h1>Genre proportions</h1>
-    <div id="genres"></div>
-    <ol id="genreEvents"></ol>
+      <h1>Genre proportions</h1>
+      <div id="genres"></div>
+      <ol id="genreEvents"></ol>
 
-    <h1>Top artists by genre</h1>
-    <table id="topgenres"></table>
+      <h1>What counts as each genre?</h1>
+      <div class="table-container"><table id="topgenres"></table></div>
 
-    <h1>Weird genres</h1>
-    <ul>
-      <li>"Deep Melodic Euro House" (Agoria)</li>
-      <li>"Intelligent Dance Music" (Tycho, Caribou)</li>
-      <li>"Deep New Americana" (Wintersleep, Arkells)</li>
-      <li>"Australian Garage Punk" (Hockey)</li>
-    </ul>
+      <h1>Weird genres</h1>
+      <ul>
+        <li>"Deep Melodic Euro House" (Agoria)</li>
+        <li>"Intelligent Dance Music" (Tycho, Caribou)</li>
+        <li>"Deep New Americana" (Wintersleep, Arkells)</li>
+        <li>"Australian Garage Punk" (Hockey)</li>
+      </ul>
+    </section>
 
     <link rel="stylesheet" type="text/css" href="graph.css" />
+    <link rel="stylesheet" type="text/css" href="report.css" />
     <script type="text/javascript" charset="utf-8" src="aggregated_data.js"></script>
     <script type="text/javascript" charset="utf-8" src="genre_data.js"></script>
     <script type="text/javascript" src="graph.js"></script>
