@@ -36,10 +36,10 @@ function inGenre(artist, genresForArtist, genre) {
 }
 
 const colors = [];
-for (let i = 0; i < 25; i++) {
-  const degree = (i / 25 * 180 + 200) % 360;
+for (let i = 0; i < 31; i++) {
+  const degree = (i / 31 * 220 + 150) % 360;
   const saturation = 90;
-  const brightness = 60;
+  const brightness = 60 - ((31 - i) * 0.6);
   colors.push(`hsl(${degree}, ${saturation}%, ${brightness}%)`)
 }
 
@@ -424,12 +424,10 @@ makeGenres();
 makeCoop();
 makeTopGenres();
 
-console.log(window.data.length);
+//const genreSet = new Set();
+//Object.keys(window.genres).forEach(g => genreSet.add(...window.genres[g]));
+//const allGenres = [...genreSet];
 
-const genreSet = new Set();
-Object.keys(window.genres).forEach(g => genreSet.add(...window.genres[g]));
-const allGenres = [...genreSet];
-
-console.log(allGenres.sort((a, b) => b.split(' ').length - a.split(' ').length).slice(0, 20));
-console.log(allGenres.sort((a, b) => b.length - a.length).slice(0,50));
-console.log(allGenres.sort((a, b) => a.length - b.length).slice(0,50));
+//console.log(allGenres.sort((a, b) => b.split(' ').length - a.split(' ').length).slice(0, 20));
+//console.log(allGenres.sort((a, b) => b.length - a.length).slice(0,50));
+//console.log(allGenres.sort((a, b) => a.length - b.length).slice(0,50));
