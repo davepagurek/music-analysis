@@ -22,6 +22,12 @@ h1, p {
   font-size: 10px;
 }
 
+.music-analysis-label {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  pointer-events: none;
+}
+
 .music-analysis-graph-legend {
   display: flex;
   flex-direction: column;
@@ -33,7 +39,6 @@ h1, p {
   font-family: 'Roboto', sans-serif;
   color: #000;
   font-size: 12px;
-  margin-left: 20px;
   transition: color ease 0.3s;
 }
 
@@ -46,7 +51,7 @@ h1, p {
   display: inline-block;
   vertical-align: middle;
   height: 10px;
-  width: 40px;
+  width: 20px;
   margin-right: 10px;
 }
 
