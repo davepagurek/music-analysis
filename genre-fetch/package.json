@@ -1,0 +1,14 @@
+{
+  "name": "genre-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
