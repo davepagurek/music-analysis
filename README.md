@@ -1,4 +1,4 @@
 # Music analysis
-https://davepagurek.github.io/music-analysis-2018/
+https://davepagurek.github.io/music-analysis/
 
 Some graphs of my music listening habits.
