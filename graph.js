@@ -10,9 +10,9 @@ window.data.forEach(artist => {
 });
 
 const genreTags = [
-  'jazz', 'hip hop', 'classical', 'folk', 'dance', 'new wave', 'art pop', 'electropop',
+  'jazz', 'hip hop', 'disco', 'classical', 'folk', 'dance', 'new wave', 'art pop', 'electropop',
   'punk', 'downtempo', 'alternative rock', 'indie pop', 'indie rock', 'pop rock',
-  'metal', 'psychedelic', 'techno', 'disco', 'classic rock', 'blues'
+  'metal', 'psychedelic', 'classic rock', 'blues'
 ];
 const genreRegex = {};
 genreTags.forEach(genre => {
@@ -44,34 +44,42 @@ for (let i = 0; i < 31; i++) {
 }
 
 const events = {
-  'Arcade Fire': {
-    '1': 'I listened to Arcade Fire\'s <em>Everything Now</em> a fair amount after its release in preparation for seeing them in concert in November.'
+  'Kate Bush': {
+    '5': 'Licensing deals changed and the albums <em>Hounds of Love,</em> <em>The Sensual World,</em> and <em>The Red Shoes</em> appeared on Google Play Music when I had no idea they existed before.'
   },
-  'LCD Soundsystem': {
-    '1': 'I listened to LCD Soundsystem\'s <em>American Dream</em> a lot after its release (and continue to this day - I think it\'s the best album from 2017.)'
-  },
-  'Talking Heads': {
-    '4': 'I discovered Talking Heads after looking up LCD Soundsystem\'s influences.'
-  },
-  'Laura Marling': {
-    '10': 'I listened to Laura Marling\'s entire discography a few times while working on my computer graphics final project.'
-  },
-  'Taylor Swift': {
-    '9': 'I turned 22 and remembered that the song <em>22</em> exists, and then kept listening to more Taylor Swift.'
-  },
-  'Mitski': {
-    '13': 'I heard a lot about Mitski\'s <em>Be the Cowboy</em> as it was released and listened to it a lot.'
-  },
-  'Superorganism': {
-    '10': 'I clicked a YouTube recommendation for a Superorganism NPR Tiny Desk concert that I kept seeing and ended up listening to Superorganism\'s eponymous album a lot.'
-  },
-  'classical': {
-    '10': 'I listened to lots of "focus music" when working on my computer graphics final project, and for me, that includes classical music.'
-  },
-  'new wave': {
-    '12': 'As my summer 2018 school term finished, I started trying to fill out my knowledge of 80s music, which appears as a little bubble of New Wave.'
+  'New Order': {
+    '12': 'I don\'t have much data for this month yet so because I listened to a lot of New Order this week, it looks like I just joined a New Order cult.'
   }
-}
+};
+//const events = {
+  //'Arcade Fire': {
+    //'1': 'I listened to Arcade Fire\'s <em>Everything Now</em> a fair amount after its release in preparation for seeing them in concert in November.'
+  //},
+  //'LCD Soundsystem': {
+    //'1': 'I listened to LCD Soundsystem\'s <em>American Dream</em> a lot after its release (and continue to this day - I think it\'s the best album from 2017.)'
+  //},
+  //'Talking Heads': {
+    //'4': 'I discovered Talking Heads after looking up LCD Soundsystem\'s influences.'
+  //},
+  //'Laura Marling': {
+    //'10': 'I listened to Laura Marling\'s entire discography a few times while working on my computer graphics final project.'
+  //},
+  //'Taylor Swift': {
+    //'9': 'I turned 22 and remembered that the song <em>22</em> exists, and then kept listening to more Taylor Swift.'
+  //},
+  //'Mitski': {
+    //'13': 'I heard a lot about Mitski\'s <em>Be the Cowboy</em> as it was released and listened to it a lot.'
+  //},
+  //'Superorganism': {
+    //'10': 'I clicked a YouTube recommendation for a Superorganism NPR Tiny Desk concert that I kept seeing and ended up listening to Superorganism\'s eponymous album a lot.'
+  //},
+  //'classical': {
+    //'10': 'I listened to lots of "focus music" when working on my computer graphics final project, and for me, that includes classical music.'
+  //},
+  //'new wave': {
+    //'12': 'As my summer 2018 school term finished, I started trying to fill out my knowledge of 80s music, which appears as a little bubble of New Wave.'
+  //}
+//}
 
 function dateString(date) {
   const month = date.getMonth() + 1;
@@ -273,8 +281,9 @@ function makeTop25() {
     normalize: true,
     width: 900,
     height: 500,
-    date: new Date(2017, 7, 1)
+    date: new Date(2018, 11, 15)
   };
+  console.log(options.date);
   graph(top25, options, document.getElementById('top25'), document.getElementById('top25events'));
 }
 
@@ -285,7 +294,7 @@ function makeNext25() {
     normalize: false,
     width: 900,
     height: 500,
-    date: new Date(2017, 7, 1)
+    date: new Date(2018, 11, 15)
   };
   graph(next25, options, document.getElementById('next25'), document.getElementById('next25events'));
 }
@@ -315,14 +324,14 @@ function makeGenres() {
     normalize: true,
     width: 900,
     height: 500,
-    date: new Date(2017, 7, 1)
+    date: new Date(2018, 12, 15)
   };
   const genresOverTime = Object.values(genrePlays).sort((a, b) => a.total - b.total);
   graph(genresOverTime, options, genreContainer, genreEvents);
 }
 
 function makeCoop() {
-  const coopMonths = [0, 5, 6, 7, 8, 13, 14, 15, 16];
+  const coopMonths = [4,5,6,7];
   const artistPlays = window.data.map(artist => {
     let playsOnCoop = 0;
     let playsAtSchool = 0;
@@ -344,7 +353,7 @@ function makeCoop() {
       coopColumn.map(a => [a.label, a.playsOnCoop]),
       schoolColumn.map(a => [a.label, a.playsAtSchool]),
     ],
-    ['Artists on Coop Terms', 'Artists on School Terms'],
+    ['Artists on Summer Terms', 'Artists on School Terms'],
     2,
     document.getElementById('coop')
   );
@@ -361,14 +370,14 @@ function makeCoop() {
 
   table(
     [mostCoop.map(a => [a.label, (a.playsOnCoop/a.playsAtSchool).toFixed(2)])],
-    ['Artists Skewed to Coop', 'Coop / School'],
+    ['Artists Skewed to Summer', 'Summer / School'],
     1,
     document.getElementById('mostcoop')
   );
 
   table(
     [mostSchool.map(a => [a.label, (a.playsOnCoop/a.playsAtSchool).toFixed(2)])],
-    ['Artists Skewed to School', 'Coop / School'],
+    ['Artists Skewed to School', 'Summer / School'],
     1,
     document.getElementById('mostschool')
   );

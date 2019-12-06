@@ -1,1 +1,16222 @@
-window.data = [{"label":"Radiohead","backgroundColor":"#547ad3","borderColor":"#547ad3","data":[3,19,31,66,175,72,30,61,123,97,62,133,51,101,88,160,68]},{"label":"LCD Soundsystem","backgroundColor":"#ea8598","borderColor":"#ea8598","data":[4,55,124,206,65,75,97,22,41,40,8,18,52,26,76,67,85]},{"label":"Arcade Fire","backgroundColor":"#daff91","borderColor":"#daff91","data":[169,73,95,144,43,9,37,29,13,69,8,19,33,18,48,14,49]},{"label":"Laura Marling","backgroundColor":"#77ef77","borderColor":"#77ef77","data":[0,0,95,35,210,39,19,3,39,37,171,41,27,5,41,10,63]},{"label":"The Beatles","backgroundColor":"#c5ef62","borderColor":"#c5ef62","data":[23,0,0,39,26,45,45,42,140,20,29,5,203,20,31,31,50]},{"label":"Talking Heads","backgroundColor":"#ede034","borderColor":"#ede034","data":[0,0,1,1,255,40,23,24,49,6,3,13,73,20,62,2,136]},{"label":"Franz Ferdinand","backgroundColor":"#8342c9","borderColor":"#8342c9","data":[17,32,38,10,39,14,51,13,74,57,4,37,18,33,54,59,6]},{"label":"Gorillaz","backgroundColor":"#cd34d8","borderColor":"#cd34d8","data":[21,24,10,60,5,62,46,37,35,5,7,120,45,0,4,9,37]},{"label":"Barenaked Ladies","backgroundColor":"#7e96d3","borderColor":"#7e96d3","data":[11,60,2,91,48,0,22,56,30,29,45,14,4,0,3,1,19]},{"label":"The Oh Hellos","backgroundColor":"#ff359a","borderColor":"#ff359a","data":[0,0,0,0,66,17,2,75,26,17,0,17,46,14,0,0,92]},{"label":"Coldplay","backgroundColor":"#bdeaf9","borderColor":"#bdeaf9","data":[0,5,0,1,29,11,23,41,67,20,10,13,7,0,67,28,22]},{"label":"BOY","backgroundColor":"#afbf3b","borderColor":"#afbf3b","data":[0,73,48,18,3,18,30,8,18,19,0,0,10,9,20,3,28]},{"label":"Death Cab for Cutie","backgroundColor":"#96ffca","borderColor":"#96ffca","data":[2,0,7,0,1,13,97,4,6,20,0,82,10,26,16,3,0]},{"label":"The Mowgli's","backgroundColor":"#47d864","borderColor":"#47d864","data":[0,0,53,3,2,61,16,19,63,29,0,11,0,0,3,11,10]},{"label":"Goldfrapp","backgroundColor":"#ff9823","borderColor":"#ff9823","data":[72,1,23,44,1,13,11,16,9,54,0,10,4,0,2,10,7]},{"label":"Muse","backgroundColor":"#82a7e0","borderColor":"#82a7e0","data":[99,5,10,3,6,14,43,14,18,2,0,0,11,15,3,2,30]},{"label":"Feist","backgroundColor":"#f9f1a4","borderColor":"#f9f1a4","data":[0,17,3,10,1,39,24,29,9,28,37,26,1,10,19,0,11]},{"label":"Junip","backgroundColor":"#000a5b","borderColor":"#000a5b","data":[0,0,11,0,0,0,0,1,0,0,0,82,84,33,19,17,5]},{"label":"The Rural Alberta Advantage","backgroundColor":"#77c7f4","borderColor":"#77c7f4","data":[0,0,1,90,41,12,18,20,23,17,0,0,14,0,13,0,0]},{"label":"Michael Jackson","backgroundColor":"#8e0440","borderColor":"#8e0440","data":[0,0,77,8,2,3,2,2,0,16,1,25,43,30,15,20,4]},{"label":"R.E.M.","backgroundColor":"#87ede4","borderColor":"#87ede4","data":[0,0,1,0,0,0,25,0,9,0,0,4,1,25,58,92,24]},{"label":"U2","backgroundColor":"#59d350","borderColor":"#59d350","data":[0,1,12,48,21,6,53,8,16,1,1,13,8,2,7,27,11]},{"label":"Kalle Mattson","backgroundColor":"#2966b2","borderColor":"#2966b2","data":[0,0,49,1,0,0,0,18,36,6,1,29,12,10,62,1,0]},{"label":"Passion Pit","backgroundColor":"#216387","borderColor":"#216387","data":[41,5,2,6,1,0,78,19,0,15,0,0,1,15,16,1,18]},{"label":"The Staves","backgroundColor":"#a5a0f7","borderColor":"#a5a0f7","data":[0,0,0,0,129,2,11,21,0,3,2,0,0,0,5,0,23]},{"label":"London Symphony Orchestra","backgroundColor":"#fc71cb","borderColor":"#fc71cb","data":[0,4,28,1,0,0,3,3,4,0,37,4,31,13,20,47,0]},{"label":"STRFKR","backgroundColor":"#d1baf4","borderColor":"#d1baf4","data":[0,0,0,1,71,21,0,3,0,1,1,0,0,70,0,11,5]},{"label":"Kate Bush","backgroundColor":"#88af05","borderColor":"#88af05","data":[0,0,0,0,43,0,0,1,0,80,0,15,0,0,1,0,43]},{"label":"!!!","backgroundColor":"#049904","borderColor":"#049904","data":[0,0,2,2,0,1,0,0,0,0,0,0,36,75,32,23,1]},{"label":"Nine Inch Nails","backgroundColor":"#e01175","borderColor":"#e01175","data":[0,0,1,2,0,43,70,0,0,14,13,6,0,0,15,0,2]},{"label":"David Bowie","backgroundColor":"#05bf6b","borderColor":"#05bf6b","data":[0,0,2,24,49,3,8,4,0,3,0,0,10,0,38,22,3]},{"label":"Youth Lagoon","backgroundColor":"#90dfed","borderColor":"#90dfed","data":[1,0,1,1,1,0,27,42,41,10,0,0,7,8,1,20,0]},{"label":"Roxy Music","backgroundColor":"#ffe2aa","borderColor":"#ffe2aa","data":[0,0,9,0,0,0,65,34,0,26,0,9,14,0,0,2,0]},{"label":"Florence + The Machine","backgroundColor":"#7564c4","borderColor":"#7564c4","data":[0,0,0,1,0,0,0,48,0,11,4,11,9,0,1,0,72]},{"label":"Ben Folds","backgroundColor":"#edff89","borderColor":"#edff89","data":[8,48,0,27,14,3,10,15,0,2,0,0,0,0,2,13,12]},{"label":"The Balconies","backgroundColor":"#3cc10b","borderColor":"#3cc10b","data":[4,0,0,20,1,7,15,6,0,30,0,0,0,0,5,0,60]},{"label":"Berliner Philharmoniker","backgroundColor":"#b2ffef","borderColor":"#b2ffef","data":[0,0,0,2,0,4,26,16,12,0,5,0,10,14,37,4,12]},{"label":"Max Richter","backgroundColor":"#9e1d1a","borderColor":"#9e1d1a","data":[0,0,1,24,2,0,17,17,13,22,0,0,27,0,17,0,0]},{"label":"Regina Spektor","backgroundColor":"#efa797","borderColor":"#efa797","data":[0,0,0,48,0,0,0,2,0,0,0,0,0,0,0,0,79]},{"label":"Mitski","backgroundColor":"#75aed6","borderColor":"#75aed6","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,96,14,13,0]},{"label":"Of Monsters And Men","backgroundColor":"#70a6d3","borderColor":"#70a6d3","data":[6,11,4,1,0,0,15,8,9,0,2,13,12,16,14,7,0]},{"label":"Spoon","backgroundColor":"#ccdcff","borderColor":"#ccdcff","data":[0,0,1,2,80,13,2,1,0,0,0,0,1,0,0,2,13]},{"label":"Rich Aucoin","backgroundColor":"#f48b92","borderColor":"#f48b92","data":[0,0,0,0,0,0,0,0,0,0,0,85,11,9,8,0,0]},{"label":"Taylor Swift","backgroundColor":"#18d0dd","borderColor":"#18d0dd","data":[0,0,0,0,0,0,0,0,0,52,13,19,0,10,0,0,15]},{"label":"Andrew Bird","backgroundColor":"#d17b59","borderColor":"#d17b59","data":[0,0,58,1,0,1,1,22,0,9,0,0,5,10,0,1,0]},{"label":"Watsky","backgroundColor":"#569cbf","borderColor":"#569cbf","data":[12,12,17,0,3,20,6,2,0,2,0,0,1,0,26,1,4]},{"label":"Superorganism","backgroundColor":"#f794ca","borderColor":"#f794ca","data":[0,0,0,0,0,0,1,0,0,0,91,12,0,1,0,1,0]},{"label":"Phantogram","backgroundColor":"#83e2a1","borderColor":"#83e2a1","data":[0,0,48,10,11,6,2,7,0,7,2,0,0,4,2,4,0]},{"label":"Broken Social Scene","backgroundColor":"#7a87db","borderColor":"#7a87db","data":[0,46,4,3,16,0,1,12,11,2,1,0,1,0,0,0,0]},{"label":"Hans Zimmer","backgroundColor":"#8dfce2","borderColor":"#8dfce2","data":[0,5,0,38,19,0,0,0,0,0,0,0,15,0,0,0,20]},{"label":"Cake","backgroundColor":"#44ea8c","borderColor":"#44ea8c","data":[34,11,5,2,0,0,2,2,25,0,0,0,9,0,3,0,3]},{"label":"Paul McCartney","backgroundColor":"#f9c2e1","borderColor":"#f9c2e1","data":[0,0,0,0,0,0,0,1,0,16,0,54,3,16,0,0,6]},{"label":"Yeah Yeah Yeahs","backgroundColor":"#db1c45","borderColor":"#db1c45","data":[0,0,2,2,2,1,60,1,6,0,0,0,3,0,6,1,10]},{"label":"José González","backgroundColor":"#e09f11","borderColor":"#e09f11","data":[3,7,19,1,0,0,1,14,0,7,0,37,1,0,3,0,0]},{"label":"MGMT","backgroundColor":"#641793","borderColor":"#641793","data":[0,0,4,2,0,2,76,1,0,2,2,0,0,0,2,0,1]},{"label":"The Asteroids Galaxy Tour","backgroundColor":"#f29dc7","borderColor":"#f29dc7","data":[0,0,0,20,0,1,0,0,0,3,0,0,0,0,0,0,66]},{"label":"David Byrne & St. Vincent","backgroundColor":"#c964e0","borderColor":"#c964e0","data":[0,0,0,0,0,0,42,22,0,1,0,0,1,0,3,1,20]},{"label":"Bob Dylan","backgroundColor":"#f495a3","borderColor":"#f495a3","data":[0,0,0,0,51,10,14,2,1,2,0,0,8,0,0,0,0]},{"label":"Dan Mangan","backgroundColor":"#1e0987","borderColor":"#1e0987","data":[0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,80,4]},{"label":"Gramatik","backgroundColor":"#ed2f3f","borderColor":"#ed2f3f","data":[40,0,2,32,2,0,2,0,0,6,1,0,0,0,1,0,0]},{"label":"Julia Holter","backgroundColor":"#bae07d","borderColor":"#bae07d","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18,65]},{"label":"Cut Copy","backgroundColor":"#0e9149","borderColor":"#0e9149","data":[0,0,6,8,2,1,2,0,0,9,0,0,2,0,45,7,0]},{"label":"Creedence Clearwater Revival","backgroundColor":"#015a75","borderColor":"#015a75","data":[46,0,0,0,0,20,11,2,0,1,0,0,0,0,1,0,0]},{"label":"Snow Patrol","backgroundColor":"#efa5be","borderColor":"#efa5be","data":[1,11,0,2,1,0,0,1,0,3,38,7,0,0,0,14,0]},{"label":"First Aid Kit","backgroundColor":"#9eabe5","borderColor":"#9eabe5","data":[0,0,1,1,0,1,10,1,21,18,11,3,0,0,8,0,0]},{"label":"Hannah Georgas","backgroundColor":"#5679ea","borderColor":"#5679ea","data":[0,0,0,0,28,12,18,0,0,0,0,2,4,10,1,0,0]},{"label":"George Barnett","backgroundColor":"#700c9b","borderColor":"#700c9b","data":[0,0,0,0,0,0,22,0,0,25,17,0,0,6,0,0,3]},{"label":"The Wild Reeds","backgroundColor":"#c84dd6","borderColor":"#c84dd6","data":[0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,52]},{"label":"The B-52's","backgroundColor":"#68e2d4","borderColor":"#68e2d4","data":[0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,62,4]},{"label":"HalfNoise","backgroundColor":"#ddb30b","borderColor":"#ddb30b","data":[0,0,0,0,0,0,0,0,0,62,7,0,0,0,0,0,0]},{"label":"Big Data","backgroundColor":"#e5a597","borderColor":"#e5a597","data":[1,0,0,0,0,0,0,2,0,30,21,0,12,1,0,1,0]},{"label":"Monarchy","backgroundColor":"#f9ff5b","borderColor":"#f9ff5b","data":[0,14,0,8,0,5,16,0,15,0,0,0,6,0,1,0,0]},{"label":"South German Philharmonic Orchestra","backgroundColor":"#129fea","borderColor":"#129fea","data":[0,0,0,1,0,0,0,19,0,0,0,37,8,0,0,0,0]},{"label":"The Clash","backgroundColor":"#9bc3ff","borderColor":"#9bc3ff","data":[1,0,0,1,0,0,1,18,0,2,0,0,32,5,0,2,3]},{"label":"The Hylozoists","backgroundColor":"#b21d1a","borderColor":"#b21d1a","data":[0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0]},{"label":"Saint Motel","backgroundColor":"#4ec8fc","borderColor":"#4ec8fc","data":[11,0,0,1,42,0,2,0,1,0,0,0,0,2,1,3,1]},{"label":"Jose Gonzalez","backgroundColor":"#1c12b5","borderColor":"#1c12b5","data":[0,0,7,0,0,0,4,0,0,8,0,22,9,12,0,0,0]},{"label":"XTC","backgroundColor":"#f276d5","borderColor":"#f276d5","data":[0,0,0,0,0,0,0,0,0,0,0,15,34,0,10,2,1]},{"label":"Chicago Symphony Orchestra","backgroundColor":"#8ef2c2","borderColor":"#8ef2c2","data":[0,0,0,12,0,0,12,1,5,0,0,7,0,12,1,11,0]},{"label":"Paul McCartney & Wings","backgroundColor":"#5478dd","borderColor":"#5478dd","data":[0,0,0,0,0,0,0,1,0,9,0,0,0,0,0,0,48]},{"label":"Darwin Deez","backgroundColor":"#5df7ed","borderColor":"#5df7ed","data":[0,0,23,3,0,0,8,2,0,12,0,0,0,0,10,0,0]},{"label":"Ingrid Michaelson","backgroundColor":"#998be5","borderColor":"#998be5","data":[0,0,0,16,0,0,2,1,12,13,0,0,0,0,2,0,12]},{"label":"Green Day","backgroundColor":"#2f32b7","borderColor":"#2f32b7","data":[6,0,0,0,0,0,0,0,0,0,0,45,0,0,1,0,6]},{"label":"Wiener Philharmoniker","backgroundColor":"#c0e6f7","borderColor":"#c0e6f7","data":[0,0,0,0,0,0,0,8,0,0,0,39,0,0,0,2,8]},{"label":"Philharmonia Orchestra","backgroundColor":"#aacbf7","borderColor":"#aacbf7","data":[1,0,15,5,0,14,4,0,2,1,0,7,0,4,0,4,0]},{"label":"Tycho","backgroundColor":"#5e38aa","borderColor":"#5e38aa","data":[0,0,2,1,11,10,11,2,0,0,0,0,11,8,0,0,0]},{"label":"Osorio, Jorge Federico","backgroundColor":"#5fe8ce","borderColor":"#5fe8ce","data":[0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0]},{"label":"Joe Hisaishi","backgroundColor":"#be60d6","borderColor":"#be60d6","data":[0,0,0,46,6,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Buffy Sainte-Marie","backgroundColor":"#f9c0f0","borderColor":"#f9c0f0","data":[0,0,1,0,0,0,0,0,0,0,1,49,0,0,0,1,0]},{"label":"Okko Kamu","backgroundColor":"#492499","borderColor":"#492499","data":[0,0,0,0,0,2,10,10,12,1,1,0,10,5,0,0,0]},{"label":"Parov Stelar","backgroundColor":"#6bf9ca","borderColor":"#6bf9ca","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50]},{"label":"Elvis Costello & The Attractions","backgroundColor":"#e8a2cb","borderColor":"#e8a2cb","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,20,28]},{"label":"99% Invisible","backgroundColor":"#0ba50b","borderColor":"#0ba50b","data":[2,2,3,3,5,1,2,3,1,1,6,6,2,3,2,7,0]},{"label":"Jon Bellion","backgroundColor":"#7bed92","borderColor":"#7bed92","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49]},{"label":"London Symphony Orchestra and James Levine","backgroundColor":"#ada8f4","borderColor":"#ada8f4","data":[0,0,0,0,0,0,0,0,0,0,46,0,0,0,2,0,0]},{"label":"Bonobo","backgroundColor":"#71e9fc","borderColor":"#71e9fc","data":[7,0,1,0,0,0,0,0,0,0,0,0,9,0,13,0,18]},{"label":"Led Zeppelin","backgroundColor":"#0f0aad","borderColor":"#0f0aad","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,9,0,24,14]},{"label":"OK Go","backgroundColor":"#7739a0","borderColor":"#7739a0","data":[1,0,3,13,0,8,4,5,0,5,0,0,0,0,8,0,0]},{"label":"The Jacksons","backgroundColor":"#fccbba","borderColor":"#fccbba","data":[0,0,16,1,0,0,0,0,0,4,0,7,10,4,0,4,0]},{"label":"Lana Del Rey","backgroundColor":"#de71f2","borderColor":"#de71f2","data":[0,0,0,0,0,0,0,0,0,0,0,39,6,0,0,0,0]},{"label":"Alvvays","backgroundColor":"#6be0a9","borderColor":"#6be0a9","data":[0,0,0,0,0,31,0,11,0,2,1,0,0,0,0,0,0]},{"label":"Paris Conservatoire Orchestra","backgroundColor":"#9ae1f4","borderColor":"#9ae1f4","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0]},{"label":"The Rolling Stones","backgroundColor":"#f8a7f9","borderColor":"#f8a7f9","data":[9,0,0,2,0,0,0,1,0,28,0,0,1,0,4,0,0]},{"label":"Grouplove","backgroundColor":"#a2f260","borderColor":"#a2f260","data":[0,0,29,2,0,0,0,11,0,0,0,0,0,0,1,0,1]},{"label":"Kronos Quartet","backgroundColor":"#fc83a3","borderColor":"#fc83a3","data":[0,18,6,0,0,0,0,0,0,0,1,0,0,19,0,0,0]},{"label":"Fleetwood Mac","backgroundColor":"#cde253","borderColor":"#cde253","data":[1,0,0,0,0,0,0,0,7,11,0,11,1,1,0,0,11]},{"label":"Wintersleep","backgroundColor":"#429bd6","borderColor":"#429bd6","data":[0,0,0,0,24,6,1,0,0,0,0,11,0,0,0,0,0]},{"label":"Sun June","backgroundColor":"#7af9ef","borderColor":"#7af9ef","data":[0,0,0,0,0,0,0,0,0,0,0,35,7,0,0,0,0]},{"label":"David Byrne","backgroundColor":"#f7c1aa","borderColor":"#f7c1aa","data":[0,0,0,0,0,0,23,13,0,1,0,0,0,0,0,0,4]},{"label":"Beck","backgroundColor":"#f42245","borderColor":"#f42245","data":[0,0,12,3,0,1,2,0,0,0,0,7,0,0,0,0,16]},{"label":"Ramones","backgroundColor":"#526dbf","borderColor":"#526dbf","data":[0,0,0,0,1,0,0,0,0,27,0,0,11,0,0,1,0]},{"label":"The Smashing Pumpkins","backgroundColor":"#ba2c33","borderColor":"#ba2c33","data":[0,0,0,0,0,1,1,0,0,2,0,1,0,22,0,1,12]},{"label":"Leopold Stokowski","backgroundColor":"#fce0bf","borderColor":"#fce0bf","data":[0,0,0,15,0,0,0,0,0,0,0,0,0,0,25,0,0]},{"label":"Quiles & Cloud","backgroundColor":"#26abf2","borderColor":"#26abf2","data":[0,0,0,0,0,0,0,0,0,0,12,22,0,6,0,0,0]},{"label":"Blondie","backgroundColor":"#9de582","borderColor":"#9de582","data":[0,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0,33]},{"label":"Radiolab","backgroundColor":"#b335dd","borderColor":"#b335dd","data":[2,1,3,3,3,2,1,0,0,3,4,4,2,5,0,4,2]},{"label":"A Tribe Called Quest","backgroundColor":"#8cdb25","borderColor":"#8cdb25","data":[6,0,0,1,0,0,0,1,0,2,0,0,0,0,15,14,0]},{"label":"The Staves & yMusic","backgroundColor":"#9859f7","borderColor":"#9859f7","data":[0,0,0,0,14,0,0,13,0,0,0,0,0,0,1,0,11]},{"label":"Tessa Violet","backgroundColor":"#bbf257","borderColor":"#bbf257","data":[0,11,0,2,0,0,1,3,16,5,0,1,0,0,0,0,0]},{"label":"Devo","backgroundColor":"#53e05e","borderColor":"#53e05e","data":[0,0,0,0,0,0,1,1,0,0,0,0,16,0,0,20,0]},{"label":"Trevor Powers","backgroundColor":"#ed5f40","borderColor":"#ed5f40","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,17,0]},{"label":"New Order","backgroundColor":"#6b4ff7","borderColor":"#6b4ff7","data":[0,0,0,0,0,0,0,1,0,0,0,0,14,0,0,17,5]},{"label":"Giuseppe Verdi","backgroundColor":"#3241e5","borderColor":"#3241e5","data":[0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0]},{"label":"St. Vincent","backgroundColor":"#75cc43","borderColor":"#75cc43","data":[0,0,1,0,13,1,4,1,13,0,2,0,0,0,0,0,0]},{"label":"Noosa","backgroundColor":"#962a0f","borderColor":"#962a0f","data":[0,0,0,1,0,0,18,12,0,1,0,0,0,0,1,0,2]},{"label":"The Traveling Wilburys","backgroundColor":"#f9c0de","borderColor":"#f9c0de","data":[5,0,0,0,0,0,0,0,0,0,0,0,18,0,10,1,0]},{"label":"Portugal. The Man","backgroundColor":"#61e279","borderColor":"#61e279","data":[0,0,0,28,0,0,2,1,0,0,0,0,0,1,1,0,0]},{"label":"Eurythmics","backgroundColor":"#44ba32","borderColor":"#44ba32","data":[0,0,0,2,0,0,0,0,0,0,0,0,10,1,3,5,12]},{"label":"Starfucker","backgroundColor":"#f8fca4","borderColor":"#f8fca4","data":[0,0,0,0,20,0,0,0,0,0,0,0,1,12,0,0,0]},{"label":"Ileana Cotrubas","backgroundColor":"#b2ffb8","borderColor":"#b2ffb8","data":[0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0]},{"label":"Men Without Hats","backgroundColor":"#1c9e20","borderColor":"#1c9e20","data":[0,0,0,2,26,0,2,0,0,1,0,0,0,0,0,1,0]},{"label":"CHVRCHES","backgroundColor":"#47d84e","borderColor":"#47d84e","data":[0,0,3,1,0,0,11,0,0,0,13,0,0,0,2,0,1]},{"label":"Royal Philharmonic Orchestra","backgroundColor":"#ffc0bc","borderColor":"#ffc0bc","data":[0,0,0,0,1,0,0,0,0,0,0,1,0,0,24,5,0]},{"label":"Aaron Copland","backgroundColor":"#5031ea","borderColor":"#5031ea","data":[0,11,0,0,0,0,10,0,0,0,0,9,0,0,0,0,0]},{"label":"Guerilla Toss","backgroundColor":"#e20f87","borderColor":"#e20f87","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,7,1]},{"label":"Billy Corgan","backgroundColor":"#2eea86","borderColor":"#2eea86","data":[0,0,0,1,3,1,0,1,21,2,0,0,0,0,0,0,0]},{"label":"Alt-J","backgroundColor":"#8eed97","borderColor":"#8eed97","data":[0,0,5,4,0,0,12,0,7,0,0,0,0,0,1,0,0]},{"label":"Broken Bells","backgroundColor":"#dcfc8d","borderColor":"#dcfc8d","data":[0,0,1,2,1,0,0,12,0,0,9,0,1,0,1,0,0]},{"label":"Leonard Bernstein","backgroundColor":"#71e8da","borderColor":"#71e8da","data":[0,0,0,2,8,0,0,1,0,1,0,1,0,0,14,0,0]},{"label":"BBC National Orchestra of Wales","backgroundColor":"#96bbff","borderColor":"#96bbff","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0]},{"label":"The Wilderness of Manitoba","backgroundColor":"#d85bbb","borderColor":"#d85bbb","data":[0,0,1,0,0,0,0,0,0,0,0,26,0,0,0,0,0]},{"label":"Smashing Pumpkins","backgroundColor":"#ed07bb","borderColor":"#ed07bb","data":[0,0,0,0,0,0,0,0,0,0,0,0,3,11,0,13,0]},{"label":"The Romantics","backgroundColor":"#edab9c","borderColor":"#edab9c","data":[0,0,0,1,0,0,0,0,0,11,0,5,7,0,0,2,0]},{"label":"Rockwell","backgroundColor":"#fc998a","borderColor":"#fc998a","data":[0,0,8,2,0,0,0,0,0,2,0,3,5,2,1,2,0]},{"label":"Krystian Zimerman","backgroundColor":"#ea1261","borderColor":"#ea1261","data":[0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0]},{"label":"The Tragically Hip","backgroundColor":"#3cea3f","borderColor":"#3cea3f","data":[0,0,0,6,0,0,0,0,0,18,0,0,0,0,0,0,0]},{"label":"Ben Folds Five","backgroundColor":"#efd75f","borderColor":"#efd75f","data":[0,0,0,0,8,15,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Beach House","backgroundColor":"#e87876","borderColor":"#e87876","data":[0,0,4,2,0,0,0,0,0,0,12,0,2,0,0,0,4]},{"label":"AWOLNATION","backgroundColor":"#d959db","borderColor":"#d959db","data":[0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0]},{"label":"Beta Radio","backgroundColor":"#5480e5","borderColor":"#5480e5","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0]},{"label":"William Patrick Corgan","backgroundColor":"#f29de8","borderColor":"#f29de8","data":[0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Mountain Goats","backgroundColor":"#1fe0dd","borderColor":"#1fe0dd","data":[0,0,1,2,0,0,0,1,0,2,0,0,0,16,0,0,0]},{"label":"Bombay Bicycle Club","backgroundColor":"#95edd2","borderColor":"#95edd2","data":[1,0,0,4,1,0,0,0,12,0,0,4,0,0,0,0,0]},{"label":"High Five Spaceship","backgroundColor":"#95bad8","borderColor":"#95bad8","data":[7,0,0,9,0,0,0,3,0,3,0,0,0,0,0,0,0]},{"label":"Noname","backgroundColor":"#ffe4c6","borderColor":"#ffe4c6","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,11]},{"label":"The White Stripes","backgroundColor":"#e8b596","borderColor":"#e8b596","data":[0,0,0,0,0,1,2,0,0,0,0,18,0,0,1,0,0]},{"label":"Radiolab Presents: More Perfect","backgroundColor":"#b22b10","borderColor":"#b22b10","data":[0,0,4,7,3,1,0,0,0,0,0,0,0,0,4,0,2]},{"label":"Duran Duran","backgroundColor":"#b213c4","borderColor":"#b213c4","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,20,0]},{"label":"Ok Go","backgroundColor":"#ea0e11","borderColor":"#ea0e11","data":[1,0,2,1,0,0,0,1,13,1,0,0,1,0,0,1,0]},{"label":"Run River North","backgroundColor":"#9df2b1","borderColor":"#9df2b1","data":[0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,10]},{"label":"Gothenburg Symphony Orchestra","backgroundColor":"#f8c2f9","borderColor":"#f8c2f9","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,15]},{"label":"Yukon Blonde","backgroundColor":"#efae92","borderColor":"#efae92","data":[0,0,0,10,0,0,1,0,0,0,0,9,0,0,0,0,0]},{"label":"Jesse Marchant","backgroundColor":"#031c75","borderColor":"#031c75","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0]},{"label":"The Guess Who","backgroundColor":"#e896e3","borderColor":"#e896e3","data":[0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0]},{"label":"Hot Chip","backgroundColor":"#ea96b0","borderColor":"#ea96b0","data":[0,0,2,2,0,1,0,0,0,0,0,0,1,0,9,3,2]},{"label":"Sawbones: A Marital Tour of Misguided Medicine","backgroundColor":"#58b4bc","borderColor":"#58b4bc","data":[0,0,0,0,0,11,3,0,2,0,2,0,0,0,0,1,1]},{"label":"Georges Bizet","backgroundColor":"#f79edb","borderColor":"#f79edb","data":[0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0]},{"label":"Matt and Kim","backgroundColor":"#a5f7f4","borderColor":"#a5f7f4","data":[0,0,0,1,0,0,0,0,0,16,1,0,0,0,1,0,0]},{"label":"Elvis Costello","backgroundColor":"#f9cb81","borderColor":"#f9cb81","data":[0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,14,1]},{"label":"twenty one pilots","backgroundColor":"#efaad3","borderColor":"#efaad3","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0]},{"label":"Father John Misty","backgroundColor":"#efd697","borderColor":"#efd697","data":[0,0,0,0,6,1,0,1,0,11,0,0,0,0,0,0,0]},{"label":"AC/DC","backgroundColor":"#dc26e2","borderColor":"#dc26e2","data":[0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Metric","backgroundColor":"#eb63f2","borderColor":"#eb63f2","data":[0,0,0,2,0,0,0,1,0,1,0,0,0,0,15,0,0]},{"label":"yMusic","backgroundColor":"#c4427a","borderColor":"#c4427a","data":[19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Django Django","backgroundColor":"#2a4f93","borderColor":"#2a4f93","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,4]},{"label":"Gennady Rozhdestvensky","backgroundColor":"#fcf5b5","borderColor":"#fcf5b5","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,13,5,0,0]},{"label":"Various Artists","backgroundColor":"#214aef","borderColor":"#214aef","data":[0,0,0,16,1,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Vampire Weekend","backgroundColor":"#d5ea8f","borderColor":"#d5ea8f","data":[0,0,1,2,0,12,2,0,0,0,0,0,0,0,0,0,1]},{"label":"Mother Mother","backgroundColor":"#e886bd","borderColor":"#e886bd","data":[0,0,0,1,0,0,17,0,0,0,0,0,0,0,0,0,0]},{"label":"RJD2","backgroundColor":"#f7070b","borderColor":"#f7070b","data":[0,0,0,1,16,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Julien Baker","backgroundColor":"#fcbae6","borderColor":"#fcbae6","data":[0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Heaven 17","backgroundColor":"#420084","borderColor":"#420084","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,6]},{"label":"Caravan Palace","backgroundColor":"#b915ef","borderColor":"#b915ef","data":[0,0,4,0,0,2,0,1,0,0,10,0,0,0,0,0,0]},{"label":"Theo Adam","backgroundColor":"#d85f87","borderColor":"#d85f87","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0]},{"label":"Pomplamoose","backgroundColor":"#db60ca","borderColor":"#db60ca","data":[0,0,0,1,0,0,15,0,0,0,0,0,0,0,1,0,0]},{"label":"Silversun Pickups","backgroundColor":"#aa4529","borderColor":"#aa4529","data":[0,0,0,0,3,0,0,4,0,0,0,0,0,0,0,10,0]},{"label":"Alfred Brendel","backgroundColor":"#edce9a","borderColor":"#edce9a","data":[0,0,0,0,1,0,15,0,0,0,0,1,0,0,0,0,0]},{"label":"Rjd2","backgroundColor":"#9b042f","borderColor":"#9b042f","data":[0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Iron & Wine","backgroundColor":"#f7eba8","borderColor":"#f7eba8","data":[0,0,4,1,0,0,11,0,0,0,0,0,0,0,0,0,0]},{"label":"Friendly Fires","backgroundColor":"#88ce42","borderColor":"#88ce42","data":[0,0,1,3,1,0,0,0,0,0,0,0,10,0,0,0,1]},{"label":"Kesha","backgroundColor":"#61dd70","borderColor":"#61dd70","data":[0,0,0,0,13,0,0,1,0,2,0,0,0,0,0,0,0]},{"label":"Courtney Barnett","backgroundColor":"#d1c6ff","borderColor":"#d1c6ff","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0]},{"label":"The Black Eyed Peas","backgroundColor":"#769ae0","borderColor":"#769ae0","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16]},{"label":"Lord Huron","backgroundColor":"#fcc1a1","borderColor":"#fcc1a1","data":[0,0,0,1,0,0,0,5,10,0,0,0,0,0,0,0,0]},{"label":"TV On The Radio","backgroundColor":"#b6cc3f","borderColor":"#b6cc3f","data":[0,0,1,4,1,1,2,1,0,0,0,0,4,0,0,2,0]},{"label":"Thom Yorke","backgroundColor":"#093196","borderColor":"#093196","data":[0,0,0,0,1,0,0,0,4,0,0,0,0,7,1,3,0]},{"label":"Yuri Egorov","backgroundColor":"#f296d3","borderColor":"#f296d3","data":[1,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tame Impala","backgroundColor":"#f9bdc8","borderColor":"#f9bdc8","data":[0,0,2,1,0,10,1,1,0,0,0,0,0,0,0,0,0]},{"label":"Invisible Inc.","backgroundColor":"#e52b2e","borderColor":"#e52b2e","data":[0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0]},{"label":"The Strokes","backgroundColor":"#db4aa3","borderColor":"#db4aa3","data":[0,0,4,2,1,1,3,1,0,0,0,0,0,0,1,1,1]},{"label":"Waxahatchee","backgroundColor":"#76e2d2","borderColor":"#76e2d2","data":[12,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0]},{"label":"Jean-Pierre Rampal","backgroundColor":"#be6ddb","borderColor":"#be6ddb","data":[0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Revisionist History","backgroundColor":"#258c05","borderColor":"#258c05","data":[1,1,0,0,0,0,0,0,0,1,5,5,1,0,0,0,1]},{"label":"Berliner Philharmoniker, Ferenc Fricsay","backgroundColor":"#9541e2","borderColor":"#9541e2","data":[0,0,0,0,0,0,0,0,0,0,8,5,0,0,2,0,0]},{"label":"The Paper Kites","backgroundColor":"#5e69ff","borderColor":"#5e69ff","data":[0,0,0,1,0,0,0,0,0,7,0,0,7,0,0,0,0]},{"label":"Space Monkeyz vs. Gorillaz","backgroundColor":"#e0a079","borderColor":"#e0a079","data":[12,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Welles","backgroundColor":"#56088e","borderColor":"#56088e","data":[0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0]},{"label":"Of Monsters and Men","backgroundColor":"#e0905c","borderColor":"#e0905c","data":[0,0,0,0,4,0,0,0,0,5,6,0,0,0,0,0,0]},{"label":"Arkells","backgroundColor":"#d59ff2","borderColor":"#d59ff2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14]},{"label":"M.I.A.","backgroundColor":"#9bf48b","borderColor":"#9bf48b","data":[0,0,2,6,2,1,0,1,0,1,0,0,0,0,0,0,1]},{"label":"The Shins","backgroundColor":"#eb8bed","borderColor":"#eb8bed","data":[0,0,1,0,0,0,12,0,0,1,0,0,0,0,0,0,0]},{"label":"Damon Albarn","backgroundColor":"#8dc435","borderColor":"#8dc435","data":[0,0,1,0,0,0,0,0,0,0,13,0,0,0,0,0,0]},{"label":"City and Colour","backgroundColor":"#bdffaa","borderColor":"#bdffaa","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13,0]},{"label":"National Symphony Orchestra of Ukraine & Theodore Kuchar","backgroundColor":"#69af26","borderColor":"#69af26","data":[0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Neil Young","backgroundColor":"#a98adb","borderColor":"#a98adb","data":[0,0,2,0,0,0,0,0,0,0,0,11,0,0,0,1,0]},{"label":"Daft Punk","backgroundColor":"#f23329","borderColor":"#f23329","data":[0,0,1,5,1,3,0,0,0,0,0,0,0,1,0,0,3]},{"label":"The Rapture","backgroundColor":"#a9ef07","borderColor":"#a9ef07","data":[0,0,1,4,1,2,3,0,0,0,0,0,1,0,0,0,2]},{"label":"Pink Floyd","backgroundColor":"#81ea67","borderColor":"#81ea67","data":[0,0,0,2,0,0,10,0,0,0,0,0,0,1,0,0,0]},{"label":"Bleachers","backgroundColor":"#91ffc4","borderColor":"#91ffc4","data":[0,0,0,12,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Kaitlyn Aurelia Smith","backgroundColor":"#155d84","borderColor":"#155d84","data":[0,0,0,12,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Sea Wolf","backgroundColor":"#f27bc6","borderColor":"#f27bc6","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,10,0]},{"label":"Laura Veirs","backgroundColor":"#02ed54","borderColor":"#02ed54","data":[0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0]},{"label":"Joy Division","backgroundColor":"#5dbbcc","borderColor":"#5dbbcc","data":[0,0,0,0,0,0,3,1,0,0,0,0,7,1,0,1,0]},{"label":"Caribou","backgroundColor":"#fffcb7","borderColor":"#fffcb7","data":[0,0,3,7,0,1,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Parade Of Lights","backgroundColor":"#f9c3c0","borderColor":"#f9c3c0","data":[0,0,0,0,1,0,9,0,0,0,0,0,0,0,1,0,2]},{"label":"Lorde","backgroundColor":"#d222f9","borderColor":"#d222f9","data":[0,0,0,0,7,0,0,0,0,0,0,5,0,0,0,0,0]},{"label":"Other Lives","backgroundColor":"#1b8484","borderColor":"#1b8484","data":[0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0]},{"label":"Fanfarlo","backgroundColor":"#4a8e05","borderColor":"#4a8e05","data":[0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Annie Lennox","backgroundColor":"#a3e577","borderColor":"#a3e577","data":[0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Staatskapelle Dresden","backgroundColor":"#78ad16","borderColor":"#78ad16","data":[0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,7,0]},{"label":"Holy Ghost!","backgroundColor":"#b20c03","borderColor":"#b20c03","data":[0,0,0,1,0,0,2,1,0,0,0,0,8,0,0,0,0]},{"label":"Library Voices","backgroundColor":"#017726","borderColor":"#017726","data":[0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0]},{"label":"Third Eye Blind","backgroundColor":"#6489c4","borderColor":"#6489c4","data":[0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,8,0]},{"label":"WALK THE MOON","backgroundColor":"#79eaf7","borderColor":"#79eaf7","data":[0,0,0,1,0,0,0,0,0,0,0,11,0,0,0,0,0]},{"label":"Future Of Forestry","backgroundColor":"#e241dd","borderColor":"#e241dd","data":[0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Halfnoise","backgroundColor":"#926bc4","borderColor":"#926bc4","data":[0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0]},{"label":"Erika Grimaldi","backgroundColor":"#76d3d2","borderColor":"#76d3d2","data":[0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0]},{"label":"Broken Social Scene Presents: Brendan Canning","backgroundColor":"#a667ce","borderColor":"#a667ce","data":[0,10,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"The xx","backgroundColor":"#f4b070","borderColor":"#f4b070","data":[0,1,7,0,0,0,1,0,0,0,0,0,0,0,0,0,2]},{"label":"We Are The City","backgroundColor":"#abe7e8","borderColor":"#abe7e8","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0]},{"label":"Helsinki Radio Symphony Orchestra","backgroundColor":"#bee258","borderColor":"#bee258","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7]},{"label":"Cage The Elephant","backgroundColor":"#092268","borderColor":"#092268","data":[0,0,9,0,0,1,0,1,0,0,0,0,0,0,0,0,0]},{"label":"London Grammar","backgroundColor":"#fcf29c","borderColor":"#fcf29c","data":[0,0,1,0,0,0,7,0,0,2,0,0,0,0,1,0,0]},{"label":"Haerts","backgroundColor":"#eabe85","borderColor":"#eabe85","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0]},{"label":"Paul Simon","backgroundColor":"#a9cee8","borderColor":"#a9cee8","data":[0,0,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0]},{"label":"London Symphony Orchestra and Antal Doráti","backgroundColor":"#f28086","borderColor":"#f28086","data":[0,4,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0]},{"label":"The London Symphony Orchestra","backgroundColor":"#efb7ac","borderColor":"#efb7ac","data":[0,1,0,0,0,0,0,4,0,0,0,0,5,0,0,0,0]},{"label":"The History of English Podcast","backgroundColor":"#8dfced","borderColor":"#8dfced","data":[0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,4]},{"label":"Iron Chic","backgroundColor":"#a0f79b","borderColor":"#a0f79b","data":[0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Voidz","backgroundColor":"#3af43d","borderColor":"#3af43d","data":[0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0]},{"label":"Jon Hopkins","backgroundColor":"#e271a2","borderColor":"#e271a2","data":[0,0,0,1,0,0,1,0,0,4,0,0,0,0,0,0,4]},{"label":"Phoenix","backgroundColor":"#f95cba","borderColor":"#f95cba","data":[0,0,0,3,1,1,1,0,0,2,0,0,1,0,0,0,1]},{"label":"Angèle Dubeau","backgroundColor":"#c65200","borderColor":"#c65200","data":[0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Polyphia","backgroundColor":"#c0ef8b","borderColor":"#c0ef8b","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0]},{"label":"Joywave","backgroundColor":"#0b82ba","borderColor":"#0b82ba","data":[10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Postal Service","backgroundColor":"#d0ff8e","borderColor":"#d0ff8e","data":[0,1,4,1,0,1,3,0,0,0,0,0,0,0,0,0,0]},{"label":"Bloc Party","backgroundColor":"#dbc715","borderColor":"#dbc715","data":[0,0,1,3,1,1,3,0,0,0,0,0,0,0,0,0,1]},{"label":"London Philharmonic Orchestra","backgroundColor":"#a7ff6d","borderColor":"#a7ff6d","data":[1,0,0,0,0,4,0,5,0,0,0,0,0,0,0,0,0]},{"label":"Jean-Michel Blais","backgroundColor":"#f77baf","borderColor":"#f77baf","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0]},{"label":"Leonard Cohen","backgroundColor":"#f97ff3","borderColor":"#f97ff3","data":[0,0,0,0,0,0,0,1,0,0,2,6,0,0,0,1,0]},{"label":"Air","backgroundColor":"#1e59a0","borderColor":"#1e59a0","data":[0,0,6,2,1,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Parov Stelar Trio","backgroundColor":"#23207c","borderColor":"#23207c","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9]},{"label":"Elvis Presley","backgroundColor":"#d177ef","borderColor":"#d177ef","data":[0,0,0,3,2,0,0,0,0,0,0,0,2,0,0,0,2]},{"label":"Philip Glass Ensemble","backgroundColor":"#efd17f","borderColor":"#efd17f","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0]},{"label":"Keith Jarrett","backgroundColor":"#fcbc80","borderColor":"#fcbc80","data":[0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Astronauts, etc.","backgroundColor":"#9feff9","borderColor":"#9feff9","data":[0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0]},{"label":"Sigur Rós","backgroundColor":"#f6c7fc","borderColor":"#f6c7fc","data":[0,0,2,0,0,1,0,0,0,6,0,0,0,0,0,0,0]},{"label":"The Black Keys","backgroundColor":"#a9f9a4","borderColor":"#a9f9a4","data":[0,0,0,4,0,0,1,0,0,0,0,0,4,0,0,0,0]},{"label":"Arctic Monkeys","backgroundColor":"#f9baac","borderColor":"#f9baac","data":[0,0,4,0,2,1,1,0,0,0,0,0,0,0,0,0,1]},{"label":"Grizzly Bear","backgroundColor":"#81f9dd","borderColor":"#81f9dd","data":[0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Beethoven","backgroundColor":"#539cc1","borderColor":"#539cc1","data":[0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0]},{"label":"Antonio Vivaldi","backgroundColor":"#f99fce","borderColor":"#f99fce","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0]},{"label":"The Cinematic Orchestra","backgroundColor":"#bf8631","borderColor":"#bf8631","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0]},{"label":"Julie Doiron","backgroundColor":"#f963cc","borderColor":"#f963cc","data":[0,0,0,0,0,0,0,0,0,0,3,4,1,0,0,0,0]},{"label":"M83","backgroundColor":"#f204c6","borderColor":"#f204c6","data":[0,0,2,2,0,2,1,0,0,0,0,0,0,0,1,0,0]},{"label":"Yosuke Horie","backgroundColor":"#3823db","borderColor":"#3823db","data":[0,0,0,0,0,0,0,1,0,3,0,0,4,0,0,0,0]},{"label":"Evgeny Svetlanov","backgroundColor":"#89eaf9","borderColor":"#89eaf9","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0]},{"label":"Ratatat","backgroundColor":"#4b0d96","borderColor":"#4b0d96","data":[0,0,6,0,1,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Cure","backgroundColor":"#7fddf4","borderColor":"#7fddf4","data":[0,0,2,3,1,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"Perfume Genius","backgroundColor":"#db6f8a","borderColor":"#db6f8a","data":[0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0]},{"label":"Great Lake Swimmers","backgroundColor":"#14936f","borderColor":"#14936f","data":[0,0,2,0,0,0,0,0,0,0,2,1,1,1,0,1,0]},{"label":"MF Doom","backgroundColor":"#0a6999","borderColor":"#0a6999","data":[0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Anderson .Paak","backgroundColor":"#502cb2","borderColor":"#502cb2","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7]},{"label":"DJ Shadow","backgroundColor":"#86d7e8","borderColor":"#86d7e8","data":[0,0,4,0,2,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Flobots","backgroundColor":"#af30cc","borderColor":"#af30cc","data":[0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0]},{"label":"Gary Numan / Tubeway Army","backgroundColor":"#372f8c","borderColor":"#372f8c","data":[0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0]},{"label":"Santigold","backgroundColor":"#5f6fd8","borderColor":"#5f6fd8","data":[0,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,2]},{"label":"Of Montreal","backgroundColor":"#e800cc","borderColor":"#e800cc","data":[0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0]},{"label":"The Smiths","backgroundColor":"#e853ca","borderColor":"#e853ca","data":[0,0,0,1,0,0,0,0,0,0,0,0,4,1,0,1,0]},{"label":"The Gardener & The Tree","backgroundColor":"#bca9e8","borderColor":"#bca9e8","data":[0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0]},{"label":"Zero 7","backgroundColor":"#82f975","borderColor":"#82f975","data":[0,0,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0]},{"label":"Lights","backgroundColor":"#b7ef77","borderColor":"#b7ef77","data":[0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ellis","backgroundColor":"#cff9a4","borderColor":"#cff9a4","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6]},{"label":"Kendrick Lamar","backgroundColor":"#01a876","borderColor":"#01a876","data":[0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Aimee Mann","backgroundColor":"#4143cc","borderColor":"#4143cc","data":[0,0,0,1,1,0,1,1,0,0,0,0,0,0,2,0,0]},{"label":"Alain Lefèvre","backgroundColor":"#57ce42","borderColor":"#57ce42","data":[0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"FOXTROTT","backgroundColor":"#ed756f","borderColor":"#ed756f","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0]},{"label":"Coldplay & Rihanna","backgroundColor":"#e05790","borderColor":"#e05790","data":[0,0,0,0,0,0,0,0,1,1,0,0,0,0,4,0,0]},{"label":"Song Exploder","backgroundColor":"#7586f4","borderColor":"#7586f4","data":[0,0,0,2,0,1,1,2,0,0,0,0,0,0,0,0,0]},{"label":"Moura Lympany","backgroundColor":"#f4a6cc","borderColor":"#f4a6cc","data":[0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Future of Forestry","backgroundColor":"#efaed3","borderColor":"#efaed3","data":[0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jean-Bernard Pommier","backgroundColor":"#d8f794","borderColor":"#d8f794","data":[0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wolf Parade","backgroundColor":"#ed9078","borderColor":"#ed9078","data":[0,0,0,2,0,1,1,1,0,0,0,0,0,0,1,0,0]},{"label":"Two Door Cinema Club","backgroundColor":"#e06b9c","borderColor":"#e06b9c","data":[0,1,0,1,0,0,1,0,0,3,0,0,0,0,0,0,0]},{"label":"JUSTICE","backgroundColor":"#dce268","borderColor":"#dce268","data":[0,0,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"JESSE MARCHANT","backgroundColor":"#afffd3","borderColor":"#afffd3","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0]},{"label":"New Young Pony Club","backgroundColor":"#d838b3","borderColor":"#d838b3","data":[0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,2]},{"label":"BANNERS","backgroundColor":"#acf489","borderColor":"#acf489","data":[0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bon Iver","backgroundColor":"#42ddd6","borderColor":"#42ddd6","data":[0,1,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bruce Cockburn","backgroundColor":"#86a9f9","borderColor":"#86a9f9","data":[0,0,1,0,0,0,0,0,0,0,2,2,0,0,0,1,0]},{"label":"Anne-Sophie Mutter","backgroundColor":"#f27848","borderColor":"#f27848","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4]},{"label":"Empire Of The Sun","backgroundColor":"#2c67cc","borderColor":"#2c67cc","data":[0,0,0,3,1,0,1,1,0,0,0,0,0,0,0,0,0]},{"label":"Daniel Barenboim","backgroundColor":"#d849d8","borderColor":"#d849d8","data":[0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Miike Snow","backgroundColor":"#f4e397","borderColor":"#f4e397","data":[0,0,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Declan McKenna","backgroundColor":"#e283cb","borderColor":"#e283cb","data":[0,0,0,1,0,0,0,1,0,2,2,0,0,0,0,0,0]},{"label":"Jason Collett","backgroundColor":"#134d8c","borderColor":"#134d8c","data":[0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,1,0]},{"label":"Queen","backgroundColor":"#dd8c08","borderColor":"#dd8c08","data":[0,0,1,0,1,1,1,0,2,0,0,0,0,0,0,0,0]},{"label":"YACHT","backgroundColor":"#f2b3d4","borderColor":"#f2b3d4","data":[0,0,0,2,0,1,0,0,0,0,0,0,2,0,0,1,0]},{"label":"CAKE","backgroundColor":"#aced8e","borderColor":"#aced8e","data":[0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,1,0]},{"label":"New York Philharmonic","backgroundColor":"#c9fc83","borderColor":"#c9fc83","data":[0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0]},{"label":"Modest Mouse","backgroundColor":"#f2e771","borderColor":"#f2e771","data":[0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0]},{"label":"Ryan Gosling","backgroundColor":"#91e204","borderColor":"#91e204","data":[0,0,0,3,0,0,0,1,0,1,0,0,0,0,1,0,0]},{"label":"La Roux","backgroundColor":"#eba6f4","borderColor":"#eba6f4","data":[0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Cold War Kids","backgroundColor":"#d85d65","borderColor":"#d85d65","data":[0,0,0,2,0,0,0,1,0,2,0,0,0,0,0,0,0]},{"label":"Stevie Wonder","backgroundColor":"#11d3f9","borderColor":"#11d3f9","data":[0,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"The Royal Philharmonic Orchestra","backgroundColor":"#f12ef4","borderColor":"#f12ef4","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0]},{"label":"Kurt Vile","backgroundColor":"#a413c1","borderColor":"#a413c1","data":[0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,2,0]},{"label":"London Symphony Orchestra & Josef Krips","backgroundColor":"#c6a005","borderColor":"#c6a005","data":[0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Vladimir Horowitz","backgroundColor":"#410989","borderColor":"#410989","data":[0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Rusted Root","backgroundColor":"#f9e5c0","borderColor":"#f9e5c0","data":[0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0]},{"label":"Neeme Järvi","backgroundColor":"#48189b","borderColor":"#48189b","data":[0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0]},{"label":"Beirut","backgroundColor":"#addaea","borderColor":"#addaea","data":[0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,0,0]},{"label":"My Brother, My Brother And Me","backgroundColor":"#e810d2","borderColor":"#e810d2","data":[0,0,0,0,0,2,0,1,0,0,1,1,0,0,0,0,0]},{"label":"Elliott BROOD","backgroundColor":"#e8a784","borderColor":"#e8a784","data":[0,0,1,0,0,0,0,0,0,0,1,2,1,0,0,0,0]},{"label":"A Piece of Work","backgroundColor":"#d249fc","borderColor":"#d249fc","data":[5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bry Webb","backgroundColor":"#34bc20","borderColor":"#34bc20","data":[0,0,1,0,0,0,1,0,0,0,1,2,0,0,0,0,0]},{"label":"Jet","backgroundColor":"#7154d8","borderColor":"#7154d8","data":[0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0]},{"label":"Mo Kenney","backgroundColor":"#f9bb1d","borderColor":"#f9bb1d","data":[0,0,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0]},{"label":"Major Murphy","backgroundColor":"#8da2f4","borderColor":"#8da2f4","data":[0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0]},{"label":"Childish Gambino","backgroundColor":"#89eda2","borderColor":"#89eda2","data":[0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0]},{"label":"Sir John Eliot Gardiner","backgroundColor":"#1b13af","borderColor":"#1b13af","data":[0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0]},{"label":"The Cult","backgroundColor":"#3df4eb","borderColor":"#3df4eb","data":[0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The National","backgroundColor":"#f4f190","borderColor":"#f4f190","data":[0,0,1,2,0,1,0,0,0,0,0,1,0,0,0,0,0]},{"label":"The Doors","backgroundColor":"#d11d26","borderColor":"#d11d26","data":[0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Fleet Foxes","backgroundColor":"#27a6ad","borderColor":"#27a6ad","data":[0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dorothea Siebert","backgroundColor":"#9fea69","borderColor":"#9fea69","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0]},{"label":"Loch Lomond","backgroundColor":"#f7c3b7","borderColor":"#f7c3b7","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0]},{"label":"Daryl Hall & John Oates","backgroundColor":"#abf7a5","borderColor":"#abf7a5","data":[0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,0,0]},{"label":"Bat For Lashes","backgroundColor":"#ffd57c","borderColor":"#ffd57c","data":[0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Massive Attack","backgroundColor":"#edf4a1","borderColor":"#edf4a1","data":[0,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0]},{"label":"The English Beat","backgroundColor":"#e4ea2c","borderColor":"#e4ea2c","data":[0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,2,0]},{"label":"Daniel, Fred, and Julie","backgroundColor":"#519bc6","borderColor":"#519bc6","data":[0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0]},{"label":"Sufjan Stevens","backgroundColor":"#01a1ba","borderColor":"#01a1ba","data":[0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bahamas","backgroundColor":"#efaed0","borderColor":"#efaed0","data":[0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,1,0]},{"label":"The Chemical Brothers","backgroundColor":"#54027c","borderColor":"#54027c","data":[0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,1]},{"label":"Ólafur Arnalds","backgroundColor":"#d87c52","borderColor":"#d87c52","data":[0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sharon Van Etten","backgroundColor":"#ba0346","borderColor":"#ba0346","data":[1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0]},{"label":"Kimbra","backgroundColor":"#baef86","borderColor":"#baef86","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0]},{"label":"Yaz","backgroundColor":"#b52e01","borderColor":"#b52e01","data":[0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,2,0]},{"label":"Wild Nothing","backgroundColor":"#26d632","borderColor":"#26d632","data":[1,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Interpol","backgroundColor":"#c64809","borderColor":"#c64809","data":[0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Devendra Banhart","backgroundColor":"#f4b7c3","borderColor":"#f4b7c3","data":[0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Royal Concertgebouw Orchestra","backgroundColor":"#a482dd","borderColor":"#a482dd","data":[0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0]},{"label":"Felix Mendelssohn","backgroundColor":"#64bfd6","borderColor":"#64bfd6","data":[0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0]},{"label":"Vienna Philharmonic Orchestra, Bruno Walter","backgroundColor":"#32e57a","borderColor":"#32e57a","data":[0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0]},{"label":"LVL UP","backgroundColor":"#89e837","borderColor":"#89e837","data":[0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0]},{"label":"Sarah Harmer","backgroundColor":"#8ef986","borderColor":"#8ef986","data":[0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0]},{"label":"Ladytron","backgroundColor":"#5778ba","borderColor":"#5778ba","data":[0,0,0,1,0,0,1,0,0,0,0,2,0,0,0,0,0]},{"label":"Boxed In","backgroundColor":"#aa2605","borderColor":"#aa2605","data":[0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Lisa Hannigan","backgroundColor":"#423da0","borderColor":"#423da0","data":[0,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0]},{"label":"Bruno Coulais","backgroundColor":"#ef34a4","borderColor":"#ef34a4","data":[0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0]},{"label":"Supreme Beings Of Leisure","backgroundColor":"#e53dc9","borderColor":"#e53dc9","data":[0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0]},{"label":"Diana Ross","backgroundColor":"#337d96","borderColor":"#337d96","data":[0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Jon Fratelli","backgroundColor":"#dd358c","borderColor":"#dd358c","data":[0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0]},{"label":"Noah And The Whale","backgroundColor":"#bc53e2","borderColor":"#bc53e2","data":[0,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0]},{"label":"Janice Graham","backgroundColor":"#16aa76","borderColor":"#16aa76","data":[0,0,0,1,2,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Kraftwerk","backgroundColor":"#bf5a46","borderColor":"#bf5a46","data":[0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0]},{"label":"Agnes Obel","backgroundColor":"#d13ab2","borderColor":"#d13ab2","data":[0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Electric Light Orchestra","backgroundColor":"#abfcf5","borderColor":"#abfcf5","data":[0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0]},{"label":"Chvrches","backgroundColor":"#b5ffaf","borderColor":"#b5ffaf","data":[0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1]},{"label":"Haley Heynderickx","backgroundColor":"#ecef4a","borderColor":"#ecef4a","data":[0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0]},{"label":"Can","backgroundColor":"#ac72cc","borderColor":"#ac72cc","data":[0,0,0,1,0,0,1,0,0,0,0,0,0,2,0,0,0]},{"label":"Lindstrøm & Christabelle","backgroundColor":"#2fcc26","borderColor":"#2fcc26","data":[0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2]},{"label":"Concertgebouw Orchestra of Amsterdam","backgroundColor":"#f4b7d4","borderColor":"#f4b7d4","data":[0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0]},{"label":"Switched On Pop","backgroundColor":"#f70e6f","borderColor":"#f70e6f","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0]},{"label":"The Temper Trap","backgroundColor":"#efa5dd","borderColor":"#efa5dd","data":[0,0,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Göteborgs Symfoniker","backgroundColor":"#d2ef2f","borderColor":"#d2ef2f","data":[0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0]},{"label":"Jungle","backgroundColor":"#91eaa9","borderColor":"#91eaa9","data":[0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Jamie xx","backgroundColor":"#d7baf4","borderColor":"#d7baf4","data":[0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Irwin Kostal","backgroundColor":"#a6f481","borderColor":"#a6f481","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0]},{"label":"The Mountains & The Trees","backgroundColor":"#e866bc","borderColor":"#e866bc","data":[0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0]},{"label":"Julian Casablancas","backgroundColor":"#b0aded","borderColor":"#b0aded","data":[0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Patrick Watson","backgroundColor":"#4bd865","borderColor":"#4bd865","data":[0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0]},{"label":"Avril Lavigne","backgroundColor":"#c500fc","borderColor":"#c500fc","data":[0,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,0]},{"label":"Dubravka Tomsic","backgroundColor":"#2b8402","borderColor":"#2b8402","data":[0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Vince Guaraldi Trio","backgroundColor":"#f4ae92","borderColor":"#f4ae92","data":[0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0]},{"label":"Vance Joy","backgroundColor":"#1f23f4","borderColor":"#1f23f4","data":[0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,1]},{"label":"Meet the Composer","backgroundColor":"#fc8dd1","borderColor":"#fc8dd1","data":[0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Au Revoir Simone","backgroundColor":"#f77e84","borderColor":"#f77e84","data":[0,0,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0]},{"label":"Peter Gordon & The Love Of Life Orchestra","backgroundColor":"#ba8aea","borderColor":"#ba8aea","data":[0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0]},{"label":"Rogue Wave","backgroundColor":"#048768","borderColor":"#048768","data":[0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0]},{"label":"Jack Johnson","backgroundColor":"#f934f9","borderColor":"#f934f9","data":[0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,0]},{"label":"Ancient Astronauts","backgroundColor":"#3b2dd8","borderColor":"#3b2dd8","data":[0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Rogue Valley","backgroundColor":"#009b07","borderColor":"#009b07","data":[0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0]},{"label":"ESG","backgroundColor":"#f29bd5","borderColor":"#f29bd5","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"Black Box","backgroundColor":"#6c6cc9","borderColor":"#6c6cc9","data":[0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Soft Cell","backgroundColor":"#2033bf","borderColor":"#2033bf","data":[0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Majical Cloudz","backgroundColor":"#5a93e2","borderColor":"#5a93e2","data":[0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Human League","backgroundColor":"#c49515","borderColor":"#c49515","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,1,0]},{"label":"Lisa Leblanc","backgroundColor":"#92f4bb","borderColor":"#92f4bb","data":[0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Fujiya & Miyagi","backgroundColor":"#e7c0f7","borderColor":"#e7c0f7","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1]},{"label":"Röyksopp","backgroundColor":"#87b0e5","borderColor":"#87b0e5","data":[0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Soulwax","backgroundColor":"#9a88e8","borderColor":"#9a88e8","data":[0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Band","backgroundColor":"#d112a4","borderColor":"#d112a4","data":[0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0]},{"label":"Tricky","backgroundColor":"#32d167","borderColor":"#32d167","data":[0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Knack","backgroundColor":"#7cf9a4","borderColor":"#7cf9a4","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"Orchester der Bayreuther Festspiele","backgroundColor":"#c2dd37","borderColor":"#c2dd37","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0]},{"label":"Fischerspooner","backgroundColor":"#bf3ce0","borderColor":"#bf3ce0","data":[0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Mogwai","backgroundColor":"#47cc3b","borderColor":"#47cc3b","data":[3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wilco","backgroundColor":"#ba7ff4","borderColor":"#ba7ff4","data":[0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2]},{"label":"CSS","backgroundColor":"#8175ce","borderColor":"#8175ce","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1]},{"label":"Ought","backgroundColor":"#d8b8f2","borderColor":"#d8b8f2","data":[0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0]},{"label":"Brian Eno","backgroundColor":"#8bd4ed","borderColor":"#8bd4ed","data":[0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Claude Debussy","backgroundColor":"#ff8486","borderColor":"#ff8486","data":[0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0]},{"label":"Hey Ocean!","backgroundColor":"#53d33d","borderColor":"#53d33d","data":[0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0]},{"label":"Cowboy Junkies","backgroundColor":"#2db526","borderColor":"#2db526","data":[0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0]},{"label":"Serena Ryder","backgroundColor":"#ed6f75","borderColor":"#ed6f75","data":[0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"Buffalo Springfield","backgroundColor":"#f9eaac","borderColor":"#f9eaac","data":[0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0]},{"label":"Hollerado","backgroundColor":"#dd5c4d","borderColor":"#dd5c4d","data":[0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0]},{"label":"Lakota West High School Symphonic Winds","backgroundColor":"#9dd7e0","borderColor":"#9dd7e0","data":[0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0]},{"label":"The Once","backgroundColor":"#eddba6","borderColor":"#eddba6","data":[0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0]},{"label":"Violent Femmes","backgroundColor":"#8b9fed","borderColor":"#8b9fed","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0]},{"label":"James Brown","backgroundColor":"#b299dd","borderColor":"#b299dd","data":[0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0]},{"label":"Rilo Kiley","backgroundColor":"#aa4029","borderColor":"#aa4029","data":[0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0]},{"label":"The Horrors","backgroundColor":"#a2eff2","borderColor":"#a2eff2","data":[0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Stefania Malagu","backgroundColor":"#e7fc71","borderColor":"#e7fc71","data":[0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0]},{"label":"Yo La Tengo","backgroundColor":"#ed68b5","borderColor":"#ed68b5","data":[0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0]},{"label":"Hayden","backgroundColor":"#f2a4cf","borderColor":"#f2a4cf","data":[0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0]},{"label":"The Wombats","backgroundColor":"#f2977d","borderColor":"#f2977d","data":[0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0]},{"label":"Emma Blackery","backgroundColor":"#fce00f","borderColor":"#fce00f","data":[0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Boston Symphony Orchestra, Charles Munch","backgroundColor":"#29bc61","borderColor":"#29bc61","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0]},{"label":"The Rewatchables","backgroundColor":"#e87774","borderColor":"#e87774","data":[0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0]},{"label":"Donovan Woods","backgroundColor":"#5ba4c1","borderColor":"#5ba4c1","data":[0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0]},{"label":"Basia Bulat","backgroundColor":"#dd71c8","borderColor":"#dd71c8","data":[0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0]},{"label":"Panama","backgroundColor":"#098ba5","borderColor":"#098ba5","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0]},{"label":"The Avalanches","backgroundColor":"#60f449","borderColor":"#60f449","data":[0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0]},{"label":"Junior Boys","backgroundColor":"#f4645f","borderColor":"#f4645f","data":[0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"The Juan Maclean","backgroundColor":"#dd97ed","borderColor":"#dd97ed","data":[0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Emm Gryner","backgroundColor":"#d8e800","borderColor":"#d8e800","data":[0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0]},{"label":"Shit Robot","backgroundColor":"#aac1ed","borderColor":"#aac1ed","data":[0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Jónsi","backgroundColor":"#f2a2ce","borderColor":"#f2a2ce","data":[0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0]},{"label":"Metronomy","backgroundColor":"#ddb94b","borderColor":"#ddb94b","data":[0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Jean-Pierre Rampal, Orchestre Jean-François Paillard, Lily Laskine","backgroundColor":"#255ea3","borderColor":"#255ea3","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0]},{"label":"Lily Laskine, Jean-Pierre Rampal, Pierre Pasquier","backgroundColor":"#abd85d","borderColor":"#abd85d","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0]},{"label":"Paul Tortelier, Jean Hubeau","backgroundColor":"#fce5bf","borderColor":"#fce5bf","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0]},{"label":"Charles Cyroulnik, Jean Hubeau","backgroundColor":"#f981b9","borderColor":"#f981b9","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0]},{"label":"Djansug Kakhidze","backgroundColor":"#2be575","borderColor":"#2be575","data":[0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0]},{"label":"Alexi Murdoch","backgroundColor":"#f2a4e0","borderColor":"#f2a4e0","data":[0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Iggy Pop","backgroundColor":"#eaa8ca","borderColor":"#eaa8ca","data":[0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Johnny Flynn","backgroundColor":"#35c458","borderColor":"#35c458","data":[0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lewis Del Mar","backgroundColor":"#d66422","borderColor":"#d66422","data":[0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"The Acorn","backgroundColor":"#ffaffd","borderColor":"#ffaffd","data":[0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0]},{"label":"Neutral Milk Hotel","backgroundColor":"#607cc9","borderColor":"#607cc9","data":[0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Chee-Yun","backgroundColor":"#ffffad","borderColor":"#ffffad","data":[0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0]},{"label":"Oasis","backgroundColor":"#d34c74","borderColor":"#d34c74","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2]},{"label":"Generation X","backgroundColor":"#799912","borderColor":"#799912","data":[0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Camera Obscura","backgroundColor":"#53b70c","borderColor":"#53b70c","data":[0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Vandelux","backgroundColor":"#a3ffc4","borderColor":"#a3ffc4","data":[0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0]},{"label":"Wolf Gang","backgroundColor":"#8b4fd1","borderColor":"#8b4fd1","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Houses","backgroundColor":"#e84ad3","borderColor":"#e84ad3","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Scissor Sisters","backgroundColor":"#69f73d","borderColor":"#69f73d","data":[0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Middle Kids","backgroundColor":"#031d72","borderColor":"#031d72","data":[0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0]},{"label":"alt-J","backgroundColor":"#e861ca","borderColor":"#e861ca","data":[0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0]},{"label":"Butthole Surfers","backgroundColor":"#3cd12b","borderColor":"#3cd12b","data":[0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Wax Tailor","backgroundColor":"#ed905a","borderColor":"#ed905a","data":[0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kid Koala","backgroundColor":"#7ace14","borderColor":"#7ace14","data":[0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Grateful Dead","backgroundColor":"#005ab5","borderColor":"#005ab5","data":[0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0]},{"label":"Matt & Kim","backgroundColor":"#83a9fc","borderColor":"#83a9fc","data":[0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0]},{"label":"Deee-Lite","backgroundColor":"#ea357b","borderColor":"#ea357b","data":[0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mark Ronson","backgroundColor":"#fc813f","borderColor":"#fc813f","data":[0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Grace Mitchell","backgroundColor":"#6cfc3c","borderColor":"#6cfc3c","data":[0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0]},{"label":"John McCarthy Chorus","backgroundColor":"#57abc6","borderColor":"#57abc6","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0]},{"label":"The Velvet Underground","backgroundColor":"#c9ed82","borderColor":"#c9ed82","data":[0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0]},{"label":"Gang Of Four","backgroundColor":"#2020cc","borderColor":"#2020cc","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0]},{"label":"Boards of Canada","backgroundColor":"#93ffd5","borderColor":"#93ffd5","data":[0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"BØRNS","backgroundColor":"#83e2a3","borderColor":"#83e2a3","data":[0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0]},{"label":"Future Islands","backgroundColor":"#a0140c","borderColor":"#a0140c","data":[0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0]},{"label":"James Murphy","backgroundColor":"#fcf594","borderColor":"#fcf594","data":[0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lou Reed","backgroundColor":"#3cc95a","borderColor":"#3cc95a","data":[0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Grimes","backgroundColor":"#ff4495","borderColor":"#ff4495","data":[0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"SBTRKT","backgroundColor":"#791fef","borderColor":"#791fef","data":[0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Suicide","backgroundColor":"#e8e166","borderColor":"#e8e166","data":[0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Tears For Fears","backgroundColor":"#4dddd9","borderColor":"#4dddd9","data":[0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0]},{"label":"Joe Jackson","backgroundColor":"#41e0c3","borderColor":"#41e0c3","data":[0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0]},{"label":"Ramin Djawadi","backgroundColor":"#f4a4b0","borderColor":"#f4a4b0","data":[0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kudu","backgroundColor":"#f4e3ab","borderColor":"#f4e3ab","data":[0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Eminem","backgroundColor":"#5212c9","borderColor":"#5212c9","data":[0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mozart Festival Orchester, Svetlana Stanceva, Marco Bertone","backgroundColor":"#f99489","borderColor":"#f99489","data":[0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Gerhard Stempnik","backgroundColor":"#617de2","borderColor":"#617de2","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2]},{"label":"Alexandra Savior","backgroundColor":"#c5a6f4","borderColor":"#c5a6f4","data":[0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0]},{"label":"Klaxons","backgroundColor":"#d3771b","borderColor":"#d3771b","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Jem","backgroundColor":"#95f450","borderColor":"#95f450","data":[0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Gordon Lightfoot","backgroundColor":"#ef0735","borderColor":"#ef0735","data":[0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0]},{"label":"The Used","backgroundColor":"#e2ff99","borderColor":"#e2ff99","data":[0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Happy Mondays","backgroundColor":"#6ff2b5","borderColor":"#6ff2b5","data":[0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Cars","backgroundColor":"#6b58c9","borderColor":"#6b58c9","data":[0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Niki & The Dove","backgroundColor":"#1e7496","borderColor":"#1e7496","data":[0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Matthew Barber","backgroundColor":"#c5f77b","borderColor":"#c5f77b","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0]},{"label":"Nick Drake","backgroundColor":"#21118e","borderColor":"#21118e","data":[0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0]},{"label":"The Knife","backgroundColor":"#93ff89","borderColor":"#93ff89","data":[0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Chet Faker","backgroundColor":"#e64cf7","borderColor":"#e64cf7","data":[0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"The Waitresses","backgroundColor":"#d4b7ff","borderColor":"#d4b7ff","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"Sylvan Esso","backgroundColor":"#3d0275","borderColor":"#3d0275","data":[0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"Big Thief","backgroundColor":"#50f237","borderColor":"#50f237","data":[0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0]},{"label":"The B-52'S","backgroundColor":"#d0f93b","borderColor":"#d0f93b","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0]},{"label":"Soko","backgroundColor":"#e2a06a","borderColor":"#e2a06a","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Weepies","backgroundColor":"#c6abf2","borderColor":"#c6abf2","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"High Highs","backgroundColor":"#ffc6f2","borderColor":"#ffc6f2","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lauren Daigle","backgroundColor":"#2f77d6","borderColor":"#2f77d6","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Low Roar","backgroundColor":"#efa7d8","borderColor":"#efa7d8","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tubeway Army","backgroundColor":"#0a3687","borderColor":"#0a3687","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1]},{"label":"Leftfield","backgroundColor":"#b7ed8e","borderColor":"#b7ed8e","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Cat Power","backgroundColor":"#232cd3","borderColor":"#232cd3","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jimmy Eat World","backgroundColor":"#7a48bf","borderColor":"#7a48bf","data":[0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"She & Him","backgroundColor":"#2bbfb2","borderColor":"#2bbfb2","data":[0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Fiona Apple","backgroundColor":"#9dddea","borderColor":"#9dddea","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ceri-lyn Cissone","backgroundColor":"#fc9e7b","borderColor":"#fc9e7b","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Michael Spyres","backgroundColor":"#efd947","borderColor":"#efd947","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Atlas Sound","backgroundColor":"#16149b","borderColor":"#16149b","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bjork","backgroundColor":"#f98ebe","borderColor":"#f98ebe","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Gossip","backgroundColor":"#b17ee5","borderColor":"#b17ee5","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Barrett Strong","backgroundColor":"#f2dfae","borderColor":"#f2dfae","data":[1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0]},{"label":"Amon Tobin","backgroundColor":"#7cfc37","borderColor":"#7cfc37","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Beastie Boys","backgroundColor":"#a7f9cd","borderColor":"#a7f9cd","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Nico Muhly","backgroundColor":"#d2aeef","borderColor":"#d2aeef","data":[0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jill Barber","backgroundColor":"#6093f2","borderColor":"#6093f2","data":[0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0]},{"label":"Lykke Li","backgroundColor":"#bf1360","borderColor":"#bf1360","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Frankie Smith","backgroundColor":"#ef8dd0","borderColor":"#ef8dd0","data":[0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Young Galaxy","backgroundColor":"#f4fcae","borderColor":"#f4fcae","data":[0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"Hockey","backgroundColor":"#be67db","borderColor":"#be67db","data":[0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Tanukichan","backgroundColor":"#013b7a","borderColor":"#013b7a","data":[0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0]},{"label":"The Quarry Men","backgroundColor":"#07446b","borderColor":"#07446b","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"JR JR","backgroundColor":"#46f29f","borderColor":"#46f29f","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"The Pharcyde","backgroundColor":"#a8d3ed","borderColor":"#a8d3ed","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0]},{"label":"Frank Shipway","backgroundColor":"#e01d92","borderColor":"#e01d92","data":[0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Jim Guthrie","backgroundColor":"#98db46","borderColor":"#98db46","data":[0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0]},{"label":"In Flagranti","backgroundColor":"#eda6af","borderColor":"#eda6af","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Captain Beefheart & His Magic Band","backgroundColor":"#d157ed","borderColor":"#d157ed","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Deerhunter","backgroundColor":"#6ed873","borderColor":"#6ed873","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"Dizzy","backgroundColor":"#a1b2f4","borderColor":"#a1b2f4","data":[0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0]},{"label":"Laurent Garnier","backgroundColor":"#179319","borderColor":"#179319","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Un Blonde","backgroundColor":"#0839ce","borderColor":"#0839ce","data":[0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"Rhye","backgroundColor":"#ac0eea","borderColor":"#ac0eea","data":[0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"Grace Jones","backgroundColor":"#b25f11","borderColor":"#b25f11","data":[0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Porter Robinson","backgroundColor":"#b7adf4","borderColor":"#b7adf4","data":[0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0]},{"label":"Little Daylight","backgroundColor":"#54d37e","borderColor":"#54d37e","data":[0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Suuns","backgroundColor":"#5ed1e5","borderColor":"#5ed1e5","data":[0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0]},{"label":"Yoke Lore","backgroundColor":"#92fcb7","borderColor":"#92fcb7","data":[0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Bend Sinister","backgroundColor":"#3b1077","borderColor":"#3b1077","data":[0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0]},{"label":"James Supercave","backgroundColor":"#57ed55","borderColor":"#57ed55","data":[0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Amy O","backgroundColor":"#bbf49c","borderColor":"#bbf49c","data":[2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Hollow Coves","backgroundColor":"#bdedf9","borderColor":"#bdedf9","data":[0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0]},{"label":"Aldo Ciccolini","backgroundColor":"#4145ba","borderColor":"#4145ba","data":[0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"The Bird And The Bee","backgroundColor":"#e2a471","borderColor":"#e2a471","data":[0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Joni Mitchell","backgroundColor":"#872ccc","borderColor":"#872ccc","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0]},{"label":"Jim Bryson","backgroundColor":"#17efe1","borderColor":"#17efe1","data":[0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"MisterWives","backgroundColor":"#74dbb8","borderColor":"#74dbb8","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Peaches","backgroundColor":"#47e85a","borderColor":"#47e85a","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"Jukebox The Ghost","backgroundColor":"#b0e577","borderColor":"#b0e577","data":[0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Mozarteum Quartet","backgroundColor":"#fcec85","borderColor":"#fcec85","data":[0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0]},{"label":"Mozart","backgroundColor":"#dbac67","borderColor":"#dbac67","data":[0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Gino Soccio","backgroundColor":"#dd40a1","borderColor":"#dd40a1","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Leszek Możdżer","backgroundColor":"#a9fcaa","borderColor":"#a9fcaa","data":[0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Oh Susanna","backgroundColor":"#f9bea4","borderColor":"#f9bea4","data":[0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Del Barber","backgroundColor":"#45c9f9","borderColor":"#45c9f9","data":[0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0]},{"label":"Mount Eerie","backgroundColor":"#a4f9e6","borderColor":"#a4f9e6","data":[0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0]},{"label":"Timber Timbre","backgroundColor":"#96a7ea","borderColor":"#96a7ea","data":[0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0]},{"label":"Eric B. & Rakim","backgroundColor":"#dd4b4d","borderColor":"#dd4b4d","data":[0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0]},{"label":"The Modern Lovers","backgroundColor":"#80d117","borderColor":"#80d117","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Monika Krause","backgroundColor":"#ce0462","borderColor":"#ce0462","data":[0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Kinnie Starr","backgroundColor":"#e57078","borderColor":"#e57078","data":[0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0]},{"label":"Evening Hymns","backgroundColor":"#d1670a","borderColor":"#d1670a","data":[0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0]},{"label":"Six Finger Satellite","backgroundColor":"#ad062d","borderColor":"#ad062d","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Bryan Ferry","backgroundColor":"#eff97c","borderColor":"#eff97c","data":[0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"The Deep Dark Woods","backgroundColor":"#6815d6","borderColor":"#6815d6","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0]},{"label":"Katie Moore","backgroundColor":"#e27fd2","borderColor":"#e27fd2","data":[0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0]},{"label":"The Weather Station","backgroundColor":"#6abcc4","borderColor":"#6abcc4","data":[0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Hardhouse","backgroundColor":"#4adb95","borderColor":"#4adb95","data":[0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Rah Rah","backgroundColor":"#79e868","borderColor":"#79e868","data":[0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0]},{"label":"Stars","backgroundColor":"#c1f24f","borderColor":"#c1f24f","data":[0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Amelia Curran","backgroundColor":"#541b87","borderColor":"#541b87","data":[0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Mes Aïeux","backgroundColor":"#2b46bc","borderColor":"#2b46bc","data":[0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Daniel Romano","backgroundColor":"#16b7ba","borderColor":"#16b7ba","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"Kaiser Chiefs","backgroundColor":"#eae06b","borderColor":"#eae06b","data":[0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Le Tigre","backgroundColor":"#cfd865","borderColor":"#cfd865","data":[0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Rose Cousins","backgroundColor":"#31d652","borderColor":"#31d652","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"The Libertines","backgroundColor":"#ac8cff","borderColor":"#ac8cff","data":[0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0]},{"label":"Stephen Merritt","backgroundColor":"#edd589","borderColor":"#edd589","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"George Harrison","backgroundColor":"#f2e82e","borderColor":"#f2e82e","data":[0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Tina Dico","backgroundColor":"#27d86e","borderColor":"#27d86e","data":[0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Ray Parker Jr.","backgroundColor":"#94ef9c","borderColor":"#94ef9c","data":[0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Twin Shadow","backgroundColor":"#ed4542","borderColor":"#ed4542","data":[0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Blue Rodeo","backgroundColor":"#bf763f","borderColor":"#bf763f","data":[0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Depeche Mode","backgroundColor":"#88efbd","borderColor":"#88efbd","data":[0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"The Dears","backgroundColor":"#07af1d","borderColor":"#07af1d","data":[0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Yeasayer","backgroundColor":"#128c86","borderColor":"#128c86","data":[0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Purity Ring","backgroundColor":"#7fe2c6","borderColor":"#7fe2c6","data":[0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Animal Collective","backgroundColor":"#ffd9a8","borderColor":"#ffd9a8","data":[0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Joel Plaskett Emergency","backgroundColor":"#2020d8","borderColor":"#2020d8","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"Debbie Harry & Franz Ferdinand","backgroundColor":"#b9ea91","borderColor":"#b9ea91","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"City And Colour","backgroundColor":"#55c0d6","borderColor":"#55c0d6","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"Daniela Barcellona","backgroundColor":"#dd0dbe","borderColor":"#dd0dbe","data":[0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0]},{"label":"Michele Pertusi","backgroundColor":"#430a72","borderColor":"#430a72","data":[0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0]},{"label":"Cœur de pirate","backgroundColor":"#f9a2a3","borderColor":"#f9a2a3","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"Khruangbin","backgroundColor":"#efcc97","borderColor":"#efcc97","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0]},{"label":"Amy Millan","backgroundColor":"#ff16e0","borderColor":"#ff16e0","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"Charli XCX","backgroundColor":"#abe038","borderColor":"#abe038","data":[0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Simon & Garfunkel","backgroundColor":"#83eaaa","borderColor":"#83eaaa","data":[0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0]},{"label":"Daniel Lanois","backgroundColor":"#d14b6a","borderColor":"#d14b6a","data":[0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Thus:Owls","backgroundColor":"#68b3f9","borderColor":"#68b3f9","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"The Rammellzee vs. K-Rob","backgroundColor":"#ea107d","borderColor":"#ea107d","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"OutKast","backgroundColor":"#8d65bf","borderColor":"#8d65bf","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Michael Rault","backgroundColor":"#bd51db","borderColor":"#bd51db","data":[0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"The Selecter","backgroundColor":"#f9d9c0","borderColor":"#f9d9c0","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Whitney","backgroundColor":"#8ea1ed","borderColor":"#8ea1ed","data":[0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Look Vibrant","backgroundColor":"#cc3c2e","borderColor":"#cc3c2e","data":[0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0]},{"label":"Evanescence","backgroundColor":"#1980ff","borderColor":"#1980ff","data":[0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Shy Child","backgroundColor":"#f7a085","borderColor":"#f7a085","data":[0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Radio 4","backgroundColor":"#af2ecc","borderColor":"#af2ecc","data":[0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Alex Lahey","backgroundColor":"#a52b29","borderColor":"#a52b29","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0]},{"label":"Cascada","backgroundColor":"#c60d4b","borderColor":"#c60d4b","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"The Presidents of the United States of America","backgroundColor":"#6870e2","borderColor":"#6870e2","data":[0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0]},{"label":"The Thermals","backgroundColor":"#581c93","borderColor":"#581c93","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Plácido Domingo","backgroundColor":"#6af2bb","borderColor":"#6af2bb","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"Siouxsie And The Banshees","backgroundColor":"#f21592","borderColor":"#f21592","data":[0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"DJ Vadim","backgroundColor":"#e5cc8e","borderColor":"#e5cc8e","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Fingathing","backgroundColor":"#dff745","borderColor":"#dff745","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jacquie Neville","backgroundColor":"#f9e4bb","borderColor":"#f9e4bb","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2]},{"label":"Blockhead","backgroundColor":"#8def92","borderColor":"#8def92","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Breakbot","backgroundColor":"#fc80a9","borderColor":"#fc80a9","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Steve Gunn","backgroundColor":"#dd8254","borderColor":"#dd8254","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0]},{"label":"Simian Mobile Disco","backgroundColor":"#612faa","borderColor":"#612faa","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"DJ T-Rock","backgroundColor":"#117bc6","borderColor":"#117bc6","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Aceyalone","backgroundColor":"#f9c0ca","borderColor":"#f9c0ca","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"BBC Symphony Orchestra","backgroundColor":"#9b4bdd","borderColor":"#9b4bdd","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Grant Lee Buffalo","backgroundColor":"#dbb157","borderColor":"#dbb157","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"World Party","backgroundColor":"#3986ce","borderColor":"#3986ce","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Ace Frehley","backgroundColor":"#049971","borderColor":"#049971","data":[0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"TUNS","backgroundColor":"#7e26b5","borderColor":"#7e26b5","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Barr Brothers","backgroundColor":"#d16800","borderColor":"#d16800","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ladyhawke","backgroundColor":"#f7afe4","borderColor":"#f7afe4","data":[0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lisa Batiashvili","backgroundColor":"#e567a4","borderColor":"#e567a4","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2]},{"label":"Samson Francois","backgroundColor":"#355cc6","borderColor":"#355cc6","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Japanese Breakfast","backgroundColor":"#e592dd","borderColor":"#e592dd","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"Passengers","backgroundColor":"#d1f98b","borderColor":"#d1f98b","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Fazerdaze","backgroundColor":"#4c0eb7","borderColor":"#4c0eb7","data":[0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0]},{"label":"3OH!3","backgroundColor":"#48ce77","borderColor":"#48ce77","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1]},{"label":"English Baroque Soloists","backgroundColor":"#6a7a03","borderColor":"#6a7a03","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Martha Wainwright","backgroundColor":"#6f56c9","borderColor":"#6f56c9","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Lindi Ortega","backgroundColor":"#e83819","borderColor":"#e83819","data":[0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Peter Peter","backgroundColor":"#f4beb5","borderColor":"#f4beb5","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Le Couleur","backgroundColor":"#18048c","borderColor":"#18048c","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Pale Lips","backgroundColor":"#ed9890","borderColor":"#ed9890","data":[0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Caroline Rose","backgroundColor":"#9fed93","borderColor":"#9fed93","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0]},{"label":"Madness","backgroundColor":"#52ad1d","borderColor":"#52ad1d","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"Pinegrove","backgroundColor":"#7affe8","borderColor":"#7affe8","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0]},{"label":"Architecture In Helsinki","backgroundColor":"#ddcd61","borderColor":"#ddcd61","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Frankie & The Heartstrings","backgroundColor":"#91ed50","borderColor":"#91ed50","data":[0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0]},{"label":"Yuli Turovsky","backgroundColor":"#13995a","borderColor":"#13995a","data":[0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Datarock","backgroundColor":"#62a2d6","borderColor":"#62a2d6","data":[0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Daniel Hope","backgroundColor":"#d12bbd","borderColor":"#d12bbd","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0]},{"label":"The Knights","backgroundColor":"#17932c","borderColor":"#17932c","data":[0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"OK Go & Perfume","backgroundColor":"#edc495","borderColor":"#edc495","data":[0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Low","backgroundColor":"#7edaea","borderColor":"#7edaea","data":[0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Monkees","backgroundColor":"#c665ed","borderColor":"#c665ed","data":[0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kool & The Gang","backgroundColor":"#ffb711","borderColor":"#ffb711","data":[0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Solange","backgroundColor":"#95ed89","borderColor":"#95ed89","data":[0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dirty Projectors","backgroundColor":"#e8744a","borderColor":"#e8744a","data":[0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"In The Valley Below","backgroundColor":"#f1b2f7","borderColor":"#f1b2f7","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0]},{"label":"Modern English","backgroundColor":"#99f71d","borderColor":"#99f71d","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Slovak Philharmonic Orchestra, Libor Pešek","backgroundColor":"#ef2687","borderColor":"#ef2687","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0]},{"label":"Divine Fits","backgroundColor":"#e0b559","borderColor":"#e0b559","data":[0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Large Symphony Orchestra of Moscow Radio, Evgeny Cherkasov","backgroundColor":"#a5adff","borderColor":"#a5adff","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0]},{"label":"Katie Else","backgroundColor":"#d61ba4","borderColor":"#d61ba4","data":[0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0]},{"label":"Prinze George","backgroundColor":"#f9e9ae","borderColor":"#f9e9ae","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tiny Victories","backgroundColor":"#911545","borderColor":"#911545","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Bright Light Social Hour","backgroundColor":"#ea526e","borderColor":"#ea526e","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Lighthouse and the Whaler","backgroundColor":"#53e871","borderColor":"#53e871","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sia","backgroundColor":"#e1ffad","borderColor":"#e1ffad","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Decemberists","backgroundColor":"#83c9db","borderColor":"#83c9db","data":[0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0]},{"label":"The Steve Miller Band","backgroundColor":"#89d2f4","borderColor":"#89d2f4","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"Michael Riesman","backgroundColor":"#75af16","borderColor":"#75af16","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0]},{"label":"Simple Minds","backgroundColor":"#abfc9f","borderColor":"#abfc9f","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Stars of the Lid","backgroundColor":"#ef4507","borderColor":"#ef4507","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Nils Frahm","backgroundColor":"#c5f7f9","borderColor":"#c5f7f9","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Rihanna","backgroundColor":"#17a56a","borderColor":"#17a56a","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The New Pornographers","backgroundColor":"#798405","borderColor":"#798405","data":[0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0]},{"label":"The Dø","backgroundColor":"#e8ccff","borderColor":"#e8ccff","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jamiroquai","backgroundColor":"#90f9b7","borderColor":"#90f9b7","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kim Carnes","backgroundColor":"#ddc85f","borderColor":"#ddc85f","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Bear in Heaven","backgroundColor":"#d6baf4","borderColor":"#d6baf4","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Trampled By Turtles","backgroundColor":"#d62890","borderColor":"#d62890","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Daughter","backgroundColor":"#e03a4d","borderColor":"#e03a4d","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Guster","backgroundColor":"#a7ff4f","borderColor":"#a7ff4f","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Lumineers","backgroundColor":"#6bf968","borderColor":"#6bf968","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mumford & Sons","backgroundColor":"#f6ffb2","borderColor":"#f6ffb2","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tall Heights","backgroundColor":"#9bf740","borderColor":"#9bf740","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Arcade Fire & David Bowie","backgroundColor":"#2cbfe8","borderColor":"#2cbfe8","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2]},{"label":"Neon Indian","backgroundColor":"#efef83","borderColor":"#efef83","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1]},{"label":"Robyn","backgroundColor":"#92e868","borderColor":"#92e868","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Pains Of Being Pure At Heart","backgroundColor":"#0068a0","borderColor":"#0068a0","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Crystal Castles","backgroundColor":"#a4f486","borderColor":"#a4f486","data":[0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kid Cudi","backgroundColor":"#ffcce8","borderColor":"#ffcce8","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Old Man Luedecke","backgroundColor":"#ddaa68","borderColor":"#ddaa68","data":[0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0]},{"label":"DJ Muggs","backgroundColor":"#312a8e","borderColor":"#312a8e","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mr. Oizo","backgroundColor":"#15b273","borderColor":"#15b273","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Candi Staton","backgroundColor":"#61d889","borderColor":"#61d889","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bill Withers","backgroundColor":"#ad63f2","borderColor":"#ad63f2","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"T. Rex","backgroundColor":"#c2e2f9","borderColor":"#c2e2f9","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Terraplane Sun","backgroundColor":"#65890b","borderColor":"#65890b","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Julian Plenti","backgroundColor":"#d98ee5","borderColor":"#d98ee5","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mungo Jerry","backgroundColor":"#dc3ffc","borderColor":"#dc3ffc","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Marvin Gaye","backgroundColor":"#cc64ef","borderColor":"#cc64ef","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Radio-Sinfonie Orchester Frankfurt","backgroundColor":"#f5c2fc","borderColor":"#f5c2fc","data":[0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0]},{"label":"Marcela Roggeri","backgroundColor":"#6fff3a","borderColor":"#6fff3a","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Filippo Quarti","backgroundColor":"#6698c1","borderColor":"#6698c1","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Moscow Academy of Choral Art","backgroundColor":"#0ef444","borderColor":"#0ef444","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Arthur Rubenstein","backgroundColor":"#34e827","borderColor":"#34e827","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"American Symphony Orchestra","backgroundColor":"#906ed8","borderColor":"#906ed8","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ásgeir","backgroundColor":"#c1f293","borderColor":"#c1f293","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jason Mraz","backgroundColor":"#d82d24","borderColor":"#d82d24","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2]},{"label":"Lamb","backgroundColor":"#78c637","borderColor":"#78c637","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Aya","backgroundColor":"#2de5c0","borderColor":"#2de5c0","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ellie Goulding","backgroundColor":"#37f2f2","borderColor":"#37f2f2","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Beyoncé","backgroundColor":"#baea77","borderColor":"#baea77","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Janet Jackson","backgroundColor":"#ffefcc","borderColor":"#ffefcc","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Adam Ant","backgroundColor":"#b67aef","borderColor":"#b67aef","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0]},{"label":"WEDNESDAY CAMPANELLA","backgroundColor":"#cc5767","borderColor":"#cc5767","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0]},{"label":"James Ehnes","backgroundColor":"#d8896e","borderColor":"#d8896e","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Valérie Milot","backgroundColor":"#d343a8","borderColor":"#d343a8","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Stéphane Tétreault","backgroundColor":"#dd1185","borderColor":"#dd1185","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Flaming Lips","backgroundColor":"#7210ea","borderColor":"#7210ea","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The War On Drugs","backgroundColor":"#c81ff2","borderColor":"#c81ff2","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Last Shadow Puppets","backgroundColor":"#0732f2","borderColor":"#0732f2","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Passenger","backgroundColor":"#ef21b5","borderColor":"#ef21b5","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"James Blake","backgroundColor":"#b0a9f9","borderColor":"#b0a9f9","data":[0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mazzy Star","backgroundColor":"#f2dd9d","borderColor":"#f2dd9d","data":[0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Boards Of Canada","backgroundColor":"#eff254","borderColor":"#eff254","data":[0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sparklehorse","backgroundColor":"#049129","borderColor":"#049129","data":[0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Fire Engines","backgroundColor":"#5f30a0","borderColor":"#5f30a0","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0]},{"label":"War","backgroundColor":"#bacfff","borderColor":"#bacfff","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0]},{"label":"The Dandy Warhols","backgroundColor":"#ce594e","borderColor":"#ce594e","data":[0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Let's Eat Grandma","backgroundColor":"#b7ed2f","borderColor":"#b7ed2f","data":[0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0]},{"label":"Kaleo","backgroundColor":"#fcbdc1","borderColor":"#fcbdc1","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bootstraps","backgroundColor":"#19a07a","borderColor":"#19a07a","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sterling Holloway","backgroundColor":"#4c44a3","borderColor":"#4c44a3","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0]},{"label":"Bruce Springsteen","backgroundColor":"#88e868","borderColor":"#88e868","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Twenty One Pilots","backgroundColor":"#9c5ae8","borderColor":"#9c5ae8","data":[0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Juliane Banse/Die 12 Cellisten der Berliner Philharmoniker","backgroundColor":"#00a58a","borderColor":"#00a58a","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sex Bob-Omb","backgroundColor":"#f4ef92","borderColor":"#f4ef92","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Anamanaguchi","backgroundColor":"#f9bdf9","borderColor":"#f9bdf9","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"k.s. Rhoads","backgroundColor":"#9846fc","borderColor":"#9846fc","data":[0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Moby","backgroundColor":"#d17030","borderColor":"#d17030","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Echo And The Bunnymen","backgroundColor":"#bc8b05","borderColor":"#bc8b05","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0]},{"label":"Easy Star All-Stars featuring Citizen Cope","backgroundColor":"#186775","borderColor":"#186775","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"UNKLE","backgroundColor":"#e2837c","borderColor":"#e2837c","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"I Monster","backgroundColor":"#e3f774","borderColor":"#e3f774","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Sadies","backgroundColor":"#8679fc","borderColor":"#8679fc","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0]},{"label":"Todd Terry","backgroundColor":"#db845c","borderColor":"#db845c","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0]},{"label":"Mr. V","backgroundColor":"#ed432d","borderColor":"#ed432d","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0]},{"label":"Chris Staples","backgroundColor":"#ea31db","borderColor":"#ea31db","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sonics","backgroundColor":"#ffd3c6","borderColor":"#ffd3c6","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0]},{"label":"Trent Dabbs","backgroundColor":"#d5e876","borderColor":"#d5e876","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Frankie Wakefield","backgroundColor":"#5af476","borderColor":"#5af476","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Drake","backgroundColor":"#a7ef88","borderColor":"#a7ef88","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Alexander Knox","backgroundColor":"#1bf922","borderColor":"#1bf922","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Wooden Sky","backgroundColor":"#d144ed","borderColor":"#d144ed","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0]},{"label":"Lucy Crowe","backgroundColor":"#db60cc","borderColor":"#db60cc","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ian & Sylvia","backgroundColor":"#cee569","borderColor":"#cee569","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0]},{"label":"Lemongrass","backgroundColor":"#aefcb6","borderColor":"#aefcb6","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Solimano","backgroundColor":"#597dcc","borderColor":"#597dcc","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Flume","backgroundColor":"#089143","borderColor":"#089143","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"45 Dip","backgroundColor":"#ffcf60","borderColor":"#ffcf60","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Enver Barış","backgroundColor":"#1a65ce","borderColor":"#1a65ce","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Books","backgroundColor":"#07b26b","borderColor":"#07b26b","data":[0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Joshua Epstein","backgroundColor":"#13ad98","borderColor":"#13ad98","data":[0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Ludwig Hoffmann","backgroundColor":"#b0cdf2","borderColor":"#b0cdf2","data":[0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0]},{"label":"Bullitnuts","backgroundColor":"#10a034","borderColor":"#10a034","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Glen Porter","backgroundColor":"#ddbe56","borderColor":"#ddbe56","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mono Poly","backgroundColor":"#82e577","borderColor":"#82e577","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Blackmill","backgroundColor":"#a160d6","borderColor":"#a160d6","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Aphex Twin","backgroundColor":"#26f2b8","borderColor":"#26f2b8","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"LTJ Bukem","backgroundColor":"#d81aac","borderColor":"#d81aac","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Nightmares On Wax","backgroundColor":"#fcccff","borderColor":"#fcccff","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Pines","backgroundColor":"#0c5cb2","borderColor":"#0c5cb2","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Session Victim","backgroundColor":"#99b2dd","borderColor":"#99b2dd","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tanlines","backgroundColor":"#e5677a","borderColor":"#e5677a","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0]},{"label":"Emancipator","backgroundColor":"#9ba508","borderColor":"#9ba508","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Liquid Stranger","backgroundColor":"#f7cdbb","borderColor":"#f7cdbb","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Long Winters","backgroundColor":"#0f4775","borderColor":"#0f4775","data":[0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Night Riots","backgroundColor":"#a69aea","borderColor":"#a69aea","data":[0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0]},{"label":"Shura","backgroundColor":"#4eedcd","borderColor":"#4eedcd","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Blonde Redhead","backgroundColor":"#c95644","borderColor":"#c95644","data":[0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"John K. Samson","backgroundColor":"#adc63d","borderColor":"#adc63d","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0]},{"label":"Crooked Fingers","backgroundColor":"#51d663","borderColor":"#51d663","data":[0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Orchestre Symphonique de Montréal","backgroundColor":"#c9cfff","borderColor":"#c9cfff","data":[0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Al Tuck","backgroundColor":"#f7dbb9","borderColor":"#f7dbb9","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0]},{"label":"Helena Deland","backgroundColor":"#52c421","borderColor":"#52c421","data":[0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Buck Meek","backgroundColor":"#4e71b2","borderColor":"#4e71b2","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Slaughter Beach, Dog","backgroundColor":"#840200","borderColor":"#840200","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"J Mascis","backgroundColor":"#db4cc1","borderColor":"#db4cc1","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Neobe","backgroundColor":"#8fef9e","borderColor":"#8fef9e","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"OneRepublic","backgroundColor":"#33119b","borderColor":"#33119b","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Budapest Philharmonic Orchestra","backgroundColor":"#18af18","borderColor":"#18af18","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Stéphane Pompougnac","backgroundColor":"#f9de93","borderColor":"#f9de93","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Northwestern University Symphonic Wind Ensemble","backgroundColor":"#74c5e0","borderColor":"#74c5e0","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"TroyBoi","backgroundColor":"#43cc8e","borderColor":"#43cc8e","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"These New Puritans","backgroundColor":"#ffbae9","borderColor":"#ffbae9","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"John Lennon","backgroundColor":"#ed76bf","borderColor":"#ed76bf","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Spencer Burton","backgroundColor":"#76f5f7","borderColor":"#76f5f7","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Kate & Anna McGarrigle","backgroundColor":"#fcba20","borderColor":"#fcba20","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Coldplay & Big Sean","backgroundColor":"#36539b","borderColor":"#36539b","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Bill Nelson","backgroundColor":"#4da8d6","borderColor":"#4da8d6","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Loose Joints","backgroundColor":"#095e6b","borderColor":"#095e6b","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Good Old War","backgroundColor":"#a8d7f4","borderColor":"#a8d7f4","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Peter Gabriel","backgroundColor":"#7cef9f","borderColor":"#7cef9f","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"FRIGS","backgroundColor":"#eaae79","borderColor":"#eaae79","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Nicholas Krgovich","backgroundColor":"#f48d5d","borderColor":"#f48d5d","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Art Brut","backgroundColor":"#a51e00","borderColor":"#a51e00","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Phil Collins","backgroundColor":"#11fc05","borderColor":"#11fc05","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Hot Chocolate","backgroundColor":"#a04dc6","borderColor":"#a04dc6","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Claudio Abbado","backgroundColor":"#e8b38f","borderColor":"#e8b38f","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Speedy Ortiz","backgroundColor":"#0bed87","borderColor":"#0bed87","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Lauran Hibberd","backgroundColor":"#2759e5","borderColor":"#2759e5","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Los Unidades","backgroundColor":"#092a84","borderColor":"#092a84","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Leif Vollebekk","backgroundColor":"#2f0277","borderColor":"#2f0277","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"The Moles","backgroundColor":"#37d132","borderColor":"#37d132","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Hospitality","backgroundColor":"#35bf03","borderColor":"#35bf03","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Dawes","backgroundColor":"#e07757","borderColor":"#e07757","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Pharoah Sanders","backgroundColor":"#e88b9a","borderColor":"#e88b9a","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Giorgio Moroder","backgroundColor":"#f4d866","borderColor":"#f4d866","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Althea & Donna","backgroundColor":"#e0b153","borderColor":"#e0b153","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Royal Trux","backgroundColor":"#fcda85","borderColor":"#fcda85","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"London Music Works","backgroundColor":"#efba88","borderColor":"#efba88","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Gypsy Lane","backgroundColor":"#eabb5d","borderColor":"#eabb5d","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Joakim","backgroundColor":"#efd5aa","borderColor":"#efd5aa","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Stargate","backgroundColor":"#c8f486","borderColor":"#c8f486","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"dodie","backgroundColor":"#7ceadd","borderColor":"#7ceadd","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Ten Fé","backgroundColor":"#f4b65f","borderColor":"#f4b65f","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Arturo Benedetti Michelangeli","backgroundColor":"#fff09e","borderColor":"#fff09e","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Jennifer Castle","backgroundColor":"#f9e28b","borderColor":"#f9e28b","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Leon Bridges","backgroundColor":"#e088d7","borderColor":"#e088d7","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Fania All Stars","backgroundColor":"#63d88a","borderColor":"#63d88a","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Brenda Russell","backgroundColor":"#bf0f96","borderColor":"#bf0f96","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Scott Walker","backgroundColor":"#2b8bc6","borderColor":"#2b8bc6","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Still Going","backgroundColor":"#0cfc68","borderColor":"#0cfc68","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Valley Maker","backgroundColor":"#8aeadc","borderColor":"#8aeadc","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"La Force","backgroundColor":"#cc8f26","borderColor":"#cc8f26","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Connan Mockasin","backgroundColor":"#f828fc","borderColor":"#f828fc","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"The Specials","backgroundColor":"#80fcae","borderColor":"#80fcae","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Parting Lines","backgroundColor":"#7ff771","borderColor":"#7ff771","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Yamantaka // Sonic Titan","backgroundColor":"#b27730","borderColor":"#b27730","data":[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"Brave Shores","backgroundColor":"#f7be54","borderColor":"#f7be54","data":[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"The New York Dolls","backgroundColor":"#371a9e","borderColor":"#371a9e","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Adrian Underhill","backgroundColor":"#1cbf86","borderColor":"#1cbf86","data":[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"Andrew Huang","backgroundColor":"#4e6bdb","borderColor":"#4e6bdb","data":[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"Stephen Steinbrink","backgroundColor":"#568708","borderColor":"#568708","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Rancid","backgroundColor":"#6bea64","borderColor":"#6bea64","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Far Caspian","backgroundColor":"#34efc7","borderColor":"#34efc7","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"BRONCHO","backgroundColor":"#fbc4ff","borderColor":"#fbc4ff","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Kandle","backgroundColor":"#9ad0ed","borderColor":"#9ad0ed","data":[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"Groenland","backgroundColor":"#d17417","borderColor":"#d17417","data":[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"Brenda","backgroundColor":"#a7d129","borderColor":"#a7d129","data":[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"Smith Westerns","backgroundColor":"#067a9e","borderColor":"#067a9e","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Hendershot","backgroundColor":"#fcd7b3","borderColor":"#fcd7b3","data":[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0]},{"label":"Magazine","backgroundColor":"#d10a49","borderColor":"#d10a49","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Wire","backgroundColor":"#ad4930","borderColor":"#ad4930","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Mission Of Burma","backgroundColor":"#ffe875","borderColor":"#ffe875","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Awolnation","backgroundColor":"#6ddb6d","borderColor":"#6ddb6d","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Killing Joke","backgroundColor":"#db4378","borderColor":"#db4378","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Sunflower Bean","backgroundColor":"#6ded79","borderColor":"#6ded79","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Atomic Rooster","backgroundColor":"#af0805","borderColor":"#af0805","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"VIDEO","backgroundColor":"#75f9ec","borderColor":"#75f9ec","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Lovelife","backgroundColor":"#0b7272","borderColor":"#0b7272","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Kygo","backgroundColor":"#ea8cc1","borderColor":"#ea8cc1","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Sons Of Maria","backgroundColor":"#bcc600","borderColor":"#bcc600","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Satchmode","backgroundColor":"#81ea82","borderColor":"#81ea82","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Beulah","backgroundColor":"#0d98bf","borderColor":"#0d98bf","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Pr0files","backgroundColor":"#c404ef","borderColor":"#c404ef","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Jorja Smith","backgroundColor":"#e812a8","borderColor":"#e812a8","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Cesare Valletti","backgroundColor":"#60ade0","borderColor":"#60ade0","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"SWR Symphony Orchestra and Ernest Bour","backgroundColor":"#f2abec","borderColor":"#f2abec","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Small Black","backgroundColor":"#afffd2","borderColor":"#afffd2","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Sweet Spirit","backgroundColor":"#b71d17","borderColor":"#b71d17","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Kila","backgroundColor":"#cba5f7","borderColor":"#cba5f7","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Blur","backgroundColor":"#8ec101","borderColor":"#8ec101","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Bryce Vine","backgroundColor":"#24b74b","borderColor":"#24b74b","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"John Newman","backgroundColor":"#c9f4a1","borderColor":"#c9f4a1","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Tiga","backgroundColor":"#e2e053","borderColor":"#e2e053","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Miami Horror","backgroundColor":"#fcc7cf","borderColor":"#fcc7cf","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Hayden James","backgroundColor":"#a4e266","borderColor":"#a4e266","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"YesYou","backgroundColor":"#f99d90","borderColor":"#f99d90","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Fickle Friends","backgroundColor":"#f28cc9","borderColor":"#f28cc9","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Panda Bear","backgroundColor":"#8ced76","borderColor":"#8ced76","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Maximum Balloon","backgroundColor":"#89062e","borderColor":"#89062e","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Lil B","backgroundColor":"#d15227","borderColor":"#d15227","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Matrixxman","backgroundColor":"#d83ccb","borderColor":"#d83ccb","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Tom Milsom","backgroundColor":"#6b4cf7","borderColor":"#6b4cf7","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Autograf","backgroundColor":"#85f2af","borderColor":"#85f2af","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Duke Dumont","backgroundColor":"#f2a4bf","borderColor":"#f2a4bf","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Coucheron","backgroundColor":"#dd18c3","borderColor":"#dd18c3","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Ray Barretto","backgroundColor":"#15a338","borderColor":"#15a338","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Ian Dury","backgroundColor":"#e38ef2","borderColor":"#e38ef2","data":[0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0]},{"label":"Holy Fuck","backgroundColor":"#f9b3c5","borderColor":"#f9b3c5","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Huntar","backgroundColor":"#5840c4","borderColor":"#5840c4","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Sam & Dave","backgroundColor":"#87c6d3","borderColor":"#87c6d3","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Johnny Cash","backgroundColor":"#ea98e5","borderColor":"#ea98e5","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Wilson Pickett","backgroundColor":"#68b1c4","borderColor":"#68b1c4","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Ray Charles","backgroundColor":"#afc10d","borderColor":"#afc10d","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Leonard Bernstein, Boston Symphony Orchestra","backgroundColor":"#ef8fbe","borderColor":"#ef8fbe","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Louisa Fuller","backgroundColor":"#6ad8c8","borderColor":"#6ad8c8","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"RITUAL","backgroundColor":"#f9669c","borderColor":"#f9669c","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Band Of Horses","backgroundColor":"#049901","borderColor":"#049901","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"The Peddlers","backgroundColor":"#b08eff","borderColor":"#b08eff","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"The Warlocks","backgroundColor":"#d14cef","borderColor":"#d14cef","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Television","backgroundColor":"#a0f7f1","borderColor":"#a0f7f1","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Paper Lions","backgroundColor":"#22a4c1","borderColor":"#22a4c1","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Imaginary Cities","backgroundColor":"#ac08d1","borderColor":"#ac08d1","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Firebeatz","backgroundColor":"#ef2fd9","borderColor":"#ef2fd9","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Louise Burns","backgroundColor":"#fdffb5","borderColor":"#fdffb5","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Terra Lightfoot","backgroundColor":"#512ba5","borderColor":"#512ba5","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"The Zolas","backgroundColor":"#7ad2dd","borderColor":"#7ad2dd","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Tiësto","backgroundColor":"#1eafc9","borderColor":"#1eafc9","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Whitehorse","backgroundColor":"#0c59b7","borderColor":"#0c59b7","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Oceaán","backgroundColor":"#af11ff","borderColor":"#af11ff","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Royal Canoe","backgroundColor":"#c4d4ff","borderColor":"#c4d4ff","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Dear Rouge","backgroundColor":"#f2c626","borderColor":"#f2c626","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Justin Hurwitz","backgroundColor":"#ffa5c2","borderColor":"#ffa5c2","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Billy Joel","backgroundColor":"#ea2a47","borderColor":"#ea2a47","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Ali Fontaine","backgroundColor":"#9b11db","borderColor":"#9b11db","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Nick Sherman","backgroundColor":"#ffc575","borderColor":"#ffc575","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"AHI","backgroundColor":"#0eed63","borderColor":"#0eed63","data":[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"label":"Sons And Daughters","backgroundColor":"#43a5b2","borderColor":"#43a5b2","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Leon Else","backgroundColor":"#c2f76c","borderColor":"#c2f76c","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Jay Reatard","backgroundColor":"#97ef77","borderColor":"#97ef77","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Courtship.","backgroundColor":"#068ee8","borderColor":"#068ee8","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Clap Your Hands Say Yeah","backgroundColor":"#c7e9fc","borderColor":"#c7e9fc","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Frank Ocean","backgroundColor":"#48f713","borderColor":"#48f713","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Dirty Pretty Things","backgroundColor":"#9ffcdb","borderColor":"#9ffcdb","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Tapes ‘n Tapes","backgroundColor":"#a4fca7","borderColor":"#a4fca7","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Elefant","backgroundColor":"#d6b720","borderColor":"#d6b720","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Kings Of Leon","backgroundColor":"#12e89d","borderColor":"#12e89d","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Urban Cone","backgroundColor":"#930e20","borderColor":"#930e20","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Bag Raiders","backgroundColor":"#b2ed84","borderColor":"#b2ed84","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"The Raveonettes","backgroundColor":"#db4358","borderColor":"#db4358","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"The Killers","backgroundColor":"#e2987f","borderColor":"#e2987f","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Prince & The Revolution","backgroundColor":"#daf4a1","borderColor":"#daf4a1","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Delicate Steve","backgroundColor":"#468ff4","borderColor":"#468ff4","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"INXS","backgroundColor":"#7246c9","borderColor":"#7246c9","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Bow Wow Wow","backgroundColor":"#50e7ed","borderColor":"#50e7ed","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Glass Animals","backgroundColor":"#e29b88","borderColor":"#e29b88","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Rick Astley","backgroundColor":"#ffccdf","borderColor":"#ffccdf","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Roosevelt","backgroundColor":"#c1bbf9","borderColor":"#c1bbf9","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Felix Jaehn","backgroundColor":"#cab2ff","borderColor":"#cab2ff","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"SG Lewis","backgroundColor":"#b20a1b","borderColor":"#b20a1b","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Daniel Wang","backgroundColor":"#2f6801","borderColor":"#2f6801","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"RAC feat. Matthew Koma","backgroundColor":"#dd00c7","borderColor":"#dd00c7","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"The Knocks","backgroundColor":"#3181a0","borderColor":"#3181a0","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Frankie Rose","backgroundColor":"#bf5200","borderColor":"#bf5200","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Mystery Skulls","backgroundColor":"#db27c6","borderColor":"#db27c6","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Hazel English","backgroundColor":"#daf29d","borderColor":"#daf29d","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Koan","backgroundColor":"#60d34c","borderColor":"#60d34c","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Two Another","backgroundColor":"#469b0d","borderColor":"#469b0d","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Takahiro Yoshikawa","backgroundColor":"#c9931e","borderColor":"#c9931e","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Memory Tapes","backgroundColor":"#004d5e","borderColor":"#004d5e","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Droeloe","backgroundColor":"#43e8d2","borderColor":"#43e8d2","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Emmylou Harris","backgroundColor":"#fc9fc7","borderColor":"#fc9fc7","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Dzeko","backgroundColor":"#f2d482","borderColor":"#f2d482","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"ceo","backgroundColor":"#4e38c9","borderColor":"#4e38c9","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Dan Deacon","backgroundColor":"#fcafae","borderColor":"#fcafae","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Pretty Lights","backgroundColor":"#83fc8f","borderColor":"#83fc8f","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Mansionair","backgroundColor":"#8afc88","borderColor":"#8afc88","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Oh Wonder","backgroundColor":"#a5d3e5","borderColor":"#a5d3e5","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Wang Chung","backgroundColor":"#0d2a6d","borderColor":"#0d2a6d","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"The Royal Concept","backgroundColor":"#ffc9cd","borderColor":"#ffc9cd","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"DANIEL LANOIS","backgroundColor":"#809cf2","borderColor":"#809cf2","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Francesco Meli","backgroundColor":"#b57419","borderColor":"#b57419","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"HAIM","backgroundColor":"#5ac4c2","borderColor":"#5ac4c2","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Icona Pop","backgroundColor":"#54bed3","borderColor":"#54bed3","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Erik Hassle","backgroundColor":"#9eea60","borderColor":"#9eea60","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Biffy Clyro","backgroundColor":"#80f796","borderColor":"#80f796","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"The Subways","backgroundColor":"#9a0bc1","borderColor":"#9a0bc1","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"The Coral","backgroundColor":"#eef42c","borderColor":"#eef42c","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Seu Jorge","backgroundColor":"#392ae0","borderColor":"#392ae0","data":[0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0]},{"label":"Robbie Robertson","backgroundColor":"#db665c","borderColor":"#db665c","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Cosmo's Midnight","backgroundColor":"#bdc43e","borderColor":"#bdc43e","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Rachel Sermanni","backgroundColor":"#eaa1a3","borderColor":"#eaa1a3","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Marika Hackman","backgroundColor":"#9da6ea","borderColor":"#9da6ea","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Villagers","backgroundColor":"#af0f2d","borderColor":"#af0f2d","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tiny Ruins","backgroundColor":"#c91a00","borderColor":"#c91a00","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Willy Mason","backgroundColor":"#59af16","borderColor":"#59af16","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Stornoway","backgroundColor":"#ecf774","borderColor":"#ecf774","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Alessi's Ark","backgroundColor":"#6a53d1","borderColor":"#6a53d1","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Otha","backgroundColor":"#5e96e5","borderColor":"#5e96e5","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"The Landing","backgroundColor":"#35ff57","borderColor":"#35ff57","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Black Lips","backgroundColor":"#ffd3c9","borderColor":"#ffd3c9","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Kills","backgroundColor":"#c4ef5f","borderColor":"#c4ef5f","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Who Made Who","backgroundColor":"#6aed84","borderColor":"#6aed84","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"San Holo","backgroundColor":"#78dee8","borderColor":"#78dee8","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Culture Abuse","backgroundColor":"#3ebde8","borderColor":"#3ebde8","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"The Avener & Phoebe Killdeer","backgroundColor":"#1ef70e","borderColor":"#1ef70e","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Nena","backgroundColor":"#3ed8a2","borderColor":"#3ed8a2","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Dartington String Quartet","backgroundColor":"#80a0e5","borderColor":"#80a0e5","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Russian State Symphony Orchestra","backgroundColor":"#ef73cc","borderColor":"#ef73cc","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bach Collegium Japan","backgroundColor":"#efdda5","borderColor":"#efdda5","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Beths","backgroundColor":"#057247","borderColor":"#057247","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Róisín Murphy","backgroundColor":"#9bf7a1","borderColor":"#9bf7a1","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Grandadbob","backgroundColor":"#c313d3","borderColor":"#c313d3","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Foxes","backgroundColor":"#e812ab","borderColor":"#e812ab","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Azure Ray","backgroundColor":"#f246b3","borderColor":"#f246b3","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Louis Armstrong","backgroundColor":"#fccaa4","borderColor":"#fccaa4","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Wavves","backgroundColor":"#ebef7a","borderColor":"#ebef7a","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dismemberment Plan","backgroundColor":"#c4d35f","borderColor":"#c4d35f","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ben Khan","backgroundColor":"#c51cce","borderColor":"#c51cce","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Diane Coffee","backgroundColor":"#83cbea","borderColor":"#83cbea","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"ASTR","backgroundColor":"#f9b14a","borderColor":"#f9b14a","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"André Rieu","backgroundColor":"#4187a0","borderColor":"#4187a0","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Reply All","backgroundColor":"#d142be","borderColor":"#d142be","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"John Smith","backgroundColor":"#f4d2a6","borderColor":"#f4d2a6","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Naftule Brandwein","backgroundColor":"#eff490","borderColor":"#eff490","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Frejlechs","backgroundColor":"#b3c41f","borderColor":"#b3c41f","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Yale Strom","backgroundColor":"#ea38a0","borderColor":"#ea38a0","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Andy Statman","backgroundColor":"#d2ea8a","borderColor":"#d2ea8a","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Massel Klezmorim","backgroundColor":"#d17d49","borderColor":"#d17d49","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"David Krakauer","backgroundColor":"#b23221","borderColor":"#b23221","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Yom","backgroundColor":"#a9f285","borderColor":"#a9f285","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Young Fathers","backgroundColor":"#d64054","borderColor":"#d64054","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Black Kids","backgroundColor":"#f2f91b","borderColor":"#f2f91b","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Los Campesinos!","backgroundColor":"#ffddc4","borderColor":"#ffddc4","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Disclosure","backgroundColor":"#3df4d0","borderColor":"#3df4d0","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Kisses","backgroundColor":"#97efa1","borderColor":"#97efa1","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"MAM","backgroundColor":"#13f2ba","borderColor":"#13f2ba","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Late of the Pier","backgroundColor":"#87e5b1","borderColor":"#87e5b1","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"VHS or Beta","backgroundColor":"#4dd646","borderColor":"#4dd646","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tony Lionni","backgroundColor":"#f948b2","borderColor":"#f948b2","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Marschmellows","backgroundColor":"#69c12e","borderColor":"#69c12e","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Todd Terje","backgroundColor":"#e8a381","borderColor":"#e8a381","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Rush Midnight","backgroundColor":"#fcc08f","borderColor":"#fcc08f","data":[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kungs","backgroundColor":"#2ab79d","borderColor":"#2ab79d","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Cleopold","backgroundColor":"#ffcfc1","borderColor":"#ffcfc1","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Rome Is Not A Town","backgroundColor":"#d6536b","borderColor":"#d6536b","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Jenny & Tyler","backgroundColor":"#f2dd65","borderColor":"#f2dd65","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Folk Angel","backgroundColor":"#63a0cc","borderColor":"#63a0cc","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Socks","backgroundColor":"#9ffca6","borderColor":"#9ffca6","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Bullet for My Valentine","backgroundColor":"#c93671","borderColor":"#c93671","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Acid Tongue","backgroundColor":"#70ce39","borderColor":"#70ce39","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"The Herbaliser feat. MF Doom","backgroundColor":"#f49a2c","borderColor":"#f49a2c","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tei Shi","backgroundColor":"#56ff64","borderColor":"#56ff64","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Gustav Neidlinger","backgroundColor":"#9612e2","borderColor":"#9612e2","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Ben Caplan","backgroundColor":"#3ec9bd","borderColor":"#3ec9bd","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Seinabo Sey","backgroundColor":"#7a65ce","borderColor":"#7a65ce","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"The Whitest Boy Alive","backgroundColor":"#8afc99","borderColor":"#8afc99","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Keep Shelly in Athens","backgroundColor":"#0be872","borderColor":"#0be872","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"ZHU","backgroundColor":"#a8ccff","borderColor":"#a8ccff","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Danger Mouse & Jemini The Gifted One","backgroundColor":"#015875","borderColor":"#015875","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Insane Warrior","backgroundColor":"#f74cda","borderColor":"#f74cda","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Snail Mail","backgroundColor":"#df9eef","borderColor":"#df9eef","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Folly & the Hunter","backgroundColor":"#c88bf4","borderColor":"#c88bf4","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Lyrics Born","backgroundColor":"#25bcfc","borderColor":"#25bcfc","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sixtoo","backgroundColor":"#9c0bea","borderColor":"#9c0bea","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"DJ Krush","backgroundColor":"#e89dba","borderColor":"#e89dba","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Herbaliser","backgroundColor":"#f7e380","borderColor":"#f7e380","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Cut Chemist","backgroundColor":"#de84e8","borderColor":"#de84e8","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Inf","backgroundColor":"#f93a36","borderColor":"#f93a36","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bo Diddley","backgroundColor":"#c6f7ff","borderColor":"#c6f7ff","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Fats Domino","backgroundColor":"#bdbafc","borderColor":"#bdbafc","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Buddy Holly & The Crickets","backgroundColor":"#ed80b6","borderColor":"#ed80b6","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jerry Lee Lewis","backgroundColor":"#26ddf2","borderColor":"#26ddf2","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bill Haley","backgroundColor":"#3fa4a8","borderColor":"#3fa4a8","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Little Richard","backgroundColor":"#ff828e","borderColor":"#ff828e","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Chuck Berry","backgroundColor":"#cd19d3","borderColor":"#cd19d3","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jaymes Young","backgroundColor":"#5900a3","borderColor":"#5900a3","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Thus Owls","backgroundColor":"#e4f99f","borderColor":"#e4f99f","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Jarryd James","backgroundColor":"#f2d8ae","borderColor":"#f2d8ae","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Polyansky, Valery","backgroundColor":"#9449c6","borderColor":"#9449c6","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Weaves","backgroundColor":"#f2df13","borderColor":"#f2df13","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Death From Above 1979","backgroundColor":"#39819b","borderColor":"#39819b","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Cleveland Orchestra","backgroundColor":"#f7bf76","borderColor":"#f7bf76","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Badbadnotgood","backgroundColor":"#7d45c6","borderColor":"#7d45c6","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Marshmello","backgroundColor":"#59d6bb","borderColor":"#59d6bb","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Energy Slime","backgroundColor":"#e394ef","borderColor":"#e394ef","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Phoenix Ensemble","backgroundColor":"#e291d2","borderColor":"#e291d2","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Brodsky Quartet","backgroundColor":"#006601","borderColor":"#006601","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Museum Of Love","backgroundColor":"#b47ecc","borderColor":"#b47ecc","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lo-Fi-Fnk","backgroundColor":"#43cc87","borderColor":"#43cc87","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Placebo","backgroundColor":"#2f29d8","borderColor":"#2f29d8","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dragonette","backgroundColor":"#f75983","borderColor":"#f75983","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Eliso Bolkvadze","backgroundColor":"#578ad1","borderColor":"#578ad1","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Karmin","backgroundColor":"#8c6bc4","borderColor":"#8c6bc4","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Baio","backgroundColor":"#2d2387","borderColor":"#2d2387","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Crosby, Stills, Nash & Young","backgroundColor":"#b75d1d","borderColor":"#b75d1d","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Hideyo Harada","backgroundColor":"#021e7a","borderColor":"#021e7a","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Théodore Paraskivesco","backgroundColor":"#3366f4","borderColor":"#3366f4","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Walter Gieseking","backgroundColor":"#dbd834","borderColor":"#dbd834","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"London Symphony Orchestra/André Previn","backgroundColor":"#f7258e","borderColor":"#f7258e","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Michel Beroff","backgroundColor":"#7987f7","borderColor":"#7987f7","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Murray Perahia","backgroundColor":"#b0dd56","borderColor":"#b0dd56","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Jean-Philippe Collard and Michel Beroff","backgroundColor":"#f5fc79","borderColor":"#f5fc79","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Michel Plasson","backgroundColor":"#dd3785","borderColor":"#dd3785","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Munich Festival Orchestra/SCHUBERT","backgroundColor":"#bfc1ff","borderColor":"#bfc1ff","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"St. Petersburg Orchestra of the State Hermitage Museum Camerata, Saulus Sondetskis","backgroundColor":"#f48646","borderColor":"#f48646","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Cécile Ousset","backgroundColor":"#0863a8","borderColor":"#0863a8","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kun Woo Paik","backgroundColor":"#f9de54","borderColor":"#f9de54","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Deltron 3030","backgroundColor":"#fcbaf3","borderColor":"#fcbaf3","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Daniel Harding","backgroundColor":"#ed935e","borderColor":"#ed935e","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Josef Hala","backgroundColor":"#8093ce","borderColor":"#8093ce","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Flo Morrissey and Matthew E. White","backgroundColor":"#59f9e4","borderColor":"#59f9e4","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"TORRES","backgroundColor":"#bbef73","borderColor":"#bbef73","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Gentlemen Hall","backgroundColor":"#79b71d","borderColor":"#79b71d","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wynton Marsalis","backgroundColor":"#edf7a3","borderColor":"#edf7a3","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jelly Roll Morton","backgroundColor":"#109982","borderColor":"#109982","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Pee Wee Russell","backgroundColor":"#75eaa2","borderColor":"#75eaa2","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Eddie Condon's Band","backgroundColor":"#3209ea","borderColor":"#3209ea","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kid Ory","backgroundColor":"#db43ba","borderColor":"#db43ba","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sharkey Bonano","backgroundColor":"#9f82e0","borderColor":"#9f82e0","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Red Nichols & His Five Pennies","backgroundColor":"#d60ab7","borderColor":"#d60ab7","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Turk Murphy","backgroundColor":"#38b4c4","borderColor":"#38b4c4","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Red Nichols","backgroundColor":"#ea2588","borderColor":"#ea2588","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sidney Bechet","backgroundColor":"#e83abf","borderColor":"#e83abf","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jack Teagarden","backgroundColor":"#32ba6a","borderColor":"#32ba6a","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bergen Philharmonic Orchestra and Ole Kristian Ruud","backgroundColor":"#d88c00","borderColor":"#d88c00","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"The Buggles","backgroundColor":"#6bf435","borderColor":"#6bf435","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Theo Parrish","backgroundColor":"#abd6f4","borderColor":"#abd6f4","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Edwin Birdsong","backgroundColor":"#ff0faf","borderColor":"#ff0faf","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Borodin Quartet","backgroundColor":"#f0ccff","borderColor":"#f0ccff","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Charlotte Day Wilson","backgroundColor":"#a3271a","borderColor":"#a3271a","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Lonely Island","backgroundColor":"#a9d35b","borderColor":"#a9d35b","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Truls Mörk","backgroundColor":"#e84eaf","borderColor":"#e84eaf","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Danny Michel","backgroundColor":"#dd5fd3","borderColor":"#dd5fd3","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Miracle Fortress","backgroundColor":"#edd180","borderColor":"#edd180","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Valaire","backgroundColor":"#ed50ab","borderColor":"#ed50ab","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Charlotte Cardin","backgroundColor":"#d9ccff","borderColor":"#d9ccff","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jesse Mac Cormack","backgroundColor":"#b6ffa8","borderColor":"#b6ffa8","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Duchess Says","backgroundColor":"#f232af","borderColor":"#f232af","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Godspeed You! Black Emperor","backgroundColor":"#ffe5cc","borderColor":"#ffe5cc","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Chromeo","backgroundColor":"#f477f4","borderColor":"#f477f4","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"RYAN Playground","backgroundColor":"#6bdb8b","borderColor":"#6bdb8b","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Heat","backgroundColor":"#3906a5","borderColor":"#3906a5","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tim Hecker","backgroundColor":"#e08200","borderColor":"#e08200","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"No Joy","backgroundColor":"#b7386d","borderColor":"#b7386d","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Hoan","backgroundColor":"#97fcb2","borderColor":"#97fcb2","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Will Butler","backgroundColor":"#ff878b","borderColor":"#ff878b","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Gabriela Montero","backgroundColor":"#74e0c5","borderColor":"#74e0c5","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Domeno","backgroundColor":"#e8d82e","borderColor":"#e8d82e","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Black Ox Orkestar","backgroundColor":"#6433a0","borderColor":"#6433a0","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Land Of Talk","backgroundColor":"#a4e6f9","borderColor":"#a4e6f9","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Narciso Yepes","backgroundColor":"#5849c6","borderColor":"#5849c6","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Aliocha","backgroundColor":"#9809bc","borderColor":"#9809bc","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kanagawa Philharmonic Orchestra","backgroundColor":"#53e893","borderColor":"#53e893","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Colin Stetson","backgroundColor":"#2b8caf","borderColor":"#2b8caf","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Corridor","backgroundColor":"#4ae000","borderColor":"#4ae000","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Blue Hawaii","backgroundColor":"#1f7f89","borderColor":"#1f7f89","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Busty and The Bass","backgroundColor":"#01b262","borderColor":"#01b262","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Parlovr","backgroundColor":"#206ce8","borderColor":"#206ce8","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Men I Trust","backgroundColor":"#61a521","borderColor":"#61a521","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"We Are Wolves","backgroundColor":"#77289b","borderColor":"#77289b","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Krief","backgroundColor":"#f96718","borderColor":"#f96718","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ryan Playground","backgroundColor":"#1bfce9","borderColor":"#1bfce9","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mac DeMarco","backgroundColor":"#18cef7","borderColor":"#18cef7","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Klô Pelgag","backgroundColor":"#49ccb8","borderColor":"#49ccb8","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Beat Market","backgroundColor":"#f75dc1","borderColor":"#f75dc1","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"She-Devils","backgroundColor":"#ed7549","borderColor":"#ed7549","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"TOPS","backgroundColor":"#9b2a20","borderColor":"#9b2a20","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Michael Feuerstack","backgroundColor":"#d6b822","borderColor":"#d6b822","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jon-Rae Fletcher","backgroundColor":"#e5cf52","borderColor":"#e5cf52","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Conduits","backgroundColor":"#255f8e","borderColor":"#255f8e","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Nurses","backgroundColor":"#d087f2","borderColor":"#d087f2","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Unicorns","backgroundColor":"#a3c9ff","borderColor":"#a3c9ff","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Yuksek","backgroundColor":"#7a70cc","borderColor":"#7a70cc","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Nick Lowe","backgroundColor":"#18840a","borderColor":"#18840a","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Dry the River","backgroundColor":"#24f243","borderColor":"#24f243","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Gerry Mulligan","backgroundColor":"#fffd8c","borderColor":"#fffd8c","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bud Powell","backgroundColor":"#23db41","borderColor":"#23db41","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Clark Terry","backgroundColor":"#efc700","borderColor":"#efc700","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Grant Green","backgroundColor":"#96c109","borderColor":"#96c109","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tommy Flanagan","backgroundColor":"#021a8e","borderColor":"#021a8e","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ron Sexsmith","backgroundColor":"#fcf99c","borderColor":"#fcf99c","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Stuttgarter Kammerorchester","backgroundColor":"#d69cfc","borderColor":"#d69cfc","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"New York Philharmonic Orchestra","backgroundColor":"#d86ab3","borderColor":"#d86ab3","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Giant Hand","backgroundColor":"#f91db7","borderColor":"#f91db7","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"A Flock Of Seagulls","backgroundColor":"#7439d3","borderColor":"#7439d3","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Frazey Ford","backgroundColor":"#e5c260","borderColor":"#e5c260","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"The Ting Tings","backgroundColor":"#ccedff","borderColor":"#ccedff","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Po' Girl","backgroundColor":"#ed28a4","borderColor":"#ed28a4","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Billy Lee Riley","backgroundColor":"#a8ffdf","borderColor":"#a8ffdf","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Carly Simon","backgroundColor":"#cc6b55","borderColor":"#cc6b55","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Evgeny Kissin","backgroundColor":"#3e97c4","borderColor":"#3e97c4","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Veneto Camerata","backgroundColor":"#29ad46","borderColor":"#29ad46","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Academy of St. Martin  in  the Fields Chorus","backgroundColor":"#636fd8","borderColor":"#636fd8","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Liz Liew","backgroundColor":"#8fc132","borderColor":"#8fc132","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mekong Delta","backgroundColor":"#f9df8e","borderColor":"#f9df8e","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Good Lovelies","backgroundColor":"#ffc9d2","borderColor":"#ffc9d2","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Re-Flex","backgroundColor":"#7721ef","borderColor":"#7721ef","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"The Primitives","backgroundColor":"#bc9125","borderColor":"#bc9125","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Echosmith","backgroundColor":"#81ba32","borderColor":"#81ba32","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Emmy The Great & Tim Wheeler","backgroundColor":"#67cee5","borderColor":"#67cee5","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dexter Gordon","backgroundColor":"#83efbb","borderColor":"#83efbb","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sinclair, Carolyn","backgroundColor":"#c5a2ef","borderColor":"#c5a2ef","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Colony House","backgroundColor":"#e47fe8","borderColor":"#e47fe8","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"James Brown & The Famous Flames","backgroundColor":"#75ef91","borderColor":"#75ef91","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Lovely Feathers","backgroundColor":"#e079de","borderColor":"#e079de","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Dusty Springfield","backgroundColor":"#7cf492","borderColor":"#7cf492","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Spencer Ludwig","backgroundColor":"#75e236","borderColor":"#75e236","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Fitz and The Tantrums","backgroundColor":"#32d360","borderColor":"#32d360","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"RIAS-Symphonie-Orchester, Ferenc Fricsay","backgroundColor":"#587fd3","borderColor":"#587fd3","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"ABC","backgroundColor":"#149391","borderColor":"#149391","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Wiener Philharmoniker, Fritz Reiner","backgroundColor":"#7fe2ac","borderColor":"#7fe2ac","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Public Image Ltd.","backgroundColor":"#d37343","borderColor":"#d37343","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"The Jam","backgroundColor":"#31c4a9","borderColor":"#31c4a9","data":[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wiener Symphoniker, Herbert Von Karajan","backgroundColor":"#38c1b8","borderColor":"#38c1b8","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"R. Stevie Moore","backgroundColor":"#ffccf4","borderColor":"#ffccf4","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"ODESZA","backgroundColor":"#d0fc8a","borderColor":"#d0fc8a","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wooden Stars","backgroundColor":"#f9ac25","borderColor":"#f9ac25","data":[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"label":"Jean-Jacques Kantorow","backgroundColor":"#25ea88","borderColor":"#25ea88","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Petite Noir","backgroundColor":"#6333b7","borderColor":"#6333b7","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sparks","backgroundColor":"#ed9799","borderColor":"#ed9799","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Nigel Kennedy","backgroundColor":"#bf3d55","borderColor":"#bf3d55","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kim Wilde","backgroundColor":"#3a679e","borderColor":"#3a679e","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Claudio Abbado/Emmanuel Pahud/Berliner Philharmoniker","backgroundColor":"#9dd1f2","borderColor":"#9dd1f2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Finghin Collins","backgroundColor":"#294aad","borderColor":"#294aad","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Kooks","backgroundColor":"#63bc2f","borderColor":"#63bc2f","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Philharmonia Slavonica","backgroundColor":"#c2ffaf","borderColor":"#c2ffaf","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sylvia Capova","backgroundColor":"#915dcc","borderColor":"#915dcc","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Berlin Symphonic Orchestra","backgroundColor":"#6ffc8d","borderColor":"#6ffc8d","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dubravka Tomšič","backgroundColor":"#f7ffa5","borderColor":"#f7ffa5","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Peter Schmalfuss","backgroundColor":"#e0aa70","borderColor":"#e0aa70","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sofia Symphony Orchestra","backgroundColor":"#e295db","borderColor":"#e295db","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Budapest Strings","backgroundColor":"#ea919e","borderColor":"#ea919e","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dieter Goldmann","backgroundColor":"#e01a59","borderColor":"#e01a59","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Alberto Lizzio","backgroundColor":"#fcabda","borderColor":"#fcabda","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Who","backgroundColor":"#98f9d1","borderColor":"#98f9d1","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Laid Back","backgroundColor":"#7e8ed6","borderColor":"#7e8ed6","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"General Public","backgroundColor":"#ea6035","borderColor":"#ea6035","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"The War on Drugs","backgroundColor":"#73f4f2","borderColor":"#73f4f2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Broods","backgroundColor":"#b3cc47","borderColor":"#b3cc47","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"One Hundred Dollars","backgroundColor":"#a7e053","borderColor":"#a7e053","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Toto","backgroundColor":"#05bf01","borderColor":"#05bf01","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Kurt Böhme","backgroundColor":"#afd149","borderColor":"#afd149","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Tanglefoot","backgroundColor":"#253496","borderColor":"#253496","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Zubot and Dawson","backgroundColor":"#ea9aae","borderColor":"#ea9aae","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Cree Summer","backgroundColor":"#f49584","borderColor":"#f49584","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lily Kershaw","backgroundColor":"#48c9bc","borderColor":"#48c9bc","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Emily Jane White","backgroundColor":"#3734ef","borderColor":"#3734ef","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Lia Rose","backgroundColor":"#d140cc","borderColor":"#d140cc","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Bananarama","backgroundColor":"#b195ed","borderColor":"#b195ed","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Loscil","backgroundColor":"#e88974","borderColor":"#e88974","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Valerie June","backgroundColor":"#1fef80","borderColor":"#1fef80","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Duke Ellington","backgroundColor":"#c7e2fc","borderColor":"#c7e2fc","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ahmad Jamal","backgroundColor":"#e0ef10","borderColor":"#e0ef10","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Oscar Peterson Trio","backgroundColor":"#e2c831","borderColor":"#e2c831","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Brad Mehldau","backgroundColor":"#c7ea8a","borderColor":"#c7ea8a","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bill Evans","backgroundColor":"#1173d6","borderColor":"#1173d6","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"George Winston","backgroundColor":"#0fc3c6","borderColor":"#0fc3c6","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Steven Halpern","backgroundColor":"#ffc4f0","borderColor":"#ffc4f0","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Future Sound Of London","backgroundColor":"#bf4edb","borderColor":"#bf4edb","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Alvarez Kings","backgroundColor":"#c6efff","borderColor":"#c6efff","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dagny","backgroundColor":"#12ed37","borderColor":"#12ed37","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Zola Jesus","backgroundColor":"#e26fc9","borderColor":"#e26fc9","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mree","backgroundColor":"#3a959e","borderColor":"#3a959e","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"The Internet","backgroundColor":"#c467db","borderColor":"#c467db","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mia Riddle","backgroundColor":"#99defc","borderColor":"#99defc","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Mia Rose Lynne","backgroundColor":"#a6cbfc","borderColor":"#a6cbfc","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Jim and Sam","backgroundColor":"#cc4d79","borderColor":"#cc4d79","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Orange Juice","backgroundColor":"#1da36f","borderColor":"#1da36f","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Herbert von Karajan","backgroundColor":"#a8c117","borderColor":"#a8c117","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Spank Rock feat. Santigold","backgroundColor":"#8af489","borderColor":"#8af489","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wiener Philharmoniker and Christoph von Dohnanyi","backgroundColor":"#510372","borderColor":"#510372","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"In-Flight Safety","backgroundColor":"#65db53","borderColor":"#65db53","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"The Head and the Heart","backgroundColor":"#00ce86","borderColor":"#00ce86","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Royal Wood","backgroundColor":"#8dedf4","borderColor":"#8dedf4","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Beth Hart","backgroundColor":"#8ee2e5","borderColor":"#8ee2e5","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Roo Panes","backgroundColor":"#eac72a","borderColor":"#eac72a","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"James Bay","backgroundColor":"#23dbad","borderColor":"#23dbad","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dan Wilson","backgroundColor":"#f73bac","borderColor":"#f73bac","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Loudon Wainwright, III","backgroundColor":"#1dd0e0","borderColor":"#1dd0e0","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Ben Howard","backgroundColor":"#ddb6f9","borderColor":"#ddb6f9","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Avett Brothers","backgroundColor":"#3ddd11","borderColor":"#3ddd11","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Eugene Ormandy","backgroundColor":"#351ec9","borderColor":"#351ec9","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Morningsiders","backgroundColor":"#64fcef","borderColor":"#64fcef","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lucy Rose","backgroundColor":"#e56652","borderColor":"#e56652","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Hey Rosetta!","backgroundColor":"#ea5dd3","borderColor":"#ea5dd3","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bear's Den","backgroundColor":"#5ce868","borderColor":"#5ce868","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Local Natives","backgroundColor":"#0e14b7","borderColor":"#0e14b7","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Oh Honey","backgroundColor":"#cc9947","borderColor":"#cc9947","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"K.D. Lang","backgroundColor":"#fce96f","borderColor":"#fce96f","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Kodaline","backgroundColor":"#5e339b","borderColor":"#5e339b","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jake Bugg","backgroundColor":"#882fbf","borderColor":"#882fbf","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Aquilo","backgroundColor":"#035dc4","borderColor":"#035dc4","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Rocky Votolato","backgroundColor":"#e24ab0","borderColor":"#e24ab0","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Arcs","backgroundColor":"#b5f489","borderColor":"#b5f489","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Antoine Corriveau","backgroundColor":"#fccdb5","borderColor":"#fccdb5","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Linying","backgroundColor":"#ffcce8","borderColor":"#ffcce8","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Charlene Soraia","backgroundColor":"#6bd14f","borderColor":"#6bd14f","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tin Machine","backgroundColor":"#1727d6","borderColor":"#1727d6","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Culture Club","backgroundColor":"#6dc7db","borderColor":"#6dc7db","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Guns N' Roses","backgroundColor":"#98f99a","borderColor":"#98f99a","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Rob Zombie","backgroundColor":"#f2ca93","borderColor":"#f2ca93","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Fifth Harmony","backgroundColor":"#f4e3ab","borderColor":"#f4e3ab","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jack Marshall","backgroundColor":"#ef5b9d","borderColor":"#ef5b9d","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Berlin","backgroundColor":"#cdccff","borderColor":"#cdccff","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Philharmonia Orchestra/Sir Simon Rattle","backgroundColor":"#ba07a8","borderColor":"#ba07a8","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Boston Symphony Orchestra","backgroundColor":"#b7ed90","borderColor":"#b7ed90","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Royal Philharmonic Orchestra, Paavo Järvi","backgroundColor":"#f9d4c0","borderColor":"#f9d4c0","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"André Previn","backgroundColor":"#bc0f77","borderColor":"#bc0f77","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"The Proclaimers","backgroundColor":"#a9e881","borderColor":"#a9e881","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"George Ezra","backgroundColor":"#3ce8bf","borderColor":"#3ce8bf","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"John Holt","backgroundColor":"#54f279","borderColor":"#54f279","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wanda Jackson","backgroundColor":"#9911bf","borderColor":"#9911bf","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Clinic","backgroundColor":"#6ddba8","borderColor":"#6ddba8","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kenny Rogers","backgroundColor":"#9ddb51","borderColor":"#9ddb51","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Bad Brains","backgroundColor":"#128484","borderColor":"#128484","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Orchestra and Chorus of the Royal Opera House Convent Garden","backgroundColor":"#8e94ed","borderColor":"#8e94ed","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Montag","backgroundColor":"#8cad14","borderColor":"#8cad14","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Rufus Wainwright","backgroundColor":"#114372","borderColor":"#114372","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Laura Barrett","backgroundColor":"#e0a031","borderColor":"#e0a031","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Ike & Tina Turner","backgroundColor":"#f7a29e","borderColor":"#f7a29e","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"My Morning Jacket","backgroundColor":"#2b4cd1","borderColor":"#2b4cd1","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Verve","backgroundColor":"#e86fe2","borderColor":"#e86fe2","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Carissa's Wierd","backgroundColor":"#a294e0","borderColor":"#a294e0","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Beach Fossils","backgroundColor":"#0cb541","borderColor":"#0cb541","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Black Marble","backgroundColor":"#a5ffdb","borderColor":"#a5ffdb","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Benjamin Gibbard","backgroundColor":"#a5f98e","borderColor":"#a5f98e","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sarah McLachlan","backgroundColor":"#a82b3e","borderColor":"#a82b3e","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Justin Rutledge","backgroundColor":"#145da0","borderColor":"#145da0","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Jimmy Ruffin","backgroundColor":"#0a7b7f","borderColor":"#0a7b7f","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Cold Specks","backgroundColor":"#b5610e","borderColor":"#b5610e","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Commodores","backgroundColor":"#5b53b2","borderColor":"#5b53b2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Joe Bataan","backgroundColor":"#bddbf9","borderColor":"#bddbf9","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Eddie Murphy","backgroundColor":"#3bcc72","borderColor":"#3bcc72","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tom Tom Club","backgroundColor":"#c1c0f7","borderColor":"#c1c0f7","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jackie Wilson","backgroundColor":"#919ee0","borderColor":"#919ee0","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Exciters","backgroundColor":"#1650bc","borderColor":"#1650bc","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sweet","backgroundColor":"#9843bc","borderColor":"#9843bc","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Billy Preston","backgroundColor":"#81f940","borderColor":"#81f940","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Pointer Sisters","backgroundColor":"#7dc107","borderColor":"#7dc107","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Norman Greenbaum","backgroundColor":"#ff70fc","borderColor":"#ff70fc","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Police","backgroundColor":"#cff963","borderColor":"#cff963","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Four Seasons","backgroundColor":"#bef1f7","borderColor":"#bef1f7","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Funkadelic","backgroundColor":"#a6acf4","borderColor":"#a6acf4","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Cockney Rebel","backgroundColor":"#9e1722","borderColor":"#9e1722","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Antlers","backgroundColor":"#c1382e","borderColor":"#c1382e","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Monolake","backgroundColor":"#608203","borderColor":"#608203","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Karl Schlechta, Akos Hernádi","backgroundColor":"#4a26b7","borderColor":"#4a26b7","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ingolf Turban","backgroundColor":"#bbc5f7","borderColor":"#bbc5f7","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jumez, Jean-Pierre","backgroundColor":"#d14045","borderColor":"#d14045","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kenneth Smith","backgroundColor":"#efd0a7","borderColor":"#efd0a7","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Fixx","backgroundColor":"#9cdfe5","borderColor":"#9cdfe5","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Rudolf Buchbinder","backgroundColor":"#dd4bc5","borderColor":"#dd4bc5","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mitsuko Uchida","backgroundColor":"#fc4ed3","borderColor":"#fc4ed3","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sarah Cunningham","backgroundColor":"#87d9ff","borderColor":"#87d9ff","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Anner Bylsma","backgroundColor":"#8fd151","borderColor":"#8fd151","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Carole Dawn Reinhart","backgroundColor":"#f9f89a","borderColor":"#f9f89a","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Stephen Taylor","backgroundColor":"#d65ec8","borderColor":"#d65ec8","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Zuill Bailey","backgroundColor":"#ea00bb","borderColor":"#ea00bb","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sir Neville Marriner","backgroundColor":"#e8b7f7","borderColor":"#e8b7f7","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Retirement Party","backgroundColor":"#e54e78","borderColor":"#e54e78","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Vive la Void","backgroundColor":"#5eaa27","borderColor":"#5eaa27","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Basement Revolver","backgroundColor":"#53a00b","borderColor":"#53a00b","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Bernice","backgroundColor":"#1a77ba","borderColor":"#1a77ba","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Bernd Glemser","backgroundColor":"#c99ae2","borderColor":"#c99ae2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Laura Jean","backgroundColor":"#e09035","borderColor":"#e09035","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Israela Margalit","backgroundColor":"#66c12e","borderColor":"#66c12e","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mikhail Voskresensky","backgroundColor":"#4c0ea3","borderColor":"#4c0ea3","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Victor Ryabchikov","backgroundColor":"#bb78e2","borderColor":"#bb78e2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Yoko OBA","backgroundColor":"#b7f265","borderColor":"#b7f265","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Arcadi Volodos","backgroundColor":"#03627a","borderColor":"#03627a","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Barbara Hendricks/Ralf Gothóni","backgroundColor":"#4160fc","borderColor":"#4160fc","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jean Efflam Bavouzet","backgroundColor":"#bf2ad6","borderColor":"#bf2ad6","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Erik Satie","backgroundColor":"#cc3b50","borderColor":"#cc3b50","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Francine Kay","backgroundColor":"#e05df4","borderColor":"#e05df4","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wilhelm Kempff","backgroundColor":"#5b7fc1","borderColor":"#5b7fc1","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Francis Poulenc","backgroundColor":"#ed84c6","borderColor":"#ed84c6","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Edwin Fischer","backgroundColor":"#0e9e62","borderColor":"#0e9e62","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dinu Lipatti","backgroundColor":"#465da3","borderColor":"#465da3","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Francesco Tristano","backgroundColor":"#4e4fad","borderColor":"#4e4fad","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jim Brickman","backgroundColor":"#db5220","borderColor":"#db5220","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Fariborz Lachini","backgroundColor":"#e59587","borderColor":"#e59587","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jeffrey Biegel","backgroundColor":"#5499f2","borderColor":"#5499f2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Sea and Cake","backgroundColor":"#6a7af7","borderColor":"#6a7af7","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Dana Buoy","backgroundColor":"#47f7cb","borderColor":"#47f7cb","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Superchunk","backgroundColor":"#000fef","borderColor":"#000fef","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Bauhaus","backgroundColor":"#56ffb3","borderColor":"#56ffb3","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Kelis","backgroundColor":"#4bdd6b","borderColor":"#4bdd6b","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Foster The People","backgroundColor":"#f43f66","borderColor":"#f43f66","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ultravox","backgroundColor":"#40e85c","borderColor":"#40e85c","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Chela","backgroundColor":"#b481e8","borderColor":"#b481e8","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"BlueBrain","backgroundColor":"#84c6e8","borderColor":"#84c6e8","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Born Ruffians","backgroundColor":"#ed619b","borderColor":"#ed619b","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Madonna","backgroundColor":"#c90078","borderColor":"#c90078","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Buzzy Lee","backgroundColor":"#5e2ff9","borderColor":"#5e2ff9","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Jordan Bratton","backgroundColor":"#3d34e5","borderColor":"#3d34e5","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Fad Gadget","backgroundColor":"#f7a0ac","borderColor":"#f7a0ac","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Esthero","backgroundColor":"#7bf2ea","borderColor":"#7bf2ea","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Janelle Monae","backgroundColor":"#f4a789","borderColor":"#f4a789","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Great Good Fine Ok","backgroundColor":"#d99ff2","borderColor":"#d99ff2","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"*NSYNC","backgroundColor":"#62b6c9","borderColor":"#62b6c9","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"André Laplante","backgroundColor":"#9df9c5","borderColor":"#9df9c5","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Karina Gauvin","backgroundColor":"#adfff6","borderColor":"#adfff6","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Backstreet Boys","backgroundColor":"#9ff9a4","borderColor":"#9ff9a4","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Geneviève Soly","backgroundColor":"#9894dd","borderColor":"#9894dd","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Louise Bessette","backgroundColor":"#f4a804","borderColor":"#f4a804","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"K.Flay","backgroundColor":"#0fe292","borderColor":"#0fe292","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Luc Beauséjour","backgroundColor":"#f4baf1","borderColor":"#f4baf1","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lorraine Desmarais","backgroundColor":"#9180ce","borderColor":"#9180ce","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Cher","backgroundColor":"#618fd3","borderColor":"#618fd3","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Similia","backgroundColor":"#caf49a","borderColor":"#caf49a","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Daniel Taylor","backgroundColor":"#d60ac5","borderColor":"#d60ac5","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lyne Fortin","backgroundColor":"#c995f4","borderColor":"#c995f4","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Anton Kuerti","backgroundColor":"#e21d8d","borderColor":"#e21d8d","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Marie-Nicole Lemieux","backgroundColor":"#2da3a3","borderColor":"#2da3a3","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"MS MR","backgroundColor":"#00dda2","borderColor":"#00dda2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Scar","backgroundColor":"#7fe076","borderColor":"#7fe076","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sam Sparro","backgroundColor":"#5ad8f4","borderColor":"#5ad8f4","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Royksopp","backgroundColor":"#4d12aa","borderColor":"#4d12aa","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jesus Jones","backgroundColor":"#79f77f","borderColor":"#79f77f","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Alison Wonderland","backgroundColor":"#d5f791","borderColor":"#d5f791","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Cannonball Adderley","backgroundColor":"#f49377","borderColor":"#f49377","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Kasabian","backgroundColor":"#96def2","borderColor":"#96def2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Brand New Heavies","backgroundColor":"#7ed4dd","borderColor":"#7ed4dd","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Emeli Sandé","backgroundColor":"#b4e20d","borderColor":"#b4e20d","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"King Krule","backgroundColor":"#ef627e","borderColor":"#ef627e","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Raphael Saadiq","backgroundColor":"#e2c088","borderColor":"#e2c088","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Max Frost","backgroundColor":"#cb9de0","borderColor":"#cb9de0","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Janelle Monáe","backgroundColor":"#e0c469","borderColor":"#e0c469","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lenny Kravitz","backgroundColor":"#f7de9e","borderColor":"#f7de9e","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Naughty Boy","backgroundColor":"#0b8e3b","borderColor":"#0b8e3b","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"London Symphony Orchestra, Josef Krips","backgroundColor":"#65edb7","borderColor":"#65edb7","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Paul Cook and The Chronicles","backgroundColor":"#db83c0","borderColor":"#db83c0","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Hundred Waters","backgroundColor":"#1fe236","borderColor":"#1fe236","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sheppard","backgroundColor":"#bde278","borderColor":"#bde278","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Capital Cities","backgroundColor":"#aef963","borderColor":"#aef963","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Chain Gang Of 1974","backgroundColor":"#017fb5","borderColor":"#017fb5","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"WE ARE TWIN","backgroundColor":"#320070","borderColor":"#320070","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Bill Evans Trio","backgroundColor":"#d845ae","borderColor":"#d845ae","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"HAWAI","backgroundColor":"#8aeaa7","borderColor":"#8aeaa7","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"School of Seven Bells","backgroundColor":"#3cd804","borderColor":"#3cd804","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Finish Ticket","backgroundColor":"#3b71ce","borderColor":"#3b71ce","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"JOHNNYSWIM","backgroundColor":"#a02003","borderColor":"#a02003","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"LOYAL","backgroundColor":"#96e881","borderColor":"#96e881","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"NONONO","backgroundColor":"#7084d1","borderColor":"#7084d1","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wynton Kelly","backgroundColor":"#a242dd","borderColor":"#a242dd","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Youngblood Hawke","backgroundColor":"#04c959","borderColor":"#04c959","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Leagues","backgroundColor":"#24ebf2","borderColor":"#24ebf2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Peking Duk","backgroundColor":"#ddb72e","borderColor":"#ddb72e","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Midi Matilda","backgroundColor":"#f94aa8","borderColor":"#f94aa8","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mondo Cozmo","backgroundColor":"#8ae87f","borderColor":"#8ae87f","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wolf Alice","backgroundColor":"#74f2a6","borderColor":"#74f2a6","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Griswolds","backgroundColor":"#815bff","borderColor":"#815bff","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Cloud Nothings","backgroundColor":"#e59464","borderColor":"#e59464","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Chet Baker","backgroundColor":"#557ad1","borderColor":"#557ad1","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"The Naked And Famous","backgroundColor":"#85dcdd","borderColor":"#85dcdd","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Geographer","backgroundColor":"#b6c436","borderColor":"#b6c436","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Civil Twilight","backgroundColor":"#dd6c88","borderColor":"#dd6c88","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Moth & The Flame","backgroundColor":"#30e1f4","borderColor":"#30e1f4","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sundara Karma","backgroundColor":"#38ed68","borderColor":"#38ed68","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Saint Raymond","backgroundColor":"#0f8589","borderColor":"#0f8589","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Folly & The Hunter","backgroundColor":"#ed8df4","borderColor":"#ed8df4","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Frankie Cosmos","backgroundColor":"#47a2c6","borderColor":"#47a2c6","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Japanther","backgroundColor":"#ed8c42","borderColor":"#ed8c42","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Delta Spirit","backgroundColor":"#9c82f2","borderColor":"#9c82f2","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Helena Jungwirth","backgroundColor":"#10818c","borderColor":"#10818c","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"The Psychedelic Furs","backgroundColor":"#d67137","borderColor":"#d67137","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"The Style Council","backgroundColor":"#e89be5","borderColor":"#e89be5","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Wolfmother","backgroundColor":"#b73ed6","borderColor":"#b73ed6","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"PJ Harvey","backgroundColor":"#087a8c","borderColor":"#087a8c","data":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Moscow Symphony Orchestra, Veronica Dudarova","backgroundColor":"#b3dd6a","borderColor":"#b3dd6a","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0]},{"label":"Sam Smith","backgroundColor":"#e89145","borderColor":"#e89145","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Boomtown Rats","backgroundColor":"#9cd142","borderColor":"#9cd142","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Mr Twin Sister","backgroundColor":"#d1421f","borderColor":"#d1421f","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Coast Modern","backgroundColor":"#61d887","borderColor":"#61d887","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Hippo Campus","backgroundColor":"#a288ef","borderColor":"#a288ef","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"ANIMA!","backgroundColor":"#58d86e","borderColor":"#58d86e","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Cyndi Lauper","backgroundColor":"#b5ce27","borderColor":"#b5ce27","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Barney Bentall","backgroundColor":"#dba953","borderColor":"#dba953","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"David Francey","backgroundColor":"#9baff7","borderColor":"#9baff7","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Chris Ronald","backgroundColor":"#db4e74","borderColor":"#db4e74","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Matt Holubowski","backgroundColor":"#def92f","borderColor":"#def92f","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Scott Orr","backgroundColor":"#dabaf4","borderColor":"#dabaf4","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jeremy Fisher","backgroundColor":"#5320d6","borderColor":"#5320d6","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lion Bear Fox","backgroundColor":"#490272","borderColor":"#490272","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Zachary Richard","backgroundColor":"#bcff3f","borderColor":"#bcff3f","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Amber Run","backgroundColor":"#d1f466","borderColor":"#d1f466","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dum Dum Girls","backgroundColor":"#eef42e","borderColor":"#eef42e","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Taken By Trees","backgroundColor":"#2bf260","borderColor":"#2bf260","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Spandau Ballet","backgroundColor":"#82f96d","borderColor":"#82f96d","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"David Axelrod","backgroundColor":"#ffedc4","borderColor":"#ffedc4","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"CRX","backgroundColor":"#7e8ad3","borderColor":"#7e8ad3","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Frankie Goes To Hollywood","backgroundColor":"#008425","borderColor":"#008425","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Warren Zevon","backgroundColor":"#ce2db6","borderColor":"#ce2db6","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Stooges","backgroundColor":"#ff87c5","borderColor":"#ff87c5","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Vagabon","backgroundColor":"#edadcc","borderColor":"#edadcc","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Lionel Richie","backgroundColor":"#513aff","borderColor":"#513aff","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Delia Gonzalez and Gavin Russom","backgroundColor":"#f78abd","borderColor":"#f78abd","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Låpsley","backgroundColor":"#ea889a","borderColor":"#ea889a","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Armando","backgroundColor":"#bbdb6b","borderColor":"#bbdb6b","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sinkane","backgroundColor":"#9bf2af","borderColor":"#9bf2af","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Stereolab","backgroundColor":"#e5c304","borderColor":"#e5c304","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Alan Vega","backgroundColor":"#80fce3","borderColor":"#80fce3","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Pulp","backgroundColor":"#d63168","borderColor":"#d63168","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Velvet Underground & Nico","backgroundColor":"#b22303","borderColor":"#b22303","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Gloria Estefan","backgroundColor":"#a578e8","borderColor":"#a578e8","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Talk Talk","backgroundColor":"#1a9948","borderColor":"#1a9948","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Coldplay & The Chainsmokers","backgroundColor":"#f9d2b8","borderColor":"#f9d2b8","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Space Monkeyz vs Gorillaz","backgroundColor":"#ad9de8","borderColor":"#ad9de8","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Sharks","backgroundColor":"#9dd345","borderColor":"#9dd345","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Charisma.com","backgroundColor":"#d57df2","borderColor":"#d57df2","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0]},{"label":"Lucy Dacus","backgroundColor":"#40fc07","borderColor":"#40fc07","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Dream Wife","backgroundColor":"#f7c7be","borderColor":"#f7c7be","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Soccer Mommy","backgroundColor":"#d8b836","borderColor":"#d8b836","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Band of Horses","backgroundColor":"#e0b97b","borderColor":"#e0b97b","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Swell Season","backgroundColor":"#1a7cdd","borderColor":"#1a7cdd","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Phosphorescent","backgroundColor":"#c0f799","borderColor":"#c0f799","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Civil Wars","backgroundColor":"#7a82ef","borderColor":"#7a82ef","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Carolina Chocolate Drops","backgroundColor":"#0e9355","borderColor":"#0e9355","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Gardens & Villa","backgroundColor":"#92e27c","borderColor":"#92e27c","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Tom Rosenthal","backgroundColor":"#b2ffda","borderColor":"#b2ffda","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sam Amidon","backgroundColor":"#e85ad5","borderColor":"#e85ad5","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Early Winters","backgroundColor":"#d32830","borderColor":"#d32830","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"tUnE-yArDs","backgroundColor":"#1b5e7c","borderColor":"#1b5e7c","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0]},{"label":"Hozier","backgroundColor":"#61f45f","borderColor":"#61f45f","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ida","backgroundColor":"#d8bb50","borderColor":"#d8bb50","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Roberta Flack","backgroundColor":"#b53443","borderColor":"#b53443","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0]},{"label":"Conner Youngblood","backgroundColor":"#c60573","borderColor":"#c60573","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Skylar Grey","backgroundColor":"#bc1a2a","borderColor":"#bc1a2a","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Milky Chance","backgroundColor":"#c534e2","borderColor":"#c534e2","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dawn Golden","backgroundColor":"#edff66","borderColor":"#edff66","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mutual Benefit","backgroundColor":"#05c415","borderColor":"#05c415","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Angus & Julia Stone","backgroundColor":"#2a9cf9","borderColor":"#2a9cf9","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"A Boy and His Kite","backgroundColor":"#ffe3c9","borderColor":"#ffe3c9","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Belle and Sebastian","backgroundColor":"#360afc","borderColor":"#360afc","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dustin Tebbutt","backgroundColor":"#f74782","borderColor":"#f74782","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Hunts","backgroundColor":"#f9b2a2","borderColor":"#f9b2a2","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"RY X","backgroundColor":"#934ddd","borderColor":"#934ddd","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Imaginary Future","backgroundColor":"#799cd8","borderColor":"#799cd8","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Night Beds","backgroundColor":"#a4f8f9","borderColor":"#a4f8f9","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jens Lekman","backgroundColor":"#ce21d1","borderColor":"#ce21d1","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kevin Drew","backgroundColor":"#f7a599","borderColor":"#f7a599","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sorcha Richardson","backgroundColor":"#088948","borderColor":"#088948","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Zombina & the Skeletones","backgroundColor":"#bcef45","borderColor":"#bcef45","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Liza Anne","backgroundColor":"#4eea2e","borderColor":"#4eea2e","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Japanese House","backgroundColor":"#3affdb","borderColor":"#3affdb","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Misfits","backgroundColor":"#aae868","borderColor":"#aae868","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Coil","backgroundColor":"#74c647","borderColor":"#74c647","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"This Is The Kit","backgroundColor":"#2ecc7a","borderColor":"#2ecc7a","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Owl & Mouse","backgroundColor":"#54dda9","borderColor":"#54dda9","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Emmy The Great","backgroundColor":"#f4c984","borderColor":"#f4c984","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Alela Diane","backgroundColor":"#ff2bad","borderColor":"#ff2bad","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"Monteverdi Choir","backgroundColor":"#c2d33d","borderColor":"#c2d33d","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Cramps","backgroundColor":"#e85faa","borderColor":"#e85faa","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Alice Coltrane","backgroundColor":"#7cc2d3","borderColor":"#7cc2d3","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0]},{"label":"Kings Of Convenience","backgroundColor":"#c13003","borderColor":"#c13003","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Woods","backgroundColor":"#d873ef","borderColor":"#d873ef","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Freedy Johnston","backgroundColor":"#ffccff","borderColor":"#ffccff","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Little Joy","backgroundColor":"#f7d88f","borderColor":"#f7d88f","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Low Anthem","backgroundColor":"#69ce04","borderColor":"#69ce04","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Nekromantix","backgroundColor":"#53ea1c","borderColor":"#53ea1c","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Lynn Harrell","backgroundColor":"#aefce2","borderColor":"#aefce2","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Matt Haimovitz","backgroundColor":"#81f4b5","borderColor":"#81f4b5","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mischa Maisky","backgroundColor":"#c6ea7e","borderColor":"#c6ea7e","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Eduard van Beinum, London Philharmonic Orchestra","backgroundColor":"#ef260b","borderColor":"#ef260b","data":[0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0]},{"label":"10cc","backgroundColor":"#d0ea0e","borderColor":"#d0ea0e","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0]},{"label":"Red Hot Chili Peppers","backgroundColor":"#bad2f4","borderColor":"#bad2f4","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Tiger Army","backgroundColor":"#67b0c6","borderColor":"#67b0c6","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"RAC","backgroundColor":"#d89ae2","borderColor":"#d89ae2","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Morcheeba","backgroundColor":"#b1b1ef","borderColor":"#b1b1ef","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jehro","backgroundColor":"#3447a8","borderColor":"#3447a8","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Jonas Alaska","backgroundColor":"#ed3b8e","borderColor":"#ed3b8e","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Sumie","backgroundColor":"#e29828","borderColor":"#e29828","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Small Feet","backgroundColor":"#d854f9","borderColor":"#d854f9","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Broken Twin","backgroundColor":"#07a801","borderColor":"#07a801","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Adna","backgroundColor":"#bbf291","borderColor":"#bbf291","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Christopher O'Riley","backgroundColor":"#56d3cf","borderColor":"#56d3cf","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Alexander Scriabin","backgroundColor":"#f41fbf","borderColor":"#f41fbf","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Johannes Cernota","backgroundColor":"#0d2bbf","borderColor":"#0d2bbf","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Gonzales","backgroundColor":"#18a073","borderColor":"#18a073","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Latvian Philharmonic Chamber Orchestra","backgroundColor":"#f47775","borderColor":"#f47775","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Asaf Avidan & the Mojos","backgroundColor":"#04ef0c","borderColor":"#04ef0c","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Puscifer","backgroundColor":"#c89de0","borderColor":"#c89de0","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Free the Robots","backgroundColor":"#08d858","borderColor":"#08d858","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Way Out West","backgroundColor":"#f495a5","borderColor":"#f495a5","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Luke Vibert and B.J. Cole","backgroundColor":"#054c89","borderColor":"#054c89","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Quantic","backgroundColor":"#203e8e","borderColor":"#203e8e","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Thievery Corporation","backgroundColor":"#7f47ef","borderColor":"#7f47ef","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Venetian Snares","backgroundColor":"#c9d7ff","borderColor":"#c9d7ff","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Padded Cell","backgroundColor":"#89a008","borderColor":"#89a008","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0]},{"label":"Beats Antique","backgroundColor":"#b8f6f9","borderColor":"#b8f6f9","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Stateless","backgroundColor":"#27ead7","borderColor":"#27ead7","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"808 State","backgroundColor":"#beed90","borderColor":"#beed90","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Strange Advance","backgroundColor":"#efa2ca","borderColor":"#efa2ca","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Telepopmusik","backgroundColor":"#1ed8cf","borderColor":"#1ed8cf","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"B. Fleischmann","backgroundColor":"#e3c6ff","borderColor":"#e3c6ff","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Darkstar","backgroundColor":"#2ace25","borderColor":"#2ace25","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"DJ Scientist","backgroundColor":"#f492f4","borderColor":"#f492f4","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Joy Orbison","backgroundColor":"#d716e5","borderColor":"#d716e5","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Angelo Badalamenti","backgroundColor":"#e8df61","borderColor":"#e8df61","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0]},{"label":"April Verch","backgroundColor":"#ef32e6","borderColor":"#ef32e6","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jayme Stone","backgroundColor":"#5a2099","borderColor":"#5a2099","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Geoff Berner","backgroundColor":"#90ed74","borderColor":"#90ed74","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Coco Méliès","backgroundColor":"#adea88","borderColor":"#adea88","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lee Harvey Osmond","backgroundColor":"#c09ce2","borderColor":"#c09ce2","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Aidan Knight","backgroundColor":"#89c63d","borderColor":"#89c63d","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Michelle McAdorey","backgroundColor":"#1886e0","borderColor":"#1886e0","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"A.C. Newman","backgroundColor":"#f259e8","borderColor":"#f259e8","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Charlotte Cornfield","backgroundColor":"#a01930","borderColor":"#a01930","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Corin Raymond","backgroundColor":"#2232c1","borderColor":"#2232c1","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Fiver","backgroundColor":"#939fe2","borderColor":"#939fe2","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"BEYRIES","backgroundColor":"#52b4f2","borderColor":"#52b4f2","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Abigail Lapell","backgroundColor":"#e89ba8","borderColor":"#e89ba8","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Stephen Fearing","backgroundColor":"#e5ef23","borderColor":"#e5ef23","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"MUNROE","backgroundColor":"#f2b25e","borderColor":"#f2b25e","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The East Pointers","backgroundColor":"#b5f774","borderColor":"#b5f774","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jordan Klassen","backgroundColor":"#18bc85","borderColor":"#18bc85","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Julianna Barwick","backgroundColor":"#f9ceae","borderColor":"#f9ceae","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Radical Face","backgroundColor":"#8931bc","borderColor":"#8931bc","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mt. Wolf","backgroundColor":"#d32aa9","borderColor":"#d32aa9","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Message To Bears","backgroundColor":"#5026cc","borderColor":"#5026cc","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Brendan Canning","backgroundColor":"#d83e98","borderColor":"#d83e98","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Xavier Rudd","backgroundColor":"#2d1575","borderColor":"#2d1575","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Edward Sharpe & The Magnetic Zeros","backgroundColor":"#ce3e1a","borderColor":"#ce3e1a","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Middle East","backgroundColor":"#9255e8","borderColor":"#9255e8","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Real Estate","backgroundColor":"#caf455","borderColor":"#caf455","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Lisa Mitchell","backgroundColor":"#8078db","borderColor":"#8078db","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Emiliana Torrini","backgroundColor":"#e92fed","borderColor":"#e92fed","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Dry The River","backgroundColor":"#5ca521","borderColor":"#5ca521","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Cloud Control","backgroundColor":"#bbd86c","borderColor":"#bbd86c","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"We Invented Paris","backgroundColor":"#4671fc","borderColor":"#4671fc","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Szun Waves","backgroundColor":"#ce0c23","borderColor":"#ce0c23","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Cults","backgroundColor":"#edc39c","borderColor":"#edc39c","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Luscious Jackson","backgroundColor":"#70ffee","borderColor":"#70ffee","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Travis","backgroundColor":"#f2bf98","borderColor":"#f2bf98","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Charlotte Gainsbourg","backgroundColor":"#9e57e0","borderColor":"#9e57e0","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Eleventh Hour","backgroundColor":"#b0b721","borderColor":"#b0b721","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0]},{"label":"Maria","backgroundColor":"#ad81ea","borderColor":"#ad81ea","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Marie Davidson","backgroundColor":"#0067e5","borderColor":"#0067e5","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Angelo De Augustine","backgroundColor":"#dd8e1f","borderColor":"#dd8e1f","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Ona","backgroundColor":"#8df4d0","borderColor":"#8df4d0","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Hiss Golden Messenger","backgroundColor":"#f4b9b7","borderColor":"#f4b9b7","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Ideas from CBC Radio (Highlights)","backgroundColor":"#a46afc","borderColor":"#a46afc","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]},{"label":"Andy Shauf","backgroundColor":"#ddc6ff","borderColor":"#ddc6ff","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Phoebe Bridgers","backgroundColor":"#bc793e","borderColor":"#bc793e","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Tedo Stone","backgroundColor":"#ed9a97","borderColor":"#ed9a97","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Henry Jamison","backgroundColor":"#f92aad","borderColor":"#f92aad","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Adam Torres","backgroundColor":"#b0f759","borderColor":"#b0f759","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Twin Peaks","backgroundColor":"#61f4f2","borderColor":"#61f4f2","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Esmé Patterson","backgroundColor":"#6d72d6","borderColor":"#6d72d6","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Lali Puna","backgroundColor":"#829ce0","borderColor":"#829ce0","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mountains","backgroundColor":"#0c7ff2","borderColor":"#0c7ff2","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Actress","backgroundColor":"#f9dcbb","borderColor":"#f9dcbb","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Jóhann Jóhannsson","backgroundColor":"#d3a900","borderColor":"#d3a900","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"TOKiMONSTA","backgroundColor":"#3fff5f","borderColor":"#3fff5f","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Gaslamp Killer","backgroundColor":"#140b72","borderColor":"#140b72","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Max Melvin","backgroundColor":"#2215af","borderColor":"#2215af","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Yann Tiersen","backgroundColor":"#79bace","borderColor":"#79bace","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Pantha Du Prince","backgroundColor":"#d3b928","borderColor":"#d3b928","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mono/poly","backgroundColor":"#910427","borderColor":"#910427","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Gasman","backgroundColor":"#fcf1a6","borderColor":"#fcf1a6","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"T. Hardy Morris","backgroundColor":"#02ddb1","borderColor":"#02ddb1","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Uncle Tupelo","backgroundColor":"#a0e825","borderColor":"#a0e825","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Pan American","backgroundColor":"#703ce0","borderColor":"#703ce0","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Citizen Cope","backgroundColor":"#f9aec6","borderColor":"#f9aec6","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Hope Sandoval and the Warm Inventions","backgroundColor":"#ffccd1","borderColor":"#ffccd1","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Agoria","backgroundColor":"#ea8186","borderColor":"#ea8186","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Moderat","backgroundColor":"#fcfaa1","borderColor":"#fcfaa1","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Death in Vegas","backgroundColor":"#7cea38","borderColor":"#7cea38","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Liars","backgroundColor":"#68dd8d","borderColor":"#68dd8d","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"Efterklang","backgroundColor":"#a9b2fc","borderColor":"#a9b2fc","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Laura Mvula","backgroundColor":"#d1762b","borderColor":"#d1762b","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Family Portrait","backgroundColor":"#d1140a","borderColor":"#d1140a","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Heavy","backgroundColor":"#f28202","borderColor":"#f28202","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Ettes","backgroundColor":"#90f4cc","borderColor":"#90f4cc","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Joanna Gruesome","backgroundColor":"#f3ffb2","borderColor":"#f3ffb2","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Milk Carton Kids","backgroundColor":"#2a27dd","borderColor":"#2a27dd","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Kat Edmonson","backgroundColor":"#a3c2e2","borderColor":"#a3c2e2","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Gillian Welch","backgroundColor":"#f9ad07","borderColor":"#f9ad07","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Ryan Adams","backgroundColor":"#aad157","borderColor":"#aad157","data":[0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Beaux Arts Trio","backgroundColor":"#b2e888","borderColor":"#b2e888","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Anne-Sophie Mutter/Alexis Weissenberg","backgroundColor":"#edab97","borderColor":"#edab97","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Scott Bradlee's Postmodern Jukebox","backgroundColor":"#bc930b","borderColor":"#bc930b","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0]},{"label":"Luise Walker","backgroundColor":"#ffddc6","borderColor":"#ffddc6","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Emmanuel Pahud, Eric Lesage","backgroundColor":"#edf9a7","borderColor":"#edf9a7","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Raymond Honing","backgroundColor":"#49db41","borderColor":"#49db41","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Nicolas Jaar","backgroundColor":"#d34a4c","borderColor":"#d34a4c","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Daedelus","backgroundColor":"#ffefb2","borderColor":"#ffefb2","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"jj","backgroundColor":"#e7aaef","borderColor":"#e7aaef","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Burial","backgroundColor":"#f97f81","borderColor":"#f97f81","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Joshua Bell and Samuel Sanders","backgroundColor":"#35d695","borderColor":"#35d695","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"The Borodin String Quartet","backgroundColor":"#e24add","borderColor":"#e24add","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Alan Hovhaness","backgroundColor":"#f45881","borderColor":"#f45881","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Nicanor Zabaleta","backgroundColor":"#e26fa7","borderColor":"#e26fa7","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"CBC Vancouver Orchestra","backgroundColor":"#ed8642","borderColor":"#ed8642","data":[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"San Francisco Symphony","backgroundColor":"#21a551","borderColor":"#21a551","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Vienna Philharmonic Orchestra","backgroundColor":"#f43a6f","borderColor":"#f43a6f","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Flo Rida","backgroundColor":"#60db64","borderColor":"#60db64","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Galimatias","backgroundColor":"#9ae886","borderColor":"#9ae886","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Washed Out","backgroundColor":"#e06dbe","borderColor":"#e06dbe","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Com Truise","backgroundColor":"#f2b5b0","borderColor":"#f2b5b0","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Quiet Life","backgroundColor":"#8a90fc","borderColor":"#8a90fc","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"The Supremes","backgroundColor":"#e8d22e","borderColor":"#e8d22e","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Robert Parker","backgroundColor":"#649fc9","borderColor":"#649fc9","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Matthew Logan Vasquez","backgroundColor":"#a744ea","borderColor":"#a744ea","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"Bas Jan","backgroundColor":"#eab907","borderColor":"#eab907","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]},{"label":"The Replacements","backgroundColor":"#cdd850","borderColor":"#cdd850","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Wye Oak","backgroundColor":"#7dafd8","borderColor":"#7dafd8","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Galaxie 500","backgroundColor":"#448dce","borderColor":"#448dce","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"Mojave 3","backgroundColor":"#47cc43","borderColor":"#47cc43","data":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"label":"I’m With Her","backgroundColor":"#368c96","borderColor":"#368c96","data":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0]},{"label":"How To Dress Well","backgroundColor":"#ff4c85","borderColor":"#ff4c85","data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]}];
+window.data = [
+  {
+    "label": "R.E.M.",
+    "backgroundColor": "#d2e074",
+    "borderColor": "#d2e074",
+    "data": [
+      0,
+      140,
+      44,
+      69,
+      80,
+      0,
+      24,
+      14,
+      9,
+      85,
+      51,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Radiohead",
+    "backgroundColor": "#4609a0",
+    "borderColor": "#4609a0",
+    "data": [
+      10,
+      37,
+      88,
+      0,
+      25,
+      1,
+      40,
+      33,
+      36,
+      19,
+      11,
+      60,
+      0
+    ]
+  },
+  {
+    "label": "LCD Soundsystem",
+    "backgroundColor": "#fcb5d9",
+    "borderColor": "#fcb5d9",
+    "data": [
+      16,
+      32,
+      85,
+      32,
+      8,
+      19,
+      34,
+      6,
+      26,
+      4,
+      12,
+      17,
+      0
+    ]
+  },
+  {
+    "label": "David Bowie",
+    "backgroundColor": "#95e057",
+    "borderColor": "#95e057",
+    "data": [
+      9,
+      74,
+      60,
+      10,
+      1,
+      6,
+      0,
+      2,
+      1,
+      0,
+      90,
+      6,
+      0
+    ]
+  },
+  {
+    "label": "Kate Bush",
+    "backgroundColor": "#9073ef",
+    "borderColor": "#9073ef",
+    "data": [
+      10,
+      1,
+      63,
+      1,
+      14,
+      91,
+      1,
+      15,
+      15,
+      32,
+      8,
+      3,
+      0
+    ]
+  },
+  {
+    "label": "Talking Heads",
+    "backgroundColor": "#a9ea1c",
+    "borderColor": "#a9ea1c",
+    "data": [
+      23,
+      2,
+      12,
+      69,
+      2,
+      17,
+      3,
+      6,
+      13,
+      44,
+      0,
+      4,
+      0
+    ]
+  },
+  {
+    "label": "Arcade Fire",
+    "backgroundColor": "#3bbfba",
+    "borderColor": "#3bbfba",
+    "data": [
+      0,
+      31,
+      86,
+      6,
+      7,
+      0,
+      14,
+      2,
+      13,
+      2,
+      18,
+      8,
+      0
+    ]
+  },
+  {
+    "label": "!!!",
+    "backgroundColor": "#e283fc",
+    "borderColor": "#e283fc",
+    "data": [
+      0,
+      2,
+      9,
+      12,
+      0,
+      5,
+      22,
+      47,
+      0,
+      10,
+      52,
+      3,
+      8
+    ]
+  },
+  {
+    "label": "The Beatles",
+    "backgroundColor": "#d3d004",
+    "borderColor": "#d3d004",
+    "data": [
+      0,
+      0,
+      79,
+      27,
+      12,
+      4,
+      11,
+      11,
+      1,
+      6,
+      8,
+      8,
+      0
+    ]
+  },
+  {
+    "label": "Cut Copy",
+    "backgroundColor": "#9dba1b",
+    "borderColor": "#9dba1b",
+    "data": [
+      0,
+      23,
+      14,
+      43,
+      26,
+      1,
+      9,
+      0,
+      10,
+      0,
+      16,
+      9,
+      0
+    ]
+  },
+  {
+    "label": "Laura Marling",
+    "backgroundColor": "#8068c1",
+    "borderColor": "#8068c1",
+    "data": [
+      0,
+      27,
+      37,
+      12,
+      3,
+      17,
+      7,
+      13,
+      0,
+      6,
+      0,
+      27,
+      0
+    ]
+  },
+  {
+    "label": "Holy Ghost!",
+    "backgroundColor": "#a5f7eb",
+    "borderColor": "#a5f7eb",
+    "data": [
+      3,
+      1,
+      38,
+      1,
+      9,
+      0,
+      13,
+      1,
+      0,
+      1,
+      13,
+      39,
+      0
+    ]
+  },
+  {
+    "label": "Haley Heynderickx",
+    "backgroundColor": "#6688d6",
+    "borderColor": "#6688d6",
+    "data": [
+      0,
+      39,
+      26,
+      7,
+      0,
+      0,
+      5,
+      34,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Guerilla Toss",
+    "backgroundColor": "#ea1518",
+    "borderColor": "#ea1518",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      1,
+      1,
+      66,
+      26,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "Nine Inch Nails",
+    "backgroundColor": "#e88fdf",
+    "borderColor": "#e88fdf",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      95,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "New Order",
+    "backgroundColor": "#f9c0e5",
+    "borderColor": "#f9c0e5",
+    "data": [
+      0,
+      26,
+      12,
+      10,
+      0,
+      0,
+      1,
+      3,
+      1,
+      2,
+      0,
+      0,
+      40
+    ]
+  },
+  {
+    "label": "Blur",
+    "backgroundColor": "#e27191",
+    "borderColor": "#e27191",
+    "data": [
+      0,
+      16,
+      46,
+      15,
+      8,
+      0,
+      9,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Rolling Stones",
+    "backgroundColor": "#e2769d",
+    "borderColor": "#e2769d",
+    "data": [
+      0,
+      0,
+      78,
+      0,
+      0,
+      0,
+      1,
+      13,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Snow Patrol",
+    "backgroundColor": "#92a823",
+    "borderColor": "#92a823",
+    "data": [
+      0,
+      1,
+      1,
+      0,
+      2,
+      28,
+      1,
+      1,
+      15,
+      4,
+      0,
+      34,
+      0
+    ]
+  },
+  {
+    "label": "The Oh Hellos",
+    "backgroundColor": "#f4e47c",
+    "borderColor": "#f4e47c",
+    "data": [
+      0,
+      20,
+      7,
+      0,
+      0,
+      0,
+      15,
+      0,
+      1,
+      30,
+      11,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Coldplay",
+    "backgroundColor": "#7950b2",
+    "borderColor": "#7950b2",
+    "data": [
+      0,
+      0,
+      12,
+      0,
+      10,
+      0,
+      1,
+      0,
+      6,
+      1,
+      14,
+      38,
+      0
+    ]
+  },
+  {
+    "label": "London Philharmonic Orchestra/Klaus Tennstedt/David Bell",
+    "backgroundColor": "#4071b7",
+    "borderColor": "#4071b7",
+    "data": [
+      0,
+      0,
+      0,
+      45,
+      10,
+      0,
+      0,
+      1,
+      16,
+      9,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Gorillaz",
+    "backgroundColor": "#ccdcff",
+    "borderColor": "#ccdcff",
+    "data": [
+      0,
+      2,
+      10,
+      0,
+      28,
+      0,
+      26,
+      4,
+      3,
+      1,
+      1,
+      5,
+      0
+    ]
+  },
+  {
+    "label": "Thom Yorke",
+    "backgroundColor": "#82aa0a",
+    "borderColor": "#82aa0a",
+    "data": [
+      0,
+      0,
+      19,
+      0,
+      0,
+      0,
+      2,
+      49,
+      9,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Crane Wives",
+    "backgroundColor": "#685cd6",
+    "borderColor": "#685cd6",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      56,
+      0,
+      0,
+      23,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "First Aid Kit",
+    "backgroundColor": "#f76fb5",
+    "borderColor": "#f76fb5",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      62,
+      12,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Mountain Goats",
+    "backgroundColor": "#fff3b7",
+    "borderColor": "#fff3b7",
+    "data": [
+      10,
+      13,
+      0,
+      0,
+      25,
+      0,
+      0,
+      13,
+      0,
+      16,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Vampire Weekend",
+    "backgroundColor": "#e02a88",
+    "borderColor": "#e02a88",
+    "data": [
+      0,
+      14,
+      0,
+      0,
+      11,
+      20,
+      0,
+      20,
+      10,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Clash",
+    "backgroundColor": "#b7f293",
+    "borderColor": "#b7f293",
+    "data": [
+      0,
+      18,
+      33,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      22,
+      0
+    ]
+  },
+  {
+    "label": "The Balconies",
+    "backgroundColor": "#80adf2",
+    "borderColor": "#80adf2",
+    "data": [
+      0,
+      45,
+      0,
+      0,
+      2,
+      0,
+      18,
+      0,
+      5,
+      0,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bonobo",
+    "backgroundColor": "#5abc36",
+    "borderColor": "#5abc36",
+    "data": [
+      0,
+      46,
+      12,
+      0,
+      0,
+      0,
+      0,
+      17,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Janelle Monáe",
+    "backgroundColor": "#2421ed",
+    "borderColor": "#2421ed",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      69,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Barenaked Ladies",
+    "backgroundColor": "#058a93",
+    "borderColor": "#058a93",
+    "data": [
+      5,
+      43,
+      0,
+      0,
+      4,
+      8,
+      7,
+      1,
+      1,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "MGMT",
+    "backgroundColor": "#cc8445",
+    "borderColor": "#cc8445",
+    "data": [
+      6,
+      0,
+      0,
+      0,
+      7,
+      42,
+      0,
+      0,
+      6,
+      10,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Death Cab for Cutie",
+    "backgroundColor": "#cd29f2",
+    "borderColor": "#cd29f2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      13,
+      0,
+      20,
+      2,
+      16,
+      7,
+      0,
+      11,
+      0
+    ]
+  },
+  {
+    "label": "Hannah Georgas",
+    "backgroundColor": "#c0ef62",
+    "borderColor": "#c0ef62",
+    "data": [
+      0,
+      1,
+      15,
+      51,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Big Data",
+    "backgroundColor": "#efa5ac",
+    "borderColor": "#efa5ac",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      15,
+      10,
+      11,
+      7,
+      8,
+      0,
+      6,
+      10,
+      0
+    ]
+  },
+  {
+    "label": "Berliner Philharmoniker",
+    "backgroundColor": "#82f2dd",
+    "borderColor": "#82f2dd",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      49,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "label": "Feist",
+    "backgroundColor": "#70d35d",
+    "borderColor": "#70d35d",
+    "data": [
+      0,
+      1,
+      13,
+      5,
+      0,
+      1,
+      1,
+      41,
+      0,
+      1,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "OK Go",
+    "backgroundColor": "#e58970",
+    "borderColor": "#e58970",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      3,
+      28,
+      1,
+      23,
+      8,
+      0
+    ]
+  },
+  {
+    "label": "St. Vincent",
+    "backgroundColor": "#bc89d6",
+    "borderColor": "#bc89d6",
+    "data": [
+      0,
+      18,
+      0,
+      0,
+      5,
+      0,
+      2,
+      0,
+      0,
+      0,
+      37,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "High Five Spaceship",
+    "backgroundColor": "#10b228",
+    "borderColor": "#10b228",
+    "data": [
+      3,
+      26,
+      0,
+      1,
+      22,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "label": "BBC National Orchestra of Wales",
+    "backgroundColor": "#92d310",
+    "borderColor": "#92d310",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      15,
+      30,
+      15,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Middle Kids",
+    "backgroundColor": "#5667bc",
+    "borderColor": "#5667bc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      51,
+      6,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Madvillain",
+    "backgroundColor": "#02db17",
+    "borderColor": "#02db17",
+    "data": [
+      0,
+      0,
+      0,
+      43,
+      0,
+      0,
+      16,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sure Sure",
+    "backgroundColor": "#fcaec8",
+    "borderColor": "#fcaec8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      25,
+      22,
+      0,
+      9,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "A Tribe Called Quest",
+    "backgroundColor": "#dd6bf9",
+    "borderColor": "#dd6bf9",
+    "data": [
+      0,
+      0,
+      0,
+      55,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Taylor Swift",
+    "backgroundColor": "#1482a0",
+    "borderColor": "#1482a0",
+    "data": [
+      0,
+      1,
+      1,
+      0,
+      5,
+      0,
+      2,
+      1,
+      23,
+      14,
+      8,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Hercules & Love Affair",
+    "backgroundColor": "#cc4345",
+    "borderColor": "#cc4345",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      55,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Michael Jackson",
+    "backgroundColor": "#9707ff",
+    "borderColor": "#9707ff",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      2,
+      0,
+      49,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "King Gizzard & The Lizard Wizard",
+    "backgroundColor": "#746fce",
+    "borderColor": "#746fce",
+    "data": [
+      0,
+      9,
+      0,
+      0,
+      17,
+      0,
+      0,
+      19,
+      9,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tycho",
+    "backgroundColor": "#ddea7c",
+    "borderColor": "#ddea7c",
+    "data": [
+      0,
+      0,
+      9,
+      0,
+      22,
+      2,
+      2,
+      18,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Julia Holter",
+    "backgroundColor": "#f3ffa8",
+    "borderColor": "#f3ffa8",
+    "data": [
+      0,
+      0,
+      25,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      19,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "U2",
+    "backgroundColor": "#11af6d",
+    "borderColor": "#11af6d",
+    "data": [
+      0,
+      3,
+      11,
+      6,
+      5,
+      0,
+      0,
+      3,
+      20,
+      0,
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "Junip",
+    "backgroundColor": "#dfef99",
+    "borderColor": "#dfef99",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      14,
+      12,
+      16,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Franz Ferdinand",
+    "backgroundColor": "#dd855d",
+    "borderColor": "#dd855d",
+    "data": [
+      0,
+      2,
+      0,
+      7,
+      1,
+      0,
+      1,
+      2,
+      10,
+      1,
+      1,
+      24,
+      0
+    ]
+  },
+  {
+    "label": "Angélique Kidjo",
+    "backgroundColor": "#9a66d1",
+    "borderColor": "#9a66d1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      35,
+      12,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Parov Stelar",
+    "backgroundColor": "#578704",
+    "borderColor": "#578704",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      28,
+      0
+    ]
+  },
+  {
+    "label": "Jon Bellion",
+    "backgroundColor": "#0242d8",
+    "borderColor": "#0242d8",
+    "data": [
+      0,
+      1,
+      16,
+      0,
+      0,
+      15,
+      11,
+      0,
+      2,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Alex Lahey",
+    "backgroundColor": "#9ae285",
+    "borderColor": "#9ae285",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      39,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "George Barnett",
+    "backgroundColor": "#e070af",
+    "borderColor": "#e070af",
+    "data": [
+      0,
+      0,
+      14,
+      11,
+      0,
+      0,
+      16,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Future Islands",
+    "backgroundColor": "#e88d4c",
+    "borderColor": "#e88d4c",
+    "data": [
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "label": "Hot Chip",
+    "backgroundColor": "#f9c2f2",
+    "borderColor": "#f9c2f2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      42,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Angelique Kidjo",
+    "backgroundColor": "#d611a1",
+    "borderColor": "#d611a1",
+    "data": [
+      0,
+      8,
+      0,
+      15,
+      0,
+      0,
+      7,
+      3,
+      0,
+      6,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Sharon Van Etten",
+    "backgroundColor": "#b18fe0",
+    "borderColor": "#b18fe0",
+    "data": [
+      0,
+      24,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      10,
+      4,
+      0
+    ]
+  },
+  {
+    "label": "London Symphony Orchestra",
+    "backgroundColor": "#92ef83",
+    "borderColor": "#92ef83",
+    "data": [
+      0,
+      0,
+      20,
+      10,
+      1,
+      0,
+      0,
+      0,
+      2,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Mitski",
+    "backgroundColor": "#98f293",
+    "borderColor": "#98f293",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      15,
+      10,
+      0,
+      1,
+      14,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Green Day",
+    "backgroundColor": "#cc0411",
+    "borderColor": "#cc0411",
+    "data": [
+      0,
+      0,
+      0,
+      6,
+      3,
+      0,
+      0,
+      1,
+      0,
+      1,
+      25,
+      4,
+      0
+    ]
+  },
+  {
+    "label": "Neutral Milk Hotel",
+    "backgroundColor": "#c25ae8",
+    "borderColor": "#c25ae8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      20,
+      11,
+      0,
+      0,
+      8,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Buke & Gase",
+    "backgroundColor": "#8823db",
+    "borderColor": "#8823db",
+    "data": [
+      0,
+      29,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Mowgli's",
+    "backgroundColor": "#f22962",
+    "borderColor": "#f22962",
+    "data": [
+      1,
+      8,
+      0,
+      0,
+      7,
+      0,
+      1,
+      0,
+      1,
+      0,
+      18,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "HalfNoise",
+    "backgroundColor": "#fcc78f",
+    "borderColor": "#fcc78f",
+    "data": [
+      0,
+      0,
+      0,
+      15,
+      3,
+      0,
+      0,
+      1,
+      0,
+      0,
+      18,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Max Richter",
+    "backgroundColor": "#9072cc",
+    "borderColor": "#9072cc",
+    "data": [
+      0,
+      25,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Doors",
+    "backgroundColor": "#06e812",
+    "borderColor": "#06e812",
+    "data": [
+      0,
+      0,
+      4,
+      11,
+      22,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Roxy Music",
+    "backgroundColor": "#6440c9",
+    "borderColor": "#6440c9",
+    "data": [
+      0,
+      13,
+      3,
+      3,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0
+    ]
+  },
+  {
+    "label": "Eurythmics",
+    "backgroundColor": "#e833cc",
+    "borderColor": "#e833cc",
+    "data": [
+      0,
+      0,
+      0,
+      29,
+      1,
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Glass Animals",
+    "backgroundColor": "#f2a460",
+    "borderColor": "#f2a460",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      11,
+      0,
+      9,
+      1,
+      0,
+      12,
+      0
+    ]
+  },
+  {
+    "label": "Antonio Vivaldi",
+    "backgroundColor": "#6e8fd3",
+    "borderColor": "#6e8fd3",
+    "data": [
+      0,
+      0,
+      22,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ben Folds",
+    "backgroundColor": "#43c42d",
+    "borderColor": "#43c42d",
+    "data": [
+      0,
+      7,
+      24,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Joni Mitchell",
+    "backgroundColor": "#ef64da",
+    "borderColor": "#ef64da",
+    "data": [
+      0,
+      0,
+      19,
+      0,
+      1,
+      0,
+      0,
+      0,
+      7,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Oingo Boingo",
+    "backgroundColor": "#b26d30",
+    "borderColor": "#b26d30",
+    "data": [
+      0,
+      0,
+      0,
+      17,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kaia Kater",
+    "backgroundColor": "#3dcc4b",
+    "borderColor": "#3dcc4b",
+    "data": [
+      0,
+      0,
+      0,
+      29,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Regina Spektor",
+    "backgroundColor": "#e87727",
+    "borderColor": "#e87727",
+    "data": [
+      8,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      19,
+      0
+    ]
+  },
+  {
+    "label": "The Cure",
+    "backgroundColor": "#cbffaf",
+    "borderColor": "#cbffaf",
+    "data": [
+      0,
+      18,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Stella Donnelly",
+    "backgroundColor": "#12ea90",
+    "borderColor": "#12ea90",
+    "data": [
+      0,
+      7,
+      0,
+      21,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Broken Bells",
+    "backgroundColor": "#af2e00",
+    "borderColor": "#af2e00",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      1,
+      22,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Broken Social Scene",
+    "backgroundColor": "#e855db",
+    "borderColor": "#e855db",
+    "data": [
+      0,
+      2,
+      18,
+      0,
+      5,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Spoon",
+    "backgroundColor": "#e522a1",
+    "borderColor": "#e522a1",
+    "data": [
+      0,
+      11,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      11,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Grizzly Bear",
+    "backgroundColor": "#242f91",
+    "borderColor": "#242f91",
+    "data": [
+      0,
+      0,
+      1,
+      15,
+      0,
+      0,
+      0,
+      0,
+      2,
+      9,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Peter Gabriel",
+    "backgroundColor": "#ad82ff",
+    "borderColor": "#ad82ff",
+    "data": [
+      0,
+      9,
+      18,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Devo",
+    "backgroundColor": "#24aa1b",
+    "borderColor": "#24aa1b",
+    "data": [
+      0,
+      0,
+      2,
+      13,
+      0,
+      0,
+      0,
+      0,
+      1,
+      10,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Abigail Lapell",
+    "backgroundColor": "#b58215",
+    "borderColor": "#b58215",
+    "data": [
+      0,
+      0,
+      15,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Weezer",
+    "backgroundColor": "#e0797e",
+    "borderColor": "#e0797e",
+    "data": [
+      0,
+      26,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kanye West",
+    "backgroundColor": "#e2ffb2",
+    "borderColor": "#e2ffb2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      25,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "DIIV",
+    "backgroundColor": "#8062e0",
+    "borderColor": "#8062e0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      3,
+      20,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Flume",
+    "backgroundColor": "#a5fff1",
+    "borderColor": "#a5fff1",
+    "data": [
+      0,
+      0,
+      0,
+      18,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lucia Popp/Klaus Tennstedt",
+    "backgroundColor": "#1cefc1",
+    "borderColor": "#1cefc1",
+    "data": [
+      0,
+      0,
+      0,
+      12,
+      4,
+      0,
+      0,
+      0,
+      4,
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Depeche Mode",
+    "backgroundColor": "#bc21d1",
+    "borderColor": "#bc21d1",
+    "data": [
+      0,
+      6,
+      17,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "William Patrick Corgan",
+    "backgroundColor": "#d13856",
+    "borderColor": "#d13856",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      23,
+      0
+    ]
+  },
+  {
+    "label": "99% Invisible",
+    "backgroundColor": "#baa5e5",
+    "borderColor": "#baa5e5",
+    "data": [
+      0,
+      9,
+      0,
+      1,
+      3,
+      5,
+      2,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Gramatik",
+    "backgroundColor": "#028e8c",
+    "borderColor": "#028e8c",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      22,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Spirit Of The West",
+    "backgroundColor": "#dba14a",
+    "borderColor": "#dba14a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0
+    ]
+  },
+  {
+    "label": "Daft Punk",
+    "backgroundColor": "#e89237",
+    "borderColor": "#e89237",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0
+    ]
+  },
+  {
+    "label": "Yeasayer",
+    "backgroundColor": "#ffc6e1",
+    "borderColor": "#ffc6e1",
+    "data": [
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "This American Life",
+    "backgroundColor": "#5bd84e",
+    "borderColor": "#5bd84e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      11,
+      5,
+      2,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kishi Bashi",
+    "backgroundColor": "#385ec4",
+    "borderColor": "#385ec4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      21,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Buffy Sainte-Marie",
+    "backgroundColor": "#09c12e",
+    "borderColor": "#09c12e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      20,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Accidentals",
+    "backgroundColor": "#6b60ff",
+    "borderColor": "#6b60ff",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      19,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "XTC",
+    "backgroundColor": "#07bf94",
+    "borderColor": "#07bf94",
+    "data": [
+      0,
+      2,
+      17,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "KIDS SEE GHOSTS",
+    "backgroundColor": "#c9ffad",
+    "borderColor": "#c9ffad",
+    "data": [
+      3,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Billy Corgan",
+    "backgroundColor": "#eab781",
+    "borderColor": "#eab781",
+    "data": [
+      0,
+      16,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Superorganism",
+    "backgroundColor": "#7af9d1",
+    "borderColor": "#7af9d1",
+    "data": [
+      0,
+      1,
+      14,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Kalle Mattson",
+    "backgroundColor": "#d86a6f",
+    "borderColor": "#d86a6f",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Anthropocene Reviewed",
+    "backgroundColor": "#a9fc76",
+    "borderColor": "#a9fc76",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      17,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Rich Aucoin",
+    "backgroundColor": "#0c047a",
+    "borderColor": "#0c047a",
+    "data": [
+      0,
+      6,
+      0,
+      0,
+      1,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Asteroids Galaxy Tour",
+    "backgroundColor": "#f70723",
+    "borderColor": "#f70723",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      5,
+      0,
+      1,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Overcoats",
+    "backgroundColor": "#22b55f",
+    "borderColor": "#22b55f",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      17,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tyler, The Creator",
+    "backgroundColor": "#d88f29",
+    "borderColor": "#d88f29",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      17,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Of Monsters and Men",
+    "backgroundColor": "#6ce2c5",
+    "borderColor": "#6ce2c5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      7,
+      4,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker",
+    "backgroundColor": "#7bedd2",
+    "borderColor": "#7bedd2",
+    "data": [
+      0,
+      4,
+      1,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Khatia Buniatishvili",
+    "backgroundColor": "#c68be0",
+    "borderColor": "#c68be0",
+    "data": [
+      0,
+      0,
+      0,
+      17,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Blondie",
+    "backgroundColor": "#af3111",
+    "borderColor": "#af3111",
+    "data": [
+      0,
+      0,
+      0,
+      12,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Watsky",
+    "backgroundColor": "#4f49af",
+    "borderColor": "#4f49af",
+    "data": [
+      0,
+      9,
+      0,
+      0,
+      0,
+      1,
+      2,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Rural Alberta Advantage",
+    "backgroundColor": "#a895f4",
+    "borderColor": "#a895f4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      15,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Reply All",
+    "backgroundColor": "#50b2c4",
+    "borderColor": "#50b2c4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      7,
+      2,
+      1,
+      4,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Led Zeppelin",
+    "backgroundColor": "#f4c77a",
+    "borderColor": "#f4c77a",
+    "data": [
+      0,
+      0,
+      2,
+      4,
+      9,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Konzerthaus Kammerorchester Berlin",
+    "backgroundColor": "#fc92d9",
+    "borderColor": "#fc92d9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "David Byrne",
+    "backgroundColor": "#bf8615",
+    "borderColor": "#bf8615",
+    "data": [
+      0,
+      0,
+      15,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Queen",
+    "backgroundColor": "#626dc4",
+    "borderColor": "#626dc4",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      15,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Florence + The Machine",
+    "backgroundColor": "#88eaaf",
+    "borderColor": "#88eaaf",
+    "data": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Pomplamoose",
+    "backgroundColor": "#9bbeef",
+    "borderColor": "#9bbeef",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Little Simz",
+    "backgroundColor": "#044872",
+    "borderColor": "#044872",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Wooden Sky",
+    "backgroundColor": "#efa79e",
+    "borderColor": "#efa79e",
+    "data": [
+      0,
+      0,
+      0,
+      14,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Black Eyed Peas",
+    "backgroundColor": "#3686aa",
+    "borderColor": "#3686aa",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Saint Motel",
+    "backgroundColor": "#d1307b",
+    "borderColor": "#d1307b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      0,
+      7,
+      5,
+      0
+    ]
+  },
+  {
+    "label": "Alt-J",
+    "backgroundColor": "#abfccb",
+    "borderColor": "#abfccb",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Charli XCX",
+    "backgroundColor": "#ffe2c9",
+    "borderColor": "#ffe2c9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      15,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Greeting Committee",
+    "backgroundColor": "#e8e420",
+    "borderColor": "#e8e420",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The History of English Podcast",
+    "backgroundColor": "#edf799",
+    "borderColor": "#edf799",
+    "data": [
+      0,
+      1,
+      3,
+      10,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Muse",
+    "backgroundColor": "#5e90c9",
+    "borderColor": "#5e90c9",
+    "data": [
+      0,
+      1,
+      7,
+      0,
+      1,
+      0,
+      3,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Lady Gaga",
+    "backgroundColor": "#d2f99a",
+    "borderColor": "#d2f99a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Iron & Wine",
+    "backgroundColor": "#f774e8",
+    "borderColor": "#f774e8",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      13,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Don Shirley",
+    "backgroundColor": "#ea9b81",
+    "borderColor": "#ea9b81",
+    "data": [
+      0,
+      0,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Metric",
+    "backgroundColor": "#f4d977",
+    "borderColor": "#f4d977",
+    "data": [
+      0,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Beck",
+    "backgroundColor": "#13608c",
+    "borderColor": "#13608c",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      12,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Philharmonia Orchestra",
+    "backgroundColor": "#9547d1",
+    "borderColor": "#9547d1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Radiolab",
+    "backgroundColor": "#f7d6aa",
+    "borderColor": "#f7d6aa",
+    "data": [
+      0,
+      3,
+      3,
+      0,
+      0,
+      1,
+      4,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Youth Lagoon",
+    "backgroundColor": "#530c89",
+    "borderColor": "#530c89",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Hazel English",
+    "backgroundColor": "#78addb",
+    "borderColor": "#78addb",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      13,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Wild Reeds",
+    "backgroundColor": "#8f9dd8",
+    "borderColor": "#8f9dd8",
+    "data": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Collection",
+    "backgroundColor": "#b72d28",
+    "borderColor": "#b72d28",
+    "data": [
+      0,
+      0,
+      0,
+      13,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Neon Indian",
+    "backgroundColor": "#e28199",
+    "borderColor": "#e28199",
+    "data": [
+      0,
+      13,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Staatskapelle Dresden",
+    "backgroundColor": "#b6f99f",
+    "borderColor": "#b6f99f",
+    "data": [
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ]
+  },
+  {
+    "label": "Men Without Hats",
+    "backgroundColor": "#4be586",
+    "borderColor": "#4be586",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ezra Furman",
+    "backgroundColor": "#6b85c4",
+    "borderColor": "#6b85c4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jeremy Dutcher",
+    "backgroundColor": "#dd85b0",
+    "borderColor": "#dd85b0",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Run River North",
+    "backgroundColor": "#72d660",
+    "borderColor": "#72d660",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wild Nothing",
+    "backgroundColor": "#ffccef",
+    "borderColor": "#ffccef",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Pogues",
+    "backgroundColor": "#7ed35f",
+    "borderColor": "#7ed35f",
+    "data": [
+      0,
+      0,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ludwig Van Beethoven",
+    "backgroundColor": "#26009b",
+    "borderColor": "#26009b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Juan MacLean",
+    "backgroundColor": "#f4f392",
+    "borderColor": "#f4f392",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Vacationer",
+    "backgroundColor": "#8cbce2",
+    "borderColor": "#8cbce2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Nude Party",
+    "backgroundColor": "#7def1a",
+    "borderColor": "#7def1a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Caroline Rose",
+    "backgroundColor": "#6f93e8",
+    "borderColor": "#6f93e8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Anderson .Paak",
+    "backgroundColor": "#d3ca15",
+    "borderColor": "#d3ca15",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "LSD",
+    "backgroundColor": "#8fefe4",
+    "borderColor": "#8fefe4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Mounties",
+    "backgroundColor": "#19fcf4",
+    "borderColor": "#19fcf4",
+    "data": [
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Massive Attack",
+    "backgroundColor": "#2d649e",
+    "borderColor": "#2d649e",
+    "data": [
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Gothenburg Symphony Orchestra",
+    "backgroundColor": "#dcccff",
+    "borderColor": "#dcccff",
+    "data": [
+      0,
+      7,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "And The Kids",
+    "backgroundColor": "#1c29a5",
+    "borderColor": "#1c29a5",
+    "data": [
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Deerhunter",
+    "backgroundColor": "#e0cb55",
+    "borderColor": "#e0cb55",
+    "data": [
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "John Luther Adams",
+    "backgroundColor": "#93fc85",
+    "borderColor": "#93fc85",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Cake",
+    "backgroundColor": "#3ce886",
+    "borderColor": "#3ce886",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      4,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "AJJ",
+    "backgroundColor": "#a6f6fc",
+    "borderColor": "#a6f6fc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0
+    ]
+  },
+  {
+    "label": "The New Pornographers",
+    "backgroundColor": "#e4b7f4",
+    "borderColor": "#e4b7f4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tropical Fuck Storm",
+    "backgroundColor": "#12963e",
+    "borderColor": "#12963e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Curtis Harding",
+    "backgroundColor": "#f2c7fc",
+    "borderColor": "#f2c7fc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "David Byrne & St. Vincent",
+    "backgroundColor": "#4aa1b2",
+    "borderColor": "#4aa1b2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Parov Stelar Trio",
+    "backgroundColor": "#fc88fa",
+    "borderColor": "#fc88fa",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The London Philharmonic Orchestra and  Constantin Silvestri",
+    "backgroundColor": "#0d8084",
+    "borderColor": "#0d8084",
+    "data": [
+      0,
+      0,
+      0,
+      5,
+      4,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Better Oblivion Community Center",
+    "backgroundColor": "#d6465c",
+    "borderColor": "#d6465c",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Danger Twins",
+    "backgroundColor": "#f9c73b",
+    "borderColor": "#f9c73b",
+    "data": [
+      0,
+      0,
+      9,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jon Hopkins",
+    "backgroundColor": "#a239db",
+    "borderColor": "#a239db",
+    "data": [
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jukebox The Ghost",
+    "backgroundColor": "#5ee059",
+    "borderColor": "#5ee059",
+    "data": [
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Dire Straits",
+    "backgroundColor": "#56e2c9",
+    "borderColor": "#56e2c9",
+    "data": [
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Floral Tattoo",
+    "backgroundColor": "#07bcb0",
+    "borderColor": "#07bcb0",
+    "data": [
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "King Gizzard And The Lizard Wizard",
+    "backgroundColor": "#ffd0c9",
+    "borderColor": "#ffd0c9",
+    "data": [
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The 1975",
+    "backgroundColor": "#e07dbd",
+    "borderColor": "#e07dbd",
+    "data": [
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Of Monsters And Men",
+    "backgroundColor": "#efd673",
+    "borderColor": "#efd673",
+    "data": [
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Dan Mangan",
+    "backgroundColor": "#c0f77e",
+    "borderColor": "#c0f77e",
+    "data": [
+      0,
+      0,
+      6,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Passion Pit",
+    "backgroundColor": "#ca50e0",
+    "borderColor": "#ca50e0",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      2,
+      0,
+      3,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Revisionist History",
+    "backgroundColor": "#bc2ce0",
+    "borderColor": "#bc2ce0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "BOY",
+    "backgroundColor": "#82d9ed",
+    "borderColor": "#82d9ed",
+    "data": [
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Yoke Lore",
+    "backgroundColor": "#14fc46",
+    "borderColor": "#14fc46",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ohmme",
+    "backgroundColor": "#759fdd",
+    "borderColor": "#759fdd",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lana Del Rey",
+    "backgroundColor": "#d1389b",
+    "borderColor": "#d1389b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Pizzolato, Marianna",
+    "backgroundColor": "#ffc9f3",
+    "borderColor": "#ffc9f3",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Billie Eilish",
+    "backgroundColor": "#b5e2f4",
+    "borderColor": "#b5e2f4",
+    "data": [
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "twenty one pilots",
+    "backgroundColor": "#c6b9f7",
+    "borderColor": "#c6b9f7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "label": "Herbert von Karajan",
+    "backgroundColor": "#edd11a",
+    "borderColor": "#edd11a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Halfnoise",
+    "backgroundColor": "#af9af4",
+    "borderColor": "#af9af4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The London Symphony Orchestra",
+    "backgroundColor": "#fff6bf",
+    "borderColor": "#fff6bf",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Shelters",
+    "backgroundColor": "#d615ac",
+    "borderColor": "#d615ac",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Aaron Copland",
+    "backgroundColor": "#95fc7b",
+    "borderColor": "#95fc7b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The NPR Politics Podcast",
+    "backgroundColor": "#093d87",
+    "borderColor": "#093d87",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      3,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Fleetwood Mac",
+    "backgroundColor": "#dd6abd",
+    "borderColor": "#dd6abd",
+    "data": [
+      0,
+      0,
+      0,
+      7,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Memory Tapes",
+    "backgroundColor": "#f9e886",
+    "borderColor": "#f9e886",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Metropolitan Opera Orchestra",
+    "backgroundColor": "#83a8d3",
+    "borderColor": "#83a8d3",
+    "data": [
+      0,
+      0,
+      0,
+      5,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Monarchy",
+    "backgroundColor": "#a0ffc6",
+    "borderColor": "#a0ffc6",
+    "data": [
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Okko Kamu",
+    "backgroundColor": "#95f9bf",
+    "borderColor": "#95f9bf",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "label": "Léopold Simoneau",
+    "backgroundColor": "#adf4ff",
+    "borderColor": "#adf4ff",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "label": "The Highwomen",
+    "backgroundColor": "#86d32e",
+    "borderColor": "#86d32e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Juan Maclean",
+    "backgroundColor": "#32efa3",
+    "borderColor": "#32efa3",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      6,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Grouplove",
+    "backgroundColor": "#8a60c1",
+    "borderColor": "#8a60c1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Fitz & The Tantrums",
+    "backgroundColor": "#1ca05a",
+    "borderColor": "#1ca05a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The B-52's",
+    "backgroundColor": "#cb09e5",
+    "borderColor": "#cb09e5",
+    "data": [
+      0,
+      0,
+      1,
+      2,
+      0,
+      0,
+      3,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Melt",
+    "backgroundColor": "#84e8cb",
+    "borderColor": "#84e8cb",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jose Gonzalez",
+    "backgroundColor": "#a6b7ea",
+    "borderColor": "#a6b7ea",
+    "data": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Rose Elinor Dougall",
+    "backgroundColor": "#93a1d8",
+    "borderColor": "#93a1d8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sting",
+    "backgroundColor": "#31b50c",
+    "borderColor": "#31b50c",
+    "data": [
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Niights",
+    "backgroundColor": "#b7ea81",
+    "borderColor": "#b7ea81",
+    "data": [
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Arctic Monkeys",
+    "backgroundColor": "#bc2a25",
+    "borderColor": "#bc2a25",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0
+    ]
+  },
+  {
+    "label": "Mozart Festival Orchestra",
+    "backgroundColor": "#219ef2",
+    "borderColor": "#219ef2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Yeah Yeah Yeahs",
+    "backgroundColor": "#d5f26f",
+    "borderColor": "#d5f26f",
+    "data": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "London Philharmonic Orchestra/Klaus Tennstedt",
+    "backgroundColor": "#f2ea85",
+    "borderColor": "#f2ea85",
+    "data": [
+      0,
+      0,
+      0,
+      3,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Dan Carlin's Hardcore History",
+    "backgroundColor": "#18a52d",
+    "borderColor": "#18a52d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Radiant Children",
+    "backgroundColor": "#101ee8",
+    "borderColor": "#101ee8",
+    "data": [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Chicago Symphony Orchestra",
+    "backgroundColor": "#cdf774",
+    "borderColor": "#cdf774",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "alt-J",
+    "backgroundColor": "#06e802",
+    "borderColor": "#06e802",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Beta Radio",
+    "backgroundColor": "#91caff",
+    "borderColor": "#91caff",
+    "data": [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ry Cooder",
+    "backgroundColor": "#9689f9",
+    "borderColor": "#9689f9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Meet the Composer",
+    "backgroundColor": "#9df72e",
+    "borderColor": "#9df72e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Fritz Reiner",
+    "backgroundColor": "#be85e5",
+    "borderColor": "#be85e5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Helsinki Radio Symphony Orchestra",
+    "backgroundColor": "#06129b",
+    "borderColor": "#06129b",
+    "data": [
+      0,
+      3,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Whitehorse",
+    "backgroundColor": "#7338ff",
+    "borderColor": "#7338ff",
+    "data": [
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Concertgebouw Orchestra Of Amsterdam",
+    "backgroundColor": "#0cf4ca",
+    "borderColor": "#0cf4ca",
+    "data": [
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "NIIGHTS",
+    "backgroundColor": "#ea0e80",
+    "borderColor": "#ea0e80",
+    "data": [
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Will Haynes",
+    "backgroundColor": "#ce50f4",
+    "borderColor": "#ce50f4",
+    "data": [
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Spirit of the West",
+    "backgroundColor": "#0d597c",
+    "borderColor": "#0d597c",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0
+    ]
+  },
+  {
+    "label": "Carly Rae Jepsen",
+    "backgroundColor": "#9fadea",
+    "borderColor": "#9fadea",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0
+    ]
+  },
+  {
+    "label": "Father John Misty",
+    "backgroundColor": "#cd93e2",
+    "borderColor": "#cd93e2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0
+    ]
+  },
+  {
+    "label": "Beethoven",
+    "backgroundColor": "#6de8d7",
+    "borderColor": "#6de8d7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Rapsody",
+    "backgroundColor": "#4dd19e",
+    "borderColor": "#4dd19e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "My Brother, My Brother And Me",
+    "backgroundColor": "#503f9b",
+    "borderColor": "#503f9b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ben Folds Five",
+    "backgroundColor": "#fcaeca",
+    "borderColor": "#fcaeca",
+    "data": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "AKA George",
+    "backgroundColor": "#f42485",
+    "borderColor": "#f42485",
+    "data": [
+      0,
+      0,
+      3,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Verve",
+    "backgroundColor": "#db53b9",
+    "borderColor": "#db53b9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Pletnev, Mikhail",
+    "backgroundColor": "#0e7fb7",
+    "borderColor": "#0e7fb7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Paul McCartney",
+    "backgroundColor": "#d617b3",
+    "borderColor": "#d617b3",
+    "data": [
+      0,
+      0,
+      4,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Julien Baker",
+    "backgroundColor": "#73b9ef",
+    "borderColor": "#73b9ef",
+    "data": [
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Annie Lennox",
+    "backgroundColor": "#f9848a",
+    "borderColor": "#f9848a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ]
+  },
+  {
+    "label": "Three Days Grace",
+    "backgroundColor": "#ed936d",
+    "borderColor": "#ed936d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Mattiwilda Dobbs",
+    "backgroundColor": "#ea9564",
+    "borderColor": "#ea9564",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ]
+  },
+  {
+    "label": "Phoebe Bridgers",
+    "backgroundColor": "#402389",
+    "borderColor": "#402389",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ]
+  },
+  {
+    "label": "The Japan Ground Self-Defense Force Central Band",
+    "backgroundColor": "#00127a",
+    "borderColor": "#00127a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ]
+  },
+  {
+    "label": "The National",
+    "backgroundColor": "#e248ac",
+    "borderColor": "#e248ac",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ]
+  },
+  {
+    "label": "Nick Cave & The Bad Seeds",
+    "backgroundColor": "#e05cd5",
+    "borderColor": "#e05cd5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "Alfred Brendel",
+    "backgroundColor": "#6855c6",
+    "borderColor": "#6855c6",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "City and Colour",
+    "backgroundColor": "#7755ba",
+    "borderColor": "#7755ba",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sun June",
+    "backgroundColor": "#a4fca7",
+    "borderColor": "#a4fca7",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "STRFKR",
+    "backgroundColor": "#3bb519",
+    "borderColor": "#3bb519",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Whitney",
+    "backgroundColor": "#e258bb",
+    "borderColor": "#e258bb",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Phantogram",
+    "backgroundColor": "#1958a0",
+    "borderColor": "#1958a0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Broken Record with Malcolm Gladwell, Rick Rubin, and Bruce Headlam",
+    "backgroundColor": "#c9b2ff",
+    "borderColor": "#c9b2ff",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bonobo feat. Szjerdene",
+    "backgroundColor": "#fcc2f5",
+    "borderColor": "#fcc2f5",
+    "data": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Your Smith",
+    "backgroundColor": "#18bc72",
+    "borderColor": "#18bc72",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ringo Starr",
+    "backgroundColor": "#f2cc8c",
+    "borderColor": "#f2cc8c",
+    "data": [
+      0,
+      0,
+      2,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Electric Light Orchestra",
+    "backgroundColor": "#ffe3c9",
+    "borderColor": "#ffe3c9",
+    "data": [
+      0,
+      0,
+      0,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Petite Noir",
+    "backgroundColor": "#f7b9d8",
+    "borderColor": "#f7b9d8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Allman Brothers Band",
+    "backgroundColor": "#8d00e5",
+    "borderColor": "#8d00e5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ladytron",
+    "backgroundColor": "#44ed85",
+    "borderColor": "#44ed85",
+    "data": [
+      0,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Royal Concertgebouw Orchestra",
+    "backgroundColor": "#a265d3",
+    "borderColor": "#a265d3",
+    "data": [
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jeremy Limb",
+    "backgroundColor": "#5e36bc",
+    "borderColor": "#5e36bc",
+    "data": [
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Mattiwilda Dobbs",
+    "backgroundColor": "#a5ffd2",
+    "borderColor": "#a5ffd2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris",
+    "backgroundColor": "#e570c8",
+    "borderColor": "#e570c8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "label": "Joywave",
+    "backgroundColor": "#f45d80",
+    "borderColor": "#f45d80",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "Blood Orange",
+    "backgroundColor": "#958dd6",
+    "borderColor": "#958dd6",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "label": "Charles Neidich",
+    "backgroundColor": "#e0f963",
+    "borderColor": "#e0f963",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "MARINA",
+    "backgroundColor": "#73ff16",
+    "borderColor": "#73ff16",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jean-Pierre Rampal, Orchestre Jean-François Paillard, Lily Laskine",
+    "backgroundColor": "#e020f9",
+    "borderColor": "#e020f9",
+    "data": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kronos Quartet",
+    "backgroundColor": "#e23db9",
+    "borderColor": "#e23db9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jean-Bernard Pommier",
+    "backgroundColor": "#6e23a0",
+    "borderColor": "#6e23a0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Belgian Radio and Television Philharmonic Orchestra",
+    "backgroundColor": "#11556d",
+    "borderColor": "#11556d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Great Lake Swimmers",
+    "backgroundColor": "#4ff3ff",
+    "borderColor": "#4ff3ff",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Kinks",
+    "backgroundColor": "#3f9ca8",
+    "borderColor": "#3f9ca8",
+    "data": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Frills",
+    "backgroundColor": "#7c5ec4",
+    "borderColor": "#7c5ec4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ok Go",
+    "backgroundColor": "#ff9eb7",
+    "borderColor": "#ff9eb7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Third Eye Blind",
+    "backgroundColor": "#7fed7b",
+    "borderColor": "#7fed7b",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "José González",
+    "backgroundColor": "#caef86",
+    "borderColor": "#caef86",
+    "data": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Wombats",
+    "backgroundColor": "#5ddd83",
+    "borderColor": "#5ddd83",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Someone",
+    "backgroundColor": "#4fce44",
+    "borderColor": "#4fce44",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Chernobyl Podcast",
+    "backgroundColor": "#a01646",
+    "borderColor": "#a01646",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Yosuke Horie",
+    "backgroundColor": "#877fd1",
+    "borderColor": "#877fd1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tall Heights",
+    "backgroundColor": "#42f486",
+    "borderColor": "#42f486",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bay Ledges",
+    "backgroundColor": "#59e06b",
+    "borderColor": "#59e06b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ray LaMontagne",
+    "backgroundColor": "#99effc",
+    "borderColor": "#99effc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "George Harrison",
+    "backgroundColor": "#9df9f2",
+    "borderColor": "#9df9f2",
+    "data": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wolf Gang",
+    "backgroundColor": "#7addb4",
+    "borderColor": "#7addb4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Elvis Costello & The Attractions",
+    "backgroundColor": "#e2997a",
+    "borderColor": "#e2997a",
+    "data": [
+      0,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tears For Fears",
+    "backgroundColor": "#14ffe3",
+    "borderColor": "#14ffe3",
+    "data": [
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "David Sylvian",
+    "backgroundColor": "#d64c11",
+    "borderColor": "#d64c11",
+    "data": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Gerhard Stolze, Birgit Nilsson, Grace Hoffman",
+    "backgroundColor": "#89e069",
+    "borderColor": "#89e069",
+    "data": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Arcade Fire & David Bowie",
+    "backgroundColor": "#842bad",
+    "borderColor": "#842bad",
+    "data": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Karl Jenkins",
+    "backgroundColor": "#3026ef",
+    "borderColor": "#3026ef",
+    "data": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Charles Cyroulnik, Jean Hubeau",
+    "backgroundColor": "#ea807e",
+    "borderColor": "#ea807e",
+    "data": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Paul Tortelier, Jean Hubeau",
+    "backgroundColor": "#f475bd",
+    "borderColor": "#f475bd",
+    "data": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lily Laskine, Jean-Pierre Rampal, Pierre Pasquier",
+    "backgroundColor": "#bad1ff",
+    "borderColor": "#bad1ff",
+    "data": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Felly",
+    "backgroundColor": "#ff28ed",
+    "borderColor": "#ff28ed",
+    "data": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Michael Bernard Fitzgerald",
+    "backgroundColor": "#c73fe2",
+    "borderColor": "#c73fe2",
+    "data": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Unknown Mortal Orchestra",
+    "backgroundColor": "#dd0454",
+    "borderColor": "#dd0454",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "Jacob Collier",
+    "backgroundColor": "#d32aba",
+    "borderColor": "#d32aba",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "Dubravka Tomsic",
+    "backgroundColor": "#8edee5",
+    "borderColor": "#8edee5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "M.I.A.",
+    "backgroundColor": "#8a6cdd",
+    "borderColor": "#8a6cdd",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Mattiwilda Dobbs, Léopold Simoneau",
+    "backgroundColor": "#92ccf4",
+    "borderColor": "#92ccf4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Chœur des Concerts de Paris",
+    "backgroundColor": "#e87fa0",
+    "borderColor": "#e87fa0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte",
+    "backgroundColor": "#ebb4f7",
+    "borderColor": "#ebb4f7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "Perfume Genius",
+    "backgroundColor": "#f2a674",
+    "borderColor": "#f2a674",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "SOPHIE",
+    "backgroundColor": "#7fd81a",
+    "borderColor": "#7fd81a",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Sons Of Kemet",
+    "backgroundColor": "#8ce580",
+    "borderColor": "#8ce580",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "label": "The Police",
+    "backgroundColor": "#4cd6e0",
+    "borderColor": "#4cd6e0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Matrixxman",
+    "backgroundColor": "#0f27dd",
+    "borderColor": "#0f27dd",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Jacksons",
+    "backgroundColor": "#c0e509",
+    "borderColor": "#c0e509",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Gordon Lightfoot",
+    "backgroundColor": "#db4186",
+    "borderColor": "#db4186",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bruce Cockburn",
+    "backgroundColor": "#7af94f",
+    "borderColor": "#7af94f",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jean-Jacques Kantorow",
+    "backgroundColor": "#d6d60a",
+    "borderColor": "#d6d60a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Aldo Ciccolini",
+    "backgroundColor": "#ab76c9",
+    "borderColor": "#ab76c9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Justin Rutledge",
+    "backgroundColor": "#aa1b30",
+    "borderColor": "#aa1b30",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Leonard Cohen",
+    "backgroundColor": "#3e8ddd",
+    "borderColor": "#3e8ddd",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Rose Cousins",
+    "backgroundColor": "#ea91c5",
+    "borderColor": "#ea91c5",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Stars",
+    "backgroundColor": "#8120aa",
+    "borderColor": "#8120aa",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kupla",
+    "backgroundColor": "#5b49aa",
+    "borderColor": "#5b49aa",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sufjan Stevens",
+    "backgroundColor": "#0d966d",
+    "borderColor": "#0d966d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Low",
+    "backgroundColor": "#69ea9d",
+    "borderColor": "#69ea9d",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Human League",
+    "backgroundColor": "#bf5f42",
+    "borderColor": "#bf5f42",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Vapors",
+    "backgroundColor": "#affff8",
+    "borderColor": "#affff8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Knox Hamilton",
+    "backgroundColor": "#82ce50",
+    "borderColor": "#82ce50",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lemaitre",
+    "backgroundColor": "#55db9f",
+    "borderColor": "#55db9f",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Staves",
+    "backgroundColor": "#aeffa0",
+    "borderColor": "#aeffa0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kevin Krauter",
+    "backgroundColor": "#f9ed9a",
+    "borderColor": "#f9ed9a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Cold War Kids",
+    "backgroundColor": "#72dbc2",
+    "borderColor": "#72dbc2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kate Nash",
+    "backgroundColor": "#6a0eb5",
+    "borderColor": "#6a0eb5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Noosa",
+    "backgroundColor": "#e00408",
+    "borderColor": "#e00408",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Matt and Kim",
+    "backgroundColor": "#e28897",
+    "borderColor": "#e28897",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "BØRNS",
+    "backgroundColor": "#23db3e",
+    "borderColor": "#23db3e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Goldfrapp",
+    "backgroundColor": "#3f0ad1",
+    "borderColor": "#3f0ad1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Andrew Bird",
+    "backgroundColor": "#18a39e",
+    "borderColor": "#18a39e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Phony PPL",
+    "backgroundColor": "#f4c766",
+    "borderColor": "#f4c766",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Parov Stelar, Kovacs",
+    "backgroundColor": "#67ea5b",
+    "borderColor": "#67ea5b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Anemone",
+    "backgroundColor": "#ea625b",
+    "borderColor": "#ea625b",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Far Caspian",
+    "backgroundColor": "#76bf3b",
+    "borderColor": "#76bf3b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Aldous Harding",
+    "backgroundColor": "#30d130",
+    "borderColor": "#30d130",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Trevor Powers",
+    "backgroundColor": "#6db3c6",
+    "borderColor": "#6db3c6",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Goon",
+    "backgroundColor": "#1eabed",
+    "borderColor": "#1eabed",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Keuning",
+    "backgroundColor": "#ffcccc",
+    "borderColor": "#ffcccc",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bonobo feat. Cornelia",
+    "backgroundColor": "#2516f7",
+    "borderColor": "#2516f7",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bonobo feat. Erykah Badu",
+    "backgroundColor": "#c6bbf7",
+    "borderColor": "#c6bbf7",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bonobo feat. Grey Reverend",
+    "backgroundColor": "#fcd5b3",
+    "borderColor": "#fcd5b3",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Catey Shaw",
+    "backgroundColor": "#f9a4ad",
+    "borderColor": "#f9a4ad",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Quinn Christopherson",
+    "backgroundColor": "#c902c2",
+    "borderColor": "#c902c2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Snail Mail",
+    "backgroundColor": "#f2cf6f",
+    "borderColor": "#f2cf6f",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wilderado",
+    "backgroundColor": "#f9b07f",
+    "borderColor": "#f9b07f",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Barrie",
+    "backgroundColor": "#b1e04c",
+    "borderColor": "#b1e04c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jonathan Something",
+    "backgroundColor": "#dda433",
+    "borderColor": "#dda433",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tim Atlas",
+    "backgroundColor": "#4d8ebc",
+    "borderColor": "#4d8ebc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Hippo Campus",
+    "backgroundColor": "#e2a083",
+    "borderColor": "#e2a083",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Future Generations",
+    "backgroundColor": "#8d88f7",
+    "borderColor": "#8d88f7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ideas from CBC Radio (Highlights)",
+    "backgroundColor": "#40ef43",
+    "borderColor": "#40ef43",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Parcels",
+    "backgroundColor": "#4121f2",
+    "borderColor": "#4121f2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lucy Rose",
+    "backgroundColor": "#54e59d",
+    "borderColor": "#54e59d",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bug Hunter",
+    "backgroundColor": "#27d87f",
+    "borderColor": "#27d87f",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Paul McCartney & Wings",
+    "backgroundColor": "#f740ee",
+    "borderColor": "#f740ee",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Atlas Genius",
+    "backgroundColor": "#fffcad",
+    "borderColor": "#fffcad",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bear Hands",
+    "backgroundColor": "#5fb3ef",
+    "borderColor": "#5fb3ef",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Cranberries",
+    "backgroundColor": "#edeb6f",
+    "borderColor": "#edeb6f",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Caroline Shaw",
+    "backgroundColor": "#dd5890",
+    "borderColor": "#dd5890",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "James Levine",
+    "backgroundColor": "#99d84b",
+    "borderColor": "#99d84b",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Go-Go's",
+    "backgroundColor": "#f963c0",
+    "borderColor": "#f963c0",
+    "data": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Soft Cell",
+    "backgroundColor": "#c19e3e",
+    "borderColor": "#c19e3e",
+    "data": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Gerhard Stolze, Grace Hoffman",
+    "backgroundColor": "#39c65a",
+    "borderColor": "#39c65a",
+    "data": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Birgit Nilsson",
+    "backgroundColor": "#f9c0e7",
+    "borderColor": "#f9c0e7",
+    "data": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Birgit Nilsson, Eberhard Wächter",
+    "backgroundColor": "#ea8c9f",
+    "borderColor": "#ea8c9f",
+    "data": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Eberhard Wächter, Birgit Nilsson, Waldemar Kmentt",
+    "backgroundColor": "#8868f9",
+    "borderColor": "#8868f9",
+    "data": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Michael Brook",
+    "backgroundColor": "#f7f291",
+    "borderColor": "#f7f291",
+    "data": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bayonne",
+    "backgroundColor": "#dd89c1",
+    "borderColor": "#dd89c1",
+    "data": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Anne-Sophie Mutter",
+    "backgroundColor": "#e28683",
+    "borderColor": "#e28683",
+    "data": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Gerhard Stempnik",
+    "backgroundColor": "#b1bced",
+    "borderColor": "#b1bced",
+    "data": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Darcys",
+    "backgroundColor": "#f4b077",
+    "borderColor": "#f4b077",
+    "data": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Emilie Kahn",
+    "backgroundColor": "#74fce5",
+    "borderColor": "#74fce5",
+    "data": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Louisa Fuller",
+    "backgroundColor": "#c6ffb2",
+    "borderColor": "#c6ffb2",
+    "data": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Raayon",
+    "backgroundColor": "#9ad136",
+    "borderColor": "#9ad136",
+    "data": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "No Rome",
+    "backgroundColor": "#9b1b31",
+    "borderColor": "#9b1b31",
+    "data": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Art School Girlfriend",
+    "backgroundColor": "#85f7d1",
+    "borderColor": "#85f7d1",
+    "data": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Fjord",
+    "backgroundColor": "#c719fc",
+    "borderColor": "#c719fc",
+    "data": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sasha Sloan",
+    "backgroundColor": "#f9a7b7",
+    "borderColor": "#f9a7b7",
+    "data": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Maggie Rogers",
+    "backgroundColor": "#d69240",
+    "borderColor": "#d69240",
+    "data": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Amon Tobin",
+    "backgroundColor": "#e0417e",
+    "borderColor": "#e0417e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Tom Misch & Poppy Ajudha",
+    "backgroundColor": "#8abf18",
+    "borderColor": "#8abf18",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Adam Counts",
+    "backgroundColor": "#8effea",
+    "borderColor": "#8effea",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Le Vent Du Nord",
+    "backgroundColor": "#e24687",
+    "borderColor": "#e24687",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Heinz Rehfuss, Bernard Lefort, Léopold Simoneau",
+    "backgroundColor": "#98f9bf",
+    "borderColor": "#98f9bf",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Mattiwilda Dobbs, Bernard Lefort, Aimé Doniat, Heinz Rehfuss",
+    "backgroundColor": "#94baf7",
+    "borderColor": "#94baf7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Aimé Doniat",
+    "backgroundColor": "#eaafa1",
+    "borderColor": "#eaafa1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Aimé Doniat",
+    "backgroundColor": "#dddd2a",
+    "borderColor": "#dddd2a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Uta Graf, Heinz Rehfuss, Aimé Doniat, Bernard Lefort, Nata Tüscher, Chœur des Concerts de Paris",
+    "backgroundColor": "#4ce0b1",
+    "borderColor": "#4ce0b1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Heinz Rehfuss",
+    "backgroundColor": "#e2d26a",
+    "borderColor": "#e2d26a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Aimé Doniat, Mattiwilda Dobbs, Chœur des Concerts de Paris, Nata Tüscher, Léopold Simoneau, Heinz Rehfuss",
+    "backgroundColor": "#f9d2b6",
+    "borderColor": "#f9d2b6",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Nata Tüscher, Heinz Rehfuss",
+    "backgroundColor": "#249399",
+    "borderColor": "#249399",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Nata Tüscher, Chœur des Concerts de Paris, Aimé Doniat, Mattiwilda Dobbs",
+    "backgroundColor": "#9a64c9",
+    "borderColor": "#9a64c9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Mattiwilda Dobbs, Chœur des Concerts de Paris",
+    "backgroundColor": "#ab8fd6",
+    "borderColor": "#ab8fd6",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Aimé Doniat, Chœur des Concerts de Paris, Léopold Simoneau, Nata Tüscher",
+    "backgroundColor": "#95e88d",
+    "borderColor": "#95e88d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Chœur des Concerts de Paris, Aimé Doniat, Nata Tüscher, Léopold Simoneau",
+    "backgroundColor": "#d1dd5f",
+    "borderColor": "#d1dd5f",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Heinz Rehfuss, Aimé Doniat",
+    "backgroundColor": "#9b0b06",
+    "borderColor": "#9b0b06",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Heinz Rehfuss, Nata Tüscher, Léopold Simoneau",
+    "backgroundColor": "#7f8c08",
+    "borderColor": "#7f8c08",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau",
+    "backgroundColor": "#913615",
+    "borderColor": "#913615",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Aimé Doniat, Léopold Simoneau",
+    "backgroundColor": "#7e70d8",
+    "borderColor": "#7e70d8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Heinz Rehfuss, Aimé Doniat, Chœur des Concerts de Paris, Nata Tüscher, August Heimpel",
+    "backgroundColor": "#4fd1bd",
+    "borderColor": "#4fd1bd",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Chœur des Concerts de Paris, Nata Tüscher, Aimé Doniat, Heinz Rehfuss",
+    "backgroundColor": "#e25f8d",
+    "borderColor": "#e25f8d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Léopold Simoneau, Nata Tüscher, Chœur des Concerts de Paris, Aimé Doniat, Bernard Lefort",
+    "backgroundColor": "#6ee5c3",
+    "borderColor": "#6ee5c3",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Aimé Doniat, Chœur des Concerts de Paris, Bernard Lefort, Heinz Rehfuss, August Heimpel",
+    "backgroundColor": "#099b43",
+    "borderColor": "#099b43",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Heinz Rehfuss, August Heimpel",
+    "backgroundColor": "#c8c6ff",
+    "borderColor": "#c8c6ff",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Heinz Rehfuss, Aimé Doniat",
+    "backgroundColor": "#ffc45e",
+    "borderColor": "#ffc45e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orchestre des Concerts de Paris, Pierre-Michel Le Conte, Chœur des Concerts de Paris",
+    "backgroundColor": "#b9ff93",
+    "borderColor": "#b9ff93",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Jakub Józef Orliński",
+    "backgroundColor": "#128d91",
+    "borderColor": "#128d91",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Greensky Bluegrass",
+    "backgroundColor": "#7489d3",
+    "borderColor": "#7489d3",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Courtney Marie Andrews",
+    "backgroundColor": "#ea93ad",
+    "borderColor": "#ea93ad",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Shuggie Otis",
+    "backgroundColor": "#0eaf36",
+    "borderColor": "#0eaf36",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Soulwax",
+    "backgroundColor": "#6be532",
+    "borderColor": "#6be532",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "D'Angelo and The Vanguard",
+    "backgroundColor": "#d64fbf",
+    "borderColor": "#d64fbf",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "Orpheus Chamber Orchestra",
+    "backgroundColor": "#160b68",
+    "borderColor": "#160b68",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Svetlana Stanceva",
+    "backgroundColor": "#f45fac",
+    "borderColor": "#f45fac",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Clean Bandit",
+    "backgroundColor": "#ac31ce",
+    "borderColor": "#ac31ce",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Third Coast Percussion",
+    "backgroundColor": "#99f486",
+    "borderColor": "#99f486",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Rockwell",
+    "backgroundColor": "#f4ed9c",
+    "borderColor": "#f4ed9c",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "CSS",
+    "backgroundColor": "#d8806e",
+    "borderColor": "#d8806e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Garnet Rogers",
+    "backgroundColor": "#d6a8ea",
+    "borderColor": "#d6a8ea",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Stan Rogers",
+    "backgroundColor": "#4cb5f7",
+    "borderColor": "#4cb5f7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kate & Anna McGarrigle",
+    "backgroundColor": "#7be5c5",
+    "borderColor": "#7be5c5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jesse Winchester",
+    "backgroundColor": "#f98eed",
+    "borderColor": "#f98eed",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "David Francey",
+    "backgroundColor": "#d8b1ef",
+    "borderColor": "#d8b1ef",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Murray McLauchlan",
+    "backgroundColor": "#ccb90e",
+    "borderColor": "#ccb90e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Rankins",
+    "backgroundColor": "#e9c7fc",
+    "borderColor": "#e9c7fc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Rankin Family",
+    "backgroundColor": "#97d3e5",
+    "borderColor": "#97d3e5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jennifer Warnes",
+    "backgroundColor": "#cdea7e",
+    "borderColor": "#cdea7e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lynn Miles",
+    "backgroundColor": "#e6bafc",
+    "borderColor": "#e6bafc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Catherine MacLellan",
+    "backgroundColor": "#0f6ac4",
+    "borderColor": "#0f6ac4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Valdy",
+    "backgroundColor": "#df3af4",
+    "borderColor": "#df3af4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Amelia Curran",
+    "backgroundColor": "#caf96b",
+    "borderColor": "#caf96b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tanya Tagaq",
+    "backgroundColor": "#f29465",
+    "borderColor": "#f29465",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lennie Gallant",
+    "backgroundColor": "#a899db",
+    "borderColor": "#a899db",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lewis Del Mar",
+    "backgroundColor": "#f477f4",
+    "borderColor": "#f477f4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Parade Of Lights",
+    "backgroundColor": "#6ded7e",
+    "borderColor": "#6ded7e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kun Woo Paik",
+    "backgroundColor": "#ea647f",
+    "borderColor": "#ea647f",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Peter Nagy",
+    "backgroundColor": "#c1a2e8",
+    "borderColor": "#c1a2e8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Klara Kormendi",
+    "backgroundColor": "#e24dbb",
+    "borderColor": "#e24dbb",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Loudon Wainwright, III",
+    "backgroundColor": "#f21dd2",
+    "borderColor": "#f21dd2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jenn Grant",
+    "backgroundColor": "#63d875",
+    "borderColor": "#63d875",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Royal Wood",
+    "backgroundColor": "#f187ff",
+    "borderColor": "#f187ff",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Acorn",
+    "backgroundColor": "#efef51",
+    "borderColor": "#efef51",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Blue Rodeo",
+    "backgroundColor": "#c18305",
+    "borderColor": "#c18305",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sarah McLachlan",
+    "backgroundColor": "#e1aef2",
+    "borderColor": "#e1aef2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Don Brownrigg",
+    "backgroundColor": "#985db7",
+    "borderColor": "#985db7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jim Guthrie",
+    "backgroundColor": "#ffafcb",
+    "borderColor": "#ffafcb",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Joel Plaskett Emergency",
+    "backgroundColor": "#0e1087",
+    "borderColor": "#0e1087",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Emm Gryner",
+    "backgroundColor": "#cce8ff",
+    "borderColor": "#cce8ff",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Thus Owls",
+    "backgroundColor": "#67ad0c",
+    "borderColor": "#67ad0c",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "In-Flight Safety",
+    "backgroundColor": "#e85f75",
+    "borderColor": "#e85f75",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Martha Wainwright",
+    "backgroundColor": "#a4d666",
+    "borderColor": "#a4d666",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Takako Nishizaki",
+    "backgroundColor": "#a5a7ef",
+    "borderColor": "#a5a7ef",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bloc Party",
+    "backgroundColor": "#97a31b",
+    "borderColor": "#97a31b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Griswolds",
+    "backgroundColor": "#7fc8ef",
+    "borderColor": "#7fc8ef",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Young the Giant",
+    "backgroundColor": "#59c0e5",
+    "borderColor": "#59c0e5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Black Keys",
+    "backgroundColor": "#e5c390",
+    "borderColor": "#e5c390",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Morning Benders",
+    "backgroundColor": "#aae2f7",
+    "borderColor": "#aae2f7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Frankie & The Heartstrings",
+    "backgroundColor": "#e2894d",
+    "borderColor": "#e2894d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "White Rabbits",
+    "backgroundColor": "#f293c9",
+    "borderColor": "#f293c9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Alabama Shakes",
+    "backgroundColor": "#f4bbb5",
+    "borderColor": "#f4bbb5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Spinto Band",
+    "backgroundColor": "#5cd177",
+    "borderColor": "#5cd177",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Strange Names",
+    "backgroundColor": "#3ac140",
+    "borderColor": "#3ac140",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sjowgren",
+    "backgroundColor": "#db6d69",
+    "borderColor": "#db6d69",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sächsische Staatskapelle Dresden, Karl Böhm, Cvetka Ahlin, Margarete Sjöstedt, Sieglinde Wagner, Judith Hellwig, Gerda Schreyer, Ilona Steingruber",
+    "backgroundColor": "#644fcc",
+    "borderColor": "#644fcc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "flor",
+    "backgroundColor": "#77a1ce",
+    "borderColor": "#77a1ce",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kasket Club",
+    "backgroundColor": "#040f70",
+    "borderColor": "#040f70",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kasbo",
+    "backgroundColor": "#f9c2e8",
+    "borderColor": "#f9c2e8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "MELVV",
+    "backgroundColor": "#7539a0",
+    "borderColor": "#7539a0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Capital Cities",
+    "backgroundColor": "#e06f06",
+    "borderColor": "#e06f06",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "LUMP",
+    "backgroundColor": "#d978e8",
+    "borderColor": "#d978e8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ion Marin",
+    "backgroundColor": "#ff077f",
+    "borderColor": "#ff077f",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Riccardo Chailly",
+    "backgroundColor": "#0eb774",
+    "borderColor": "#0eb774",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Daniel Romano",
+    "backgroundColor": "#5f4fea",
+    "borderColor": "#5f4fea",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Still Going",
+    "backgroundColor": "#025468",
+    "borderColor": "#025468",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Juliane Banse/Die 12 Cellisten der Berliner Philharmoniker",
+    "backgroundColor": "#a4ef5d",
+    "borderColor": "#a4ef5d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Killers",
+    "backgroundColor": "#f4bad8",
+    "borderColor": "#f4bad8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Books",
+    "backgroundColor": "#2040bf",
+    "borderColor": "#2040bf",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sylvan Esso",
+    "backgroundColor": "#3cc637",
+    "borderColor": "#3cc637",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "George Clinton",
+    "backgroundColor": "#d3c6ff",
+    "borderColor": "#d3c6ff",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Budapest Philharmonic Orchestra",
+    "backgroundColor": "#f2b0c8",
+    "borderColor": "#f2b0c8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Mamas And The Papas",
+    "backgroundColor": "#ffe2cc",
+    "borderColor": "#ffe2cc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The 2 Bears",
+    "backgroundColor": "#ed6bff",
+    "borderColor": "#ed6bff",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Rapture",
+    "backgroundColor": "#f9c372",
+    "borderColor": "#f9c372",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Dedication",
+    "backgroundColor": "#c6494b",
+    "borderColor": "#c6494b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Peter Gordon & The Love Of Life Orchestra",
+    "backgroundColor": "#e84548",
+    "borderColor": "#e84548",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Museum Of Love",
+    "backgroundColor": "#f28ae7",
+    "borderColor": "#f28ae7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Shit Robot",
+    "backgroundColor": "#a4a6f9",
+    "borderColor": "#a4a6f9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "HARDY",
+    "backgroundColor": "#90ff7a",
+    "borderColor": "#90ff7a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Essaie Pas",
+    "backgroundColor": "#89063f",
+    "borderColor": "#89063f",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Woolfy",
+    "backgroundColor": "#b08be8",
+    "borderColor": "#b08be8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Leo Kalyan",
+    "backgroundColor": "#0dbc96",
+    "borderColor": "#0dbc96",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Goth Babe",
+    "backgroundColor": "#bbe88b",
+    "borderColor": "#bbe88b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Squarepusher",
+    "backgroundColor": "#ea79c1",
+    "borderColor": "#ea79c1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Omar Apollo",
+    "backgroundColor": "#1f3ca5",
+    "borderColor": "#1f3ca5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Alex Lustig",
+    "backgroundColor": "#0b0d68",
+    "borderColor": "#0b0d68",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Folded Like Fabric",
+    "backgroundColor": "#0ee6f9",
+    "borderColor": "#0ee6f9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Mac DeMarco",
+    "backgroundColor": "#d83cac",
+    "borderColor": "#d83cac",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "sailawway",
+    "backgroundColor": "#35dd86",
+    "borderColor": "#35dd86",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Conner Youngblood",
+    "backgroundColor": "#ed7d55",
+    "borderColor": "#ed7d55",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Vesle",
+    "backgroundColor": "#3ac946",
+    "borderColor": "#3ac946",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tep No",
+    "backgroundColor": "#e2a373",
+    "borderColor": "#e2a373",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "CCFX",
+    "backgroundColor": "#007c42",
+    "borderColor": "#007c42",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Glassio",
+    "backgroundColor": "#cfbaf4",
+    "borderColor": "#cfbaf4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "RAC",
+    "backgroundColor": "#dd89b2",
+    "borderColor": "#dd89b2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Frenship",
+    "backgroundColor": "#bd9fe0",
+    "borderColor": "#bd9fe0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Caroline Polachek",
+    "backgroundColor": "#a608d6",
+    "borderColor": "#a608d6",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Cobi",
+    "backgroundColor": "#b5a3e2",
+    "borderColor": "#b5a3e2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "MUNYA",
+    "backgroundColor": "#49ffd1",
+    "borderColor": "#49ffd1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Oatmello",
+    "backgroundColor": "#42ffe5",
+    "borderColor": "#42ffe5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Nilüfer Yanya",
+    "backgroundColor": "#b28e33",
+    "borderColor": "#b28e33",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jay Som",
+    "backgroundColor": "#76a4c9",
+    "borderColor": "#76a4c9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tourist",
+    "backgroundColor": "#13c4a3",
+    "borderColor": "#13c4a3",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Milky Chance",
+    "backgroundColor": "#04f468",
+    "borderColor": "#04f468",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "JW Francis",
+    "backgroundColor": "#9e1436",
+    "borderColor": "#9e1436",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Rubblebucket",
+    "backgroundColor": "#1653a3",
+    "borderColor": "#1653a3",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jacquie Neville",
+    "backgroundColor": "#70ce2d",
+    "borderColor": "#70ce2d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Woolf and the Wondershow",
+    "backgroundColor": "#fcef02",
+    "borderColor": "#fcef02",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Rafferty",
+    "backgroundColor": "#f9c8b1",
+    "borderColor": "#f9c8b1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Pixx",
+    "backgroundColor": "#9f94dd",
+    "borderColor": "#9f94dd",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Adult Mom",
+    "backgroundColor": "#c2f3f9",
+    "borderColor": "#c2f3f9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Big Thief",
+    "backgroundColor": "#6ae27a",
+    "borderColor": "#6ae27a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Soccer Mommy",
+    "backgroundColor": "#b6ffad",
+    "borderColor": "#b6ffad",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Love + Radio",
+    "backgroundColor": "#f7aff1",
+    "borderColor": "#f7aff1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kid Bloom",
+    "backgroundColor": "#98f2e9",
+    "borderColor": "#98f2e9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Swimming With Bears",
+    "backgroundColor": "#d091e0",
+    "borderColor": "#d091e0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kississippi",
+    "backgroundColor": "#3fc615",
+    "borderColor": "#3fc615",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wild Child",
+    "backgroundColor": "#85afea",
+    "borderColor": "#85afea",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Duncan Fellows",
+    "backgroundColor": "#fc14b2",
+    "borderColor": "#fc14b2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Nico Yaryan",
+    "backgroundColor": "#4e24c1",
+    "borderColor": "#4e24c1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Van William",
+    "backgroundColor": "#e58294",
+    "borderColor": "#e58294",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Amy O",
+    "backgroundColor": "#413aa5",
+    "borderColor": "#413aa5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Major Murphy",
+    "backgroundColor": "#a054c4",
+    "borderColor": "#a054c4",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Arlie",
+    "backgroundColor": "#b1ff9b",
+    "borderColor": "#b1ff9b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Shacks",
+    "backgroundColor": "#56a8b5",
+    "borderColor": "#56a8b5",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Yuno",
+    "backgroundColor": "#b0f48b",
+    "borderColor": "#b0f48b",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Courtship.",
+    "backgroundColor": "#75ef96",
+    "borderColor": "#75ef96",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sun Seeker",
+    "backgroundColor": "#98e6f9",
+    "borderColor": "#98e6f9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Plastic Picnic",
+    "backgroundColor": "#c68229",
+    "borderColor": "#c68229",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Undercover Dream Lovers",
+    "backgroundColor": "#b25229",
+    "borderColor": "#b25229",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Someone Still Loves You Boris Yeltsin",
+    "backgroundColor": "#129b37",
+    "borderColor": "#129b37",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Rogue Wave",
+    "backgroundColor": "#f9a97a",
+    "borderColor": "#f9a97a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Hen Ogledd",
+    "backgroundColor": "#32e5df",
+    "borderColor": "#32e5df",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Silent Years",
+    "backgroundColor": "#fff2bc",
+    "borderColor": "#fff2bc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "La Sera",
+    "backgroundColor": "#ed9082",
+    "borderColor": "#ed9082",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Modest Mouse",
+    "backgroundColor": "#4a4fad",
+    "borderColor": "#4a4fad",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Zero 7",
+    "backgroundColor": "#4fd6af",
+    "borderColor": "#4fd6af",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The xx",
+    "backgroundColor": "#fc79ed",
+    "borderColor": "#fc79ed",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Theophilus London",
+    "backgroundColor": "#a437d3",
+    "borderColor": "#a437d3",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Revivalists",
+    "backgroundColor": "#ead29d",
+    "borderColor": "#ead29d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Elderbrook",
+    "backgroundColor": "#f27876",
+    "borderColor": "#f27876",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "National Park Radio",
+    "backgroundColor": "#1cc989",
+    "borderColor": "#1cc989",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Gregory Alan Isakov",
+    "backgroundColor": "#e8ef58",
+    "borderColor": "#e8ef58",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lily & Madeleine",
+    "backgroundColor": "#6ff7b7",
+    "borderColor": "#6ff7b7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Head and the Heart",
+    "backgroundColor": "#2975d8",
+    "borderColor": "#2975d8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Fleet Foxes",
+    "backgroundColor": "#79dbea",
+    "borderColor": "#79dbea",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Fitz and The Tantrums",
+    "backgroundColor": "#9c37ce",
+    "borderColor": "#9c37ce",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Gerry Rafferty",
+    "backgroundColor": "#c9104d",
+    "borderColor": "#c9104d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Pilot",
+    "backgroundColor": "#c14620",
+    "borderColor": "#c14620",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Daryl Hall & John Oates",
+    "backgroundColor": "#667dcc",
+    "borderColor": "#667dcc",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Chain Gang of 1974",
+    "backgroundColor": "#6ee584",
+    "borderColor": "#6ee584",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "JR JR",
+    "backgroundColor": "#fff3bf",
+    "borderColor": "#fff3bf",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Death From Above 1979",
+    "backgroundColor": "#cc7b35",
+    "borderColor": "#cc7b35",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "AWOLNATION",
+    "backgroundColor": "#2a5596",
+    "borderColor": "#2a5596",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Magic Man",
+    "backgroundColor": "#f74c74",
+    "borderColor": "#f74c74",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sir Sly",
+    "backgroundColor": "#3c56d8",
+    "borderColor": "#3c56d8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kesha",
+    "backgroundColor": "#d5a7f2",
+    "borderColor": "#d5a7f2",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The White Stripes",
+    "backgroundColor": "#61f49a",
+    "borderColor": "#61f49a",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Noname",
+    "backgroundColor": "#e8b586",
+    "borderColor": "#e8b586",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Mark Ronson",
+    "backgroundColor": "#c7ea7c",
+    "borderColor": "#c7ea7c",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Night Riots",
+    "backgroundColor": "#381899",
+    "borderColor": "#381899",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Waxahatchee",
+    "backgroundColor": "#68d655",
+    "borderColor": "#68d655",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "James",
+    "backgroundColor": "#4a84db",
+    "borderColor": "#4a84db",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Counting Crows",
+    "backgroundColor": "#74fcb3",
+    "borderColor": "#74fcb3",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Elvis Costello",
+    "backgroundColor": "#8996dd",
+    "borderColor": "#8996dd",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ludwig Hoffmann",
+    "backgroundColor": "#f7eca8",
+    "borderColor": "#f7eca8",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jungle",
+    "backgroundColor": "#e26cc3",
+    "borderColor": "#e26cc3",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Coolio",
+    "backgroundColor": "#5fddad",
+    "borderColor": "#5fddad",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Nikolaus Harnoncourt",
+    "backgroundColor": "#85e83e",
+    "borderColor": "#85e83e",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Vance Joy",
+    "backgroundColor": "#f9edae",
+    "borderColor": "#f9edae",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Liars",
+    "backgroundColor": "#52badd",
+    "borderColor": "#52badd",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Arturo Benedetti Michelangeli",
+    "backgroundColor": "#ea090d",
+    "borderColor": "#ea090d",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "TV On The Radio",
+    "backgroundColor": "#cca449",
+    "borderColor": "#cca449",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lakota West High School Symphonic Winds",
+    "backgroundColor": "#a9f9b7",
+    "borderColor": "#a9f9b7",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Phoenix",
+    "backgroundColor": "#3ca2d1",
+    "borderColor": "#3ca2d1",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wolf Parade",
+    "backgroundColor": "#e5c259",
+    "borderColor": "#e5c259",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ace Frehley",
+    "backgroundColor": "#21d164",
+    "borderColor": "#21d164",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Darwin Deez",
+    "backgroundColor": "#2e4ea0",
+    "borderColor": "#2e4ea0",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Dandy Warhols",
+    "backgroundColor": "#f9a4b3",
+    "borderColor": "#f9a4b3",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jet",
+    "backgroundColor": "#f7d1bb",
+    "borderColor": "#f7d1bb",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Steve Gunn",
+    "backgroundColor": "#d88934",
+    "borderColor": "#d88934",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Andrew Huang",
+    "backgroundColor": "#d7f756",
+    "borderColor": "#d7f756",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lifeformed",
+    "backgroundColor": "#63dd74",
+    "borderColor": "#63dd74",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Little Comets",
+    "backgroundColor": "#55d1ae",
+    "borderColor": "#55d1ae",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Slime Girls",
+    "backgroundColor": "#966ec9",
+    "borderColor": "#966ec9",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Gengahr",
+    "backgroundColor": "#412caa",
+    "borderColor": "#412caa",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "FrankJavCee",
+    "backgroundColor": "#272482",
+    "borderColor": "#272482",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Joseph Becker",
+    "backgroundColor": "#f422ce",
+    "borderColor": "#f422ce",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Clemens Krauss, Wiener Philharmoniker",
+    "backgroundColor": "#960117",
+    "borderColor": "#960117",
+    "data": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wings",
+    "backgroundColor": "#51d66b",
+    "borderColor": "#51d66b",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Stealers Wheel",
+    "backgroundColor": "#a0bf31",
+    "borderColor": "#a0bf31",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kim Carnes",
+    "backgroundColor": "#c4653c",
+    "borderColor": "#c4653c",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Animotion",
+    "backgroundColor": "#c556d8",
+    "borderColor": "#c556d8",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "A Flock Of Seagulls",
+    "backgroundColor": "#e830f2",
+    "borderColor": "#e830f2",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "INXS",
+    "backgroundColor": "#f9671d",
+    "borderColor": "#f9671d",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Talk Talk",
+    "backgroundColor": "#efb5f2",
+    "borderColor": "#efb5f2",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Pretenders",
+    "backgroundColor": "#e2a636",
+    "borderColor": "#e2a636",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Duran Duran",
+    "backgroundColor": "#8a7fef",
+    "borderColor": "#8a7fef",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Madness",
+    "backgroundColor": "#7aea2a",
+    "borderColor": "#7aea2a",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Birgit Nilsson, Gerhard Stolze",
+    "backgroundColor": "#4d12ba",
+    "borderColor": "#4d12ba",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Gerhard Stolze, Birgit Nilsson, Paul Kuën, Stefan Schwer, Kurt Equiluz, Aron Gestner, Max Proebstl",
+    "backgroundColor": "#cddd16",
+    "borderColor": "#cddd16",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti",
+    "backgroundColor": "#8bed98",
+    "borderColor": "#8bed98",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Gerhard Stolze, Grace Hoffman, Birgit Nilsson, Eberhard Wächter",
+    "backgroundColor": "#00ff6a",
+    "borderColor": "#00ff6a",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Eberhard Wächter, Grace Hoffman, Gerhard Stolze",
+    "backgroundColor": "#6dbff2",
+    "borderColor": "#6dbff2",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Tom Krause, Paul Kuën, Nigel Douglas, Grace Hoffman, Gerhard Stolze, Eberhard Wächter",
+    "backgroundColor": "#d851e8",
+    "borderColor": "#d851e8",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Eberhard Wächter, Grace Hoffman, Gerhard Stolze, Stefan Schwer, Kurt Equiluz, Aron Gestner, Max Proebstl, Tom Krause, Paul Kuën",
+    "backgroundColor": "#7affeb",
+    "borderColor": "#7affeb",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Gerhard Stolze, Grace Hoffman, Zenon Kosnowski",
+    "backgroundColor": "#ffccff",
+    "borderColor": "#ffccff",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Birgit Nilsson, Waldemar Kmentt, Eberhard Wächter",
+    "backgroundColor": "#66d6ad",
+    "borderColor": "#66d6ad",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Birgit Nilsson, Waldemar Kmentt",
+    "backgroundColor": "#6bf9d3",
+    "borderColor": "#6bf9d3",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Birgit Nilsson, Zenon Kosnowski, Josephine Veasey, Waldemar Kmentt",
+    "backgroundColor": "#743cc9",
+    "borderColor": "#743cc9",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Birgit Nilsson, Waldemar Kmentt, Zenon Kosnowski, Eberhard Wächter, Heinz Holecek",
+    "backgroundColor": "#d082ed",
+    "borderColor": "#d082ed",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Birgit Nilsson, Josephine Veasey, Eberhard Wächter, Heinz Holecek, Waldemar Kmentt, Liselotte Maikl",
+    "backgroundColor": "#eab99f",
+    "borderColor": "#eab99f",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Wiener Philharmoniker, Georg Solti, Waldemar Kmentt, Josephine Veasey, Zenon Kosnowski, Heinz Holecek, Eberhard Wächter, Theodor Kirschbichler",
+    "backgroundColor": "#b4ffad",
+    "borderColor": "#b4ffad",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "RTV Slovenia Symphony Orchestra and Marko Munih",
+    "backgroundColor": "#ef3b00",
+    "borderColor": "#ef3b00",
+    "data": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Welshly Arms",
+    "backgroundColor": "#cceeff",
+    "borderColor": "#cceeff",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sam Fender",
+    "backgroundColor": "#8de8c6",
+    "borderColor": "#8de8c6",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Oh The Larceny",
+    "backgroundColor": "#33e8db",
+    "borderColor": "#33e8db",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Island Apollo",
+    "backgroundColor": "#4b43db",
+    "borderColor": "#4b43db",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Blind Pilot",
+    "backgroundColor": "#0d9614",
+    "borderColor": "#0d9614",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "James Vincent McMorrow",
+    "backgroundColor": "#f77681",
+    "borderColor": "#f77681",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Blind Faith",
+    "backgroundColor": "#d8f466",
+    "borderColor": "#d8f466",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Cat Stevens",
+    "backgroundColor": "#55d68d",
+    "borderColor": "#55d68d",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Band",
+    "backgroundColor": "#ef8b8e",
+    "borderColor": "#ef8b8e",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Hop Along",
+    "backgroundColor": "#8befe0",
+    "borderColor": "#8befe0",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Gerry & The Pacemakers",
+    "backgroundColor": "#b2bf3b",
+    "borderColor": "#b2bf3b",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Cream",
+    "backgroundColor": "#fcedb3",
+    "borderColor": "#fcedb3",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Elvis Presley",
+    "backgroundColor": "#6fa7e8",
+    "borderColor": "#6fa7e8",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Buffalo Springfield",
+    "backgroundColor": "#e8d400",
+    "borderColor": "#e8d400",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Dave Clark Five",
+    "backgroundColor": "#f4b2ed",
+    "borderColor": "#f4b2ed",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Jimi Hendrix Experience",
+    "backgroundColor": "#4f43ad",
+    "borderColor": "#4f43ad",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Beach Boys",
+    "backgroundColor": "#bc3427",
+    "borderColor": "#bc3427",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Creedence Clearwater Revival",
+    "backgroundColor": "#b3fc74",
+    "borderColor": "#b3fc74",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Who",
+    "backgroundColor": "#c4233e",
+    "borderColor": "#c4233e",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Crosby, Stills, Nash & Young",
+    "backgroundColor": "#50d88f",
+    "borderColor": "#50d88f",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Mamas & The Papas",
+    "backgroundColor": "#2cd3a1",
+    "borderColor": "#2cd3a1",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Monkees",
+    "backgroundColor": "#99fca3",
+    "borderColor": "#99fca3",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "James Taylor",
+    "backgroundColor": "#fcb5c7",
+    "borderColor": "#fcb5c7",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Dave Clark Five",
+    "backgroundColor": "#14e564",
+    "borderColor": "#14e564",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Yukon Blonde",
+    "backgroundColor": "#d8cb34",
+    "borderColor": "#d8cb34",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Cuff The Duke",
+    "backgroundColor": "#f7aaf4",
+    "borderColor": "#f7aaf4",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Julie Doiron",
+    "backgroundColor": "#8c9bff",
+    "borderColor": "#8c9bff",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "City And Colour",
+    "backgroundColor": "#a78ff7",
+    "borderColor": "#a78ff7",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ron Sexsmith",
+    "backgroundColor": "#296b87",
+    "borderColor": "#296b87",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bahamas",
+    "backgroundColor": "#96ffa6",
+    "borderColor": "#96ffa6",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Patrick Watson",
+    "backgroundColor": "#67f7cc",
+    "borderColor": "#67f7cc",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Black Mountain",
+    "backgroundColor": "#d9e283",
+    "borderColor": "#d9e283",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "American Football",
+    "backgroundColor": "#baef81",
+    "borderColor": "#baef81",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "I Mother Earth",
+    "backgroundColor": "#c262e5",
+    "borderColor": "#c262e5",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sloan",
+    "backgroundColor": "#4fe254",
+    "borderColor": "#4fe254",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Daughter",
+    "backgroundColor": "#089114",
+    "borderColor": "#089114",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tobias Jesso Jr.",
+    "backgroundColor": "#3813bf",
+    "borderColor": "#3813bf",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "SOAK",
+    "backgroundColor": "#26cc3c",
+    "borderColor": "#26cc3c",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kurt Vile",
+    "backgroundColor": "#471284",
+    "borderColor": "#471284",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Petal",
+    "backgroundColor": "#42f7af",
+    "borderColor": "#42f7af",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Vagabon",
+    "backgroundColor": "#e59877",
+    "borderColor": "#e59877",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Tallest Man On Earth",
+    "backgroundColor": "#2b8cd1",
+    "borderColor": "#2b8cd1",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Neighbor Lady",
+    "backgroundColor": "#d332ab",
+    "borderColor": "#d332ab",
+    "data": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Mimicking Birds",
+    "backgroundColor": "#47efe7",
+    "borderColor": "#47efe7",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Good Life",
+    "backgroundColor": "#7ff5f9",
+    "borderColor": "#7ff5f9",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Melchor ''El Cruel''",
+    "backgroundColor": "#f9cbb3",
+    "borderColor": "#f9cbb3",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lisa Batiashvili",
+    "backgroundColor": "#79dbfc",
+    "borderColor": "#79dbfc",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tangerine Dream",
+    "backgroundColor": "#f1f484",
+    "borderColor": "#f1f484",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Bob Dylan",
+    "backgroundColor": "#cadd49",
+    "borderColor": "#cadd49",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jon Fratelli",
+    "backgroundColor": "#43aa20",
+    "borderColor": "#43aa20",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Michael Rault",
+    "backgroundColor": "#de64e0",
+    "borderColor": "#de64e0",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Faps",
+    "backgroundColor": "#cc8de8",
+    "borderColor": "#cc8de8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Dilly Dally",
+    "backgroundColor": "#1b2d87",
+    "borderColor": "#1b2d87",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Kinnie Starr",
+    "backgroundColor": "#16f988",
+    "borderColor": "#16f988",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Rae Spoon",
+    "backgroundColor": "#dd7f2c",
+    "borderColor": "#dd7f2c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Phono Pony",
+    "backgroundColor": "#57cc45",
+    "borderColor": "#57cc45",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Dumb",
+    "backgroundColor": "#ed95c8",
+    "borderColor": "#ed95c8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Beatrice Deer",
+    "backgroundColor": "#4b89bc",
+    "borderColor": "#4b89bc",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "I Am The Mountain",
+    "backgroundColor": "#13a3a3",
+    "borderColor": "#13a3a3",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tirzah",
+    "backgroundColor": "#c774e8",
+    "borderColor": "#c774e8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Billy Moon",
+    "backgroundColor": "#13d343",
+    "borderColor": "#13d343",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Dirty Nil",
+    "backgroundColor": "#1022ed",
+    "borderColor": "#1022ed",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Marie Davidson",
+    "backgroundColor": "#68d67e",
+    "borderColor": "#68d67e",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Frontperson",
+    "backgroundColor": "#dd85b1",
+    "borderColor": "#dd85b1",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Suuns",
+    "backgroundColor": "#8740c9",
+    "borderColor": "#8740c9",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Devon Welsh",
+    "backgroundColor": "#bcd8ff",
+    "borderColor": "#bcd8ff",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "jock tears",
+    "backgroundColor": "#f7d1b7",
+    "borderColor": "#f7d1b7",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Major Love",
+    "backgroundColor": "#bbd142",
+    "borderColor": "#bbd142",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Clairmont The Second",
+    "backgroundColor": "#bf933b",
+    "borderColor": "#bf933b",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Maya Killtron",
+    "backgroundColor": "#051f72",
+    "borderColor": "#051f72",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "La Force",
+    "backgroundColor": "#d8c534",
+    "borderColor": "#d8c534",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Valley",
+    "backgroundColor": "#9cf4ae",
+    "borderColor": "#9cf4ae",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Alvvays",
+    "backgroundColor": "#a1b21e",
+    "borderColor": "#a1b21e",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Max Richter Orchestra",
+    "backgroundColor": "#ffb5ad",
+    "borderColor": "#ffb5ad",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ludovico Einaudi",
+    "backgroundColor": "#0f9b65",
+    "borderColor": "#0f9b65",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Philip Glass",
+    "backgroundColor": "#21838c",
+    "borderColor": "#21838c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Porter Robinson",
+    "backgroundColor": "#e0bd6b",
+    "borderColor": "#e0bd6b",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Horrors",
+    "backgroundColor": "#fc25f8",
+    "borderColor": "#fc25f8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Cesare Valletti",
+    "backgroundColor": "#87bfdd",
+    "borderColor": "#87bfdd",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "4 Non Blondes",
+    "backgroundColor": "#07b251",
+    "borderColor": "#07b251",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Tiffany",
+    "backgroundColor": "#f7af6c",
+    "borderColor": "#f7af6c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Q Lazzarus",
+    "backgroundColor": "#f970f5",
+    "borderColor": "#f970f5",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Strokes",
+    "backgroundColor": "#f7d1b9",
+    "borderColor": "#f7d1b9",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Hunters & Collectors",
+    "backgroundColor": "#4d55b7",
+    "borderColor": "#4d55b7",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Darkness",
+    "backgroundColor": "#5ec3f2",
+    "borderColor": "#5ec3f2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Cardigans",
+    "backgroundColor": "#702ab2",
+    "borderColor": "#702ab2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ulysses",
+    "backgroundColor": "#3c59ea",
+    "borderColor": "#3c59ea",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "You Tell Me",
+    "backgroundColor": "#c5a4f9",
+    "borderColor": "#c5a4f9",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Rosemary Fairweather",
+    "backgroundColor": "#f7fcae",
+    "borderColor": "#f7fcae",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Milk & Bone",
+    "backgroundColor": "#acd865",
+    "borderColor": "#acd865",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Meat Puppets",
+    "backgroundColor": "#d82f97",
+    "borderColor": "#d82f97",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Candescents",
+    "backgroundColor": "#4dead3",
+    "borderColor": "#4dead3",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Silverbacks",
+    "backgroundColor": "#027f38",
+    "borderColor": "#027f38",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Be Forest",
+    "backgroundColor": "#2567c4",
+    "borderColor": "#2567c4",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Spielbergs",
+    "backgroundColor": "#e892d8",
+    "borderColor": "#e892d8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Swervedriver",
+    "backgroundColor": "#24f911",
+    "borderColor": "#24f911",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Hope Sandoval",
+    "backgroundColor": "#a615c6",
+    "borderColor": "#a615c6",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Pedro The Lion",
+    "backgroundColor": "#3ae8ae",
+    "borderColor": "#3ae8ae",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ten Fé",
+    "backgroundColor": "#e8a0d8",
+    "borderColor": "#e8a0d8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "French For Rabbits",
+    "backgroundColor": "#92dd54",
+    "borderColor": "#92dd54",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lambchop",
+    "backgroundColor": "#8d75d8",
+    "borderColor": "#8d75d8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Toro Y Moi",
+    "backgroundColor": "#c15b2c",
+    "borderColor": "#c15b2c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Royal Trux",
+    "backgroundColor": "#9694e0",
+    "borderColor": "#9694e0",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "N0V3L",
+    "backgroundColor": "#f71dc0",
+    "borderColor": "#f71dc0",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "SASAMI",
+    "backgroundColor": "#027af2",
+    "borderColor": "#027af2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Otha",
+    "backgroundColor": "#92ed80",
+    "borderColor": "#92ed80",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Modern Talking",
+    "backgroundColor": "#8fef8d",
+    "borderColor": "#8fef8d",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Gipsy Kings",
+    "backgroundColor": "#e084d8",
+    "borderColor": "#e084d8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Emika",
+    "backgroundColor": "#e24fe2",
+    "borderColor": "#e24fe2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Aurora Shields",
+    "backgroundColor": "#f4adc4",
+    "borderColor": "#f4adc4",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Part Time",
+    "backgroundColor": "#47f7c5",
+    "borderColor": "#47f7c5",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Abbi Press",
+    "backgroundColor": "#68c631",
+    "borderColor": "#68c631",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Jaguar Dreams",
+    "backgroundColor": "#f7eda3",
+    "borderColor": "#f7eda3",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Small Million",
+    "backgroundColor": "#4178a8",
+    "borderColor": "#4178a8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Graham Van Pelt",
+    "backgroundColor": "#1e4ca8",
+    "borderColor": "#1e4ca8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Whales & This Lake",
+    "backgroundColor": "#dfffad",
+    "borderColor": "#dfffad",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lo Moon",
+    "backgroundColor": "#3c379e",
+    "borderColor": "#3c379e",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "ASHS",
+    "backgroundColor": "#9f9af9",
+    "borderColor": "#9f9af9",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "MorMor",
+    "backgroundColor": "#6b69ce",
+    "borderColor": "#6b69ce",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The KVB",
+    "backgroundColor": "#ffbfea",
+    "borderColor": "#ffbfea",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "audiobooks",
+    "backgroundColor": "#f9300c",
+    "borderColor": "#f9300c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Zola Jesus",
+    "backgroundColor": "#ff9544",
+    "borderColor": "#ff9544",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Two People",
+    "backgroundColor": "#a0e4e8",
+    "borderColor": "#a0e4e8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Alessandro Ciminata",
+    "backgroundColor": "#c99ee2",
+    "borderColor": "#c99ee2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "T-Rextasy",
+    "backgroundColor": "#a5ffc2",
+    "borderColor": "#a5ffc2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Adam Agin",
+    "backgroundColor": "#76d3d3",
+    "borderColor": "#76d3d3",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ralph",
+    "backgroundColor": "#c68445",
+    "borderColor": "#c68445",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Sara Diamond",
+    "backgroundColor": "#68d337",
+    "borderColor": "#68d337",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lido",
+    "backgroundColor": "#1e7684",
+    "borderColor": "#1e7684",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Christian Sean",
+    "backgroundColor": "#79f2d3",
+    "borderColor": "#79f2d3",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "AURORA",
+    "backgroundColor": "#b6bf37",
+    "borderColor": "#b6bf37",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Swaine Delgado",
+    "backgroundColor": "#ce4d0c",
+    "borderColor": "#ce4d0c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Kents",
+    "backgroundColor": "#79e21d",
+    "borderColor": "#79e21d",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Matty",
+    "backgroundColor": "#abe87f",
+    "borderColor": "#abe87f",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "lemin.",
+    "backgroundColor": "#f27a5c",
+    "borderColor": "#f27a5c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Crush",
+    "backgroundColor": "#fc6655",
+    "borderColor": "#fc6655",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Dermot Kennedy",
+    "backgroundColor": "#d1c9ff",
+    "borderColor": "#d1c9ff",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ryan Hemsworth",
+    "backgroundColor": "#f967fc",
+    "borderColor": "#f967fc",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Soran",
+    "backgroundColor": "#3fffe2",
+    "borderColor": "#3fffe2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Hanne Mjøen",
+    "backgroundColor": "#32a0d3",
+    "borderColor": "#32a0d3",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Dizzy",
+    "backgroundColor": "#7cf99c",
+    "borderColor": "#7cf99c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Mutual Benefit",
+    "backgroundColor": "#ffe9cc",
+    "borderColor": "#ffe9cc",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Park Day",
+    "backgroundColor": "#9dbae8",
+    "borderColor": "#9dbae8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Caiti Baker",
+    "backgroundColor": "#930be2",
+    "borderColor": "#930be2",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Klaus",
+    "backgroundColor": "#f7c98c",
+    "borderColor": "#f7c98c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Benjamin Francis Leftwich",
+    "backgroundColor": "#eae179",
+    "borderColor": "#eae179",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "niña",
+    "backgroundColor": "#7af9f1",
+    "borderColor": "#7af9f1",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Freya Ridings",
+    "backgroundColor": "#b6d850",
+    "borderColor": "#b6d850",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "The Mary Onettes",
+    "backgroundColor": "#4ed880",
+    "borderColor": "#4ed880",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "BRONCHO",
+    "backgroundColor": "#e53437",
+    "borderColor": "#e53437",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "ProbCause",
+    "backgroundColor": "#fcbcff",
+    "borderColor": "#fcbcff",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "LÉON",
+    "backgroundColor": "#e4f49c",
+    "borderColor": "#e4f49c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "GAWVI",
+    "backgroundColor": "#02871a",
+    "borderColor": "#02871a",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lawrence",
+    "backgroundColor": "#1f68ad",
+    "borderColor": "#1f68ad",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Faouzia",
+    "backgroundColor": "#969dea",
+    "borderColor": "#969dea",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Charlotte Cardin",
+    "backgroundColor": "#abb72c",
+    "borderColor": "#abb72c",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Hey Major",
+    "backgroundColor": "#b75916",
+    "borderColor": "#b75916",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Emotional Oranges",
+    "backgroundColor": "#f29fad",
+    "borderColor": "#f29fad",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "K. Roosevelt",
+    "backgroundColor": "#d2f25e",
+    "borderColor": "#d2f25e",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Albin Lee Meldau",
+    "backgroundColor": "#f7e0aa",
+    "borderColor": "#f7e0aa",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Alex Siegel",
+    "backgroundColor": "#ffc9f7",
+    "borderColor": "#ffc9f7",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "ROSALÍA",
+    "backgroundColor": "#b25c1a",
+    "borderColor": "#b25c1a",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Ouri",
+    "backgroundColor": "#e29612",
+    "borderColor": "#e29612",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Blonde Diamond",
+    "backgroundColor": "#75d5dd",
+    "borderColor": "#75d5dd",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Helena Deland",
+    "backgroundColor": "#1eeaa9",
+    "borderColor": "#1eeaa9",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Summer Heart",
+    "backgroundColor": "#30baa0",
+    "borderColor": "#30baa0",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Lennon Stella",
+    "backgroundColor": "#9ddb02",
+    "borderColor": "#9ddb02",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Farao",
+    "backgroundColor": "#3a3dd8",
+    "borderColor": "#3a3dd8",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Melody's Echo Chamber",
+    "backgroundColor": "#52f284",
+    "borderColor": "#52f284",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "LeRiche",
+    "backgroundColor": "#ff630f",
+    "borderColor": "#ff630f",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "UPSAHL",
+    "backgroundColor": "#4a31ed",
+    "borderColor": "#4a31ed",
+    "data": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "label": "Leonard Bernstein, Boston Symphony Orchestra",
+    "backgroundColor": "#aefcce",
+    "borderColor": "#aefcce",
+    "data": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]
